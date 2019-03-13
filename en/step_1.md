@@ -1,20 +1,20 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you will use BlocksCAD to design a 3D printable bug or insect using geometric shapes.
+
+The resulting bug can be 3D printed if you have access to a 3D printer. Once your bug is printed you can add details using a permanent marker pen.
+
+The bugs make great rewards for debugging. 
+
+You'll also use the skills you have learned to have a go at designing your own bug, insect or other creature using geometric shapes. 
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+The finished bug looks like this:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
 ![Complete project](images/showcase_static.png)
---- /print-only ---
+
+Most 3D printers can only print in one colour. If you like, you can add details using a permanent marker to make your bug more interesting.
 
 --- collapse ---
 ---
@@ -22,13 +22,12 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A 3D printer
++ Coloured permanent marker pens
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ This project can be completed in a web browser using [BlocksCAD](https://www.blockscad3d.com/){:target="_blank"}
 
 ### Downloads
 
@@ -41,8 +40,8 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ 3D modelling with geometric shapes (spheres)
++ Using scale to stretch geometic shapes
 
 --- /collapse ---
 
