@@ -9,7 +9,7 @@ You could print using the main colour for your bug and then add details in anoth
 
 Or you could use clear or white filament and then colour in the whole bug. 
 
---- /tasks ---
+--- /task ---
 
 --- task ---
 
@@ -21,7 +21,7 @@ Here are some examples:
 
 ![screenshot](images/bug-decorated.png)
 
---- /tasks ---
+--- /task ---
 
  
 
