@@ -1,13 +1,13 @@
 ## Legs
 
-Now let's add legs to the bug. 
+Now the bug needs some legs.  
 
 --- task ---
 First lets add a pair of legs in the middle of the bug's body.  
 
 Click the `+` at the top of the union block to add another section and add a stretched sphere to make a pair of legs. 
 
-![screenshot](images/bug-legs-middle.png)
+![screenshot](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
@@ -30,7 +30,7 @@ Now add another pair of legs. This time, rotate them by 30 degress so they stick
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has two front legs and two back legs?
+Can you add a third pair of legs so that the bug has two front legs and two back legs? 
 
 Your bug needs to look like this:
 
@@ -38,7 +38,11 @@ Your bug needs to look like this:
 
 --- hints ---
 --- hint ---
- You'll need to add another scaled sphere and `rotate` it in the opposite direction. There are 360 degrees in a circle.
+ You'll need to add another scaled sphere and `rotate`{:class="blockscadtransforms"} it in the opposite direction. There are 360 degrees in a circle.
+
+Here are the blocks you'll need:
+
+![screenshot](images/bug-legs-3-blocks.png)
 
 --- /hint ---
 
@@ -52,6 +56,7 @@ Here's the code you'll need:
 
 --- /hints ---
 --- /task ---
+
 
  
 

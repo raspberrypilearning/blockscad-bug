@@ -12,9 +12,13 @@ You'll also use the skills you have learned to have a go at designing your own b
 
 The finished bug looks like this:
 
-![Complete project](images/showcase_static.png)
+![screenshot](images/bug-complete.png)
 
-Most 3D printers can only print in one colour. If you like, you can add details using a permanent marker to make your bug more interesting.
+If you have access to a 3D printer you can print and decorate your bug.
+
+![Complete project](images/bug-showcase.png)
+
+Most 3D printers can only print in one colour. You can add details using a permanent marker to make your bug more interesting.
 
 --- collapse ---
 ---
