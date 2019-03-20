@@ -20,9 +20,9 @@ Tip: You can change the colour of the rendered model by clicking on the coloured
 --- task ---
 Now let's stretch the sphere along the Y axis to give the bug an elongated body. 
 
-`if`{:class="block3control"}
+`if`
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects in the X, Y and Z directions. Set the Y value to 1.2 to stretch the sphere along the Y-axis. 
+The `scale`{:class="block3control"} {:class="blockscadtransforms"} block allows you to stretch or squash objects in the X, Y and Z directions. Set the Y value to 1.2 to stretch the sphere along the Y-axis. 
 
 ![screenshot](images/bug-body-y.png)
 
