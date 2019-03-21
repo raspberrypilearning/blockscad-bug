@@ -34,7 +34,7 @@ Can you add a third pair of legs so that the bug has two front legs and two back
 
 Your bug needs to look like this:
 
- ![screenshot](images/bug-finished.png)
+![screenshot](images/bug-finished.png)
 
 --- hints ---
 --- hint ---
@@ -42,7 +42,7 @@ Your bug needs to look like this:
 
 Here are the blocks you'll need:
 
-![screenshot](images/bug-legs-3-blocks.png)
+![screenshot](images/bug-legs-blocks.png)
 
 --- /hint ---
 
@@ -50,7 +50,7 @@ Here are the blocks you'll need:
 
 Here's the code you'll need:
 
- ![screenshot](images/bug-legs-3-annotated.png)
+![screenshot](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
