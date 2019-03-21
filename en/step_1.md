@@ -26,8 +26,8 @@ title: What you will need
 ---
 ### Hardware
 
-+ A 3D printer
-+ Coloured permanent marker pens
++ A 3D printer and filament in a colour of your choice. 
++ Coloured permanent marker pens in a choice of colours, metallic colours work well.
 
 ### Software
 
@@ -50,7 +50,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
 You can download the finished project at:
 [http://rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
