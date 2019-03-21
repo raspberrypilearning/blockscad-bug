@@ -3,6 +3,9 @@
 If you have access to a 3D printer then you can 3D print your bug. Most 3D printers will only print with a single colour. You can decorate your bug using permanent marker pens to make it more colourful.
 
 --- task ---
+Render your model and then click `Generate STL`. Remember where you save the file. 
+--- /task ---
+--- task ---
 3D print your bug. 
 
 You could print using the main colour for your bug and then add details in another colour.
