@@ -31,7 +31,7 @@ title: What you will need
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](blockscad3d.com/editor/){:target="_blank"}
++ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
