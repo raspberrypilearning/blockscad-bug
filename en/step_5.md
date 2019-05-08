@@ -1,11 +1,11 @@
-## Legs
+## Create legs
 
-Now the bug needs some legs.  
+Now the bug needs six legs!
 
 --- task ---
-First lets add a pair of legs in the middle of the bug's body.  
+First put a pair of legs in the middle of the bug's body.  
 
-Click the `+` at the top of the union block to add another section and add a stretched sphere to make a pair of legs. 
+Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs. 
 
 ![screenshot](images/bug-legs-middle-annotated.png)
 
@@ -17,20 +17,24 @@ If you like, you can disable the body of the bug to see how the legs are made.
 
 ![screenshot](images/bug-legs-disable.png)
 
-Enable the body again to continue working on your bug. 
+Then enable the body again to continue working on your bug. 
 
 --- /task ---
 
 --- task ---
-Now add another pair of legs. This time, rotate them by 30 degress so they stick out at an angle.
+Now add another pair of legs.
+
+Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
+Now your bug has two middle legs and one front leg and back leg each!
+
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has two front legs and two back legs? 
+Can you add a third pair of legs so that the bug has three complete sets of leg pairs? 
 
 Your bug needs to look like this:
 
@@ -38,9 +42,11 @@ Your bug needs to look like this:
 
 --- hints ---
 --- hint ---
- You'll need to add another scaled sphere and `rotate`{:class="blockscadtransforms"} it in the opposite direction. There are 360 degrees in a circle.
+You need to add a third `scaled` `sphere`.
 
-Here are the blocks you'll need:
+`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+
+Here are the blocks you need:
 
 ![screenshot](images/bug-legs-blocks.png)
 
@@ -48,7 +54,7 @@ Here are the blocks you'll need:
 
 --- hint ---
 
-Here's the code you'll need:
+Here's the code you need:
 
 ![screenshot](images/bug-legs-3-annotated.png)
 
@@ -56,11 +62,3 @@ Here's the code you'll need:
 
 --- /hints ---
 --- /task ---
-
-
- 
-
-
-
-
-  

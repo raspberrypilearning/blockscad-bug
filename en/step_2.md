@@ -1,4 +1,4 @@
-## Give the bug a body
+## Give your bug a body
 
 --- task ---
 
@@ -6,31 +6,35 @@ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www
 
 --- /task ---
 
-Let's create the body of the bug. 
+Now create the body of your bug. 
 
 --- task ---
-Start with a sphere with a diameter of 10mm (1cm):
+Start with a `sphere` with a radius of `10` (the unit here is millimetres):
 
 ![screenshot](images/bug-body-sphere.png)
 
-Click `Render` to see the result. 
+Click on the **Render** button to see the result. 
 
-Tip: You can change the colour of the rendered model by clicking on the coloured square.
+Tip: you can change the colour of the rendered model by clicking on the coloured square.
+
 --- /task ---
 --- task ---
-Now let's stretch the sphere along the Y axis to give the bug an elongated body. 
+Now stretch the sphere along its Y axis to create an elongated body for the bug. 
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects in the X, Y and Z directions. Set the Y value to 1.2 to stretch the sphere along the Y-axis. 
+The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis. 
 
 ![screenshot](images/bug-body-y.png)
 
-Click `Render` and notice that the sphere has been stretched into an ellipsoid. Try looking at your model from different angles so you can see how it has changed. 
+Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed. 
 
 --- /task ---
---- task ---
-Now let's squish the bug a bit along the z-axis to make it flatter. 
 
-Change the Z value in the `scale`{:class="blockscadtransforms"} block to 0.8. Values less than zero make the object smaller in that dimension.
+Tip: every time you make a change to the code, you need to click **Render** to see the results.
+
+--- task ---
+Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+
+Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
 
 ![screenshot](images/bug-body-z.png)
 

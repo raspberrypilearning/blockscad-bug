@@ -1,22 +1,20 @@
-## 3D Printing and Decoration
+## 3D print and decorate your design
 
-If you have access to a 3D printer then you can 3D print your bug. Most 3D printers will only print with a single colour. You can decorate your bug using permanent marker pens to make it more colourful.
+If you have access to a 3D printer, you can now print your bug and then decorate it.
 
 --- task ---
-Render your model and then click `Generate STL`. Remember where you save the file. 
+Render your model and then click **Generate STL**. Remember where you save the STL file. 
 --- /task ---
 --- task ---
-3D print your bug. 
+3D print your bug.
 
-You could print using the main colour for your bug and then add details in another colour.
-
-Or you could use clear or white filament and then colour in the whole bug. 
+You could print using the main colour of your bug, or you could use clear or white filament. 
 
 --- /task ---
 
 --- task ---
 
-Add details using permanent marker pens.  
+Finish your bug using permanent marker pens!
 
 You could colour the head and legs in black, or add spots or stripes in another colour. 
 
