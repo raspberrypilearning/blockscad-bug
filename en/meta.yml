@@ -2,8 +2,8 @@ title: 3D bug
 hero_image: images/banner.png
 description: Design a 3D-printable bug insect with BlocksCAD
 version: 1
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2019-03-21"
 steps:
   - title: Introduction
