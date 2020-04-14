@@ -24,6 +24,7 @@ Most 3D printers can only print in one colour, so you can add details using perm
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 + A 3D printer, and filament in a colour of your choice
