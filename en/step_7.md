@@ -3,9 +3,12 @@
 If you have access to a 3D printer, you can now print your bug and then decorate it.
 
 --- task ---
+
 Render your model and then click **Generate STL**. Remember where you save the STL file. 
+
 --- /task ---
 --- task ---
+
 3D print your bug.
 
 You could print using the main colour of your bug, or you could use clear or white filament. 

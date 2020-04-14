@@ -9,6 +9,7 @@ Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www
 Now create the body of your bug. 
 
 --- task ---
+
 Start with a `sphere` with a radius of `10` (the unit here is millimetres):
 
 ![screenshot](images/bug-body-sphere.png)
@@ -19,6 +20,7 @@ Tip: you can change the colour of the rendered model by clicking on the coloured
 
 --- /task ---
 --- task ---
+
 Now stretch the sphere along its Y axis to create an elongated body for the bug. 
 
 The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis. 
@@ -32,6 +34,7 @@ Click **Render** again and check that the sphere has been stretched into an elli
 Tip: every time you make a change to the code, you need to click **Render** to see the results.
 
 --- task ---
+
 Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
 
 Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
