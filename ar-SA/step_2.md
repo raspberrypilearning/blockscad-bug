@@ -2,43 +2,43 @@
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+افتح محرر برنامج BlocksCAD في متصفح الويب [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+الآن قم بأنشاء جسم الدعسوقة.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+ابدأ بـ `كرة` بنصف قطرها `10` (الوحدة هنا مليمترات):
 
-![screenshot](images/bug-body-sphere.png)
+![لقطة للشاشة](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+انقر فوق زر **Render** لرؤية النتيجة.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+نصيحة: يمكنك تغيير لون النموذج المعروض بالنقر على المربع الملون.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+الآن قم بتمديد الكرة على طول محور Y لإنشاء جسم ممدود للحشرة.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+تسمح لك الكتلة `{`: {= class = "blockscadtransforms"} بتمديد أو سحق الأجسام على طول المحاور X و Y و Z. اضبط القيمة Y على `1.2` لتمديد الكرة على طول المحور Y.
 
-![screenshot](images/bug-body-y.png)
+![لقطة للشاشة](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+انقر فوق ** Render ** مرة أخرى وتحقق من أن الكرة قد تم تمديدها إلى شكل القطع الناقص. انظر إلى نموذجك من زوايا مختلفة حتى تتمكن من معرفة كيف تغير.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+نصيحة: في كل مرة تقوم فيها بتغيير الكود، تحتاج إلى النقر فوق ** Render ** لرؤية النتائج.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+اسحق الآن القطع الناقص قليلاً على طول المحور z لعمل دعسوقة أكثر استواءاً.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+تعيين قيمة محور أقل من `1` يجعل الكائن أصغر على طول هذا المحور. لذا قم بتغيير قيمة Z في كتلة ``scale: "blockscadtransforms"} إلى `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![لقطة للشاشة](images/bug-body-z.png)
 
 --- /task ---
 
