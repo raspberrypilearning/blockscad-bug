@@ -1,14 +1,14 @@
-## Introduction
+## Introduzione
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+In questo progetto, utilizzerai BlocksCAD per progettare una coccinella o un insetto 3D usando forme geometriche.
 
 If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
 
 You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
 
-The bugs make great rewards for debugging!
+I "bug" (insetti) danno grandi ricompense per il debug!
 
-### What you will make
+### Che cosa creerai
 
 The finished bug looks like this:
 
