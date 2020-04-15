@@ -6,29 +6,29 @@
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+للبدء، قم بإنشاء مكعب لتغطية النصف السفلي من الدعسوقة (الجزء الذي يقع أسفل 0 على المحور Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+يجب أن يكون المكعب `بالمنتصف` و بطول 10 ملم (على طول المحور Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+أضف كتلة `translate` لتحريك المكعب -5 ملم على طول المحور Z (لأسفل).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+لتسهيل تمييز المكعب وجسم الدعسوقة عن بعضهما البعض، أضف كتلة `لون` لجعل لون المكعب مختلفًا.
 
-![screenshot](images/bug-body-cuboid.png)
+![لقطة للشاشة](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+المكعب أكبر من جسم الحشرة. هذا يعني أنه يمكنك الإضافة إلى الدعسوقة دون الحاجة إلى تكبير المكعب لاحقًا.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+استخدم كتلة ` difference `{: class = "blockscadsetops"} لإزالة المكعب من الجسم.
 
-![screenshot](images/bug-difference.png)
+![لقطة للشاشة](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+الآن جسم الدعسوقة لديه قاعدة مسطحة!
 
-Drag your model around in the viewer to see it from different angles.
+اسحب النموذج الخاص بك في العارض لرؤيته من زوايا مختلفة.
 
 --- /task ---
 
