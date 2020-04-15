@@ -26,7 +26,7 @@ Il blocco `scala`{:class="blockscadtransforms"} consente di allungare o schiacci
 
 ![screenshot](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Guarda il tuo modello da diverse angolazioni in modo da poter vedere come è cambiato.
+Clicca **Genera 3D** ancora una volta e verifica che la sfera sia stata dilatatata in un ellissoide. Guarda il tuo modello da diverse angolazioni in modo da poter vedere come è cambiato.
 
 --- /task ---
 
