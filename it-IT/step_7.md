@@ -16,7 +16,7 @@ Puoi stampare usando il colore principale del tuo insetto, oppure puoi usare fil
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Termina il tuo insetto usando pennarelli indelebili!
 
 Puoi colorare la testa e le zampe in nero o aggiungere macchie o strisce in un altro colore.
 
