@@ -1,64 +1,64 @@
-## Create legs
+## اصنع الأرجل
 
-Now the bug needs six legs!
+الآن تحتاج الدعسوقة الى ستة أرجل!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+أولاً ضع زوجًا من الساقين في منتصف جسم الحشرة.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+انقر فوق `+` في الجزء العلوي من كتلة `union` لإضافة قسم آخر. أضف ` sphere ` لإنشاء زوج من الأرجل.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![لقطة للشاشة](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+إذا أردت، يمكنك تعطيل جسم الحشرة لترى كيف تصنع الأرجل.
 
-![screenshot](images/bug-legs-disable.png)
+![لقطة للشاشة](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+ثم قم بتمكين الجسم مرة أخرى لمواصلة العمل على الدعسوقة.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+أضف الآن زوجًا آخر من الأرجل.
 
-Your bug needs to look like this:
+أضف ` scaled ` للـ` sphere ` بنفس الإعدادات. ثم قم `بتدوير` بمقدار `30` على طول المحور Z بحيث تلتصق الأرجل بزاوية.
 
-![screenshot](images/bug-finished.png)
+![لقطة للشاشة](images/bug-legs-2-annotated.png)
+
+الآن لدى الدعسوقة ساقين في الوسط وساق أمامية واحدة وساق خلفية لكل منهما!
+
+--- /task ---
+
+--- task ---
+
+هل يمكنك إضافة زوج ثالث من الأرجل بحيث يكون للحشرة ثلاث مجموعات كاملة من أزواج الأرجل؟
+
+يجب أن يبدو شكل الدعسوقة الخاص بك كما يلي:
+
+![لقطة للشاشة](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+تحتاج إلى إضافة `` `المجال`مقياس.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`دوّر`{: class = "blockscadtransforms"} في الاتجاه المعاكس ` للكرة` الثانية. هناك 360 درجة في الدائرة.
 
-Here are the blocks you need:
+إليك الكتل التي تحتاجها:
 
-![screenshot](images/bug-legs-blocks.png)
+![لقطة للشاشة](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+إليك الكود البرمجي الذي تحتاجه:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![لقطة للشاشة](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
