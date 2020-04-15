@@ -1,34 +1,34 @@
-## Add a head to your bug
+## Aggiungi una testa al tuo insetto
 
-Now create a head for the bug.
+Ora crea una testa per l'insetto.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Come testa dell'insetto, aggiungi una `sfera` più piccola. In questo momento non puoi vedere questa nuova sfera, perché è nascosta all'interno del corpo.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Aggiungi anche un blocco `scala` alla nuova `sfera` per modellare la testa.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Quindi aggiungi un blocco `unione`{:class="blockscadsetops"} per combinare testa e corpo.
 
 ![screenshot](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
+Se vuoi vedere la nuova `sfera`, disabilita temporaneamente il corpo facendo clic con il tasto destro del mouse sul blocco `scala`{:class="blockscadtransforms"} e scegliendo **Disattiva blocco**. Così questo blocco e quelli al suo interno vengono disattivati e il corpo non viene visualizzato quando si fa clic su **Genera 3D**.
 
 ![screenshot](images/bug-disable.png)
 
-Right-click on the block again and choose **Enable block** to enable the body.
+Fai di nuovo clic con il pulsante destro del mouse sul blocco e scegli **Attiva blocco** per abilitare il corpo.
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+`Trasla` la testa lungo l'asse Y in modo che sporga dal corpo.
 
   ![screenshot](images/bug-head.png)
 
 --- /task --- --- task ---
 
-If you want to clearly see the different shapes, change the colour of the head.
+Se vuoi vedere chiaramente le diverse forme, cambia il colore della testa.
 
 ![screenshot](images/bug-head-black.png)
 
@@ -36,11 +36,11 @@ You can also experiment with different colour combinations for decorating your p
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+Riesci a cambiare il colore del corpo del tuo modello di insetto? È possibile cambiarlo con il colore del filamento con cui si desidera stamparlo o con il colore del pennarello permanente con cui si vuol colorarlo.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Questo è il blocco che ti serve.
 
 ![screenshot](images/bug-colour-block.png)
 
@@ -48,7 +48,7 @@ This is the block you need.
 
 --- hint ---
 
-Here's an example with a green body:
+Ecco un esempio con un corpo verde:
 
 ![screenshot](images/bug-body-colour.png)
 
