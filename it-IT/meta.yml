@@ -1,0 +1,16 @@
+---
+title: Insetto 3D
+hero_image: images/banner.png
+description: Progetta un insetto stampabile in 3D con BlocksCAD
+version: 1
+listed: true
+copyedit: true
+last_tested: "2019-03-21"
+steps:
+  - title: Introduzione
+  - title: Dai un corpo al tuo insetto
+  - title: Appiattisci la base del corpo
+  - title: Aggiungi una testa al tuo insetto
+  - title: Crea le zampe
+  - title: Progetta il tuo insetto
+  - title: Stampa in 3D e decora il tuo oggetto
