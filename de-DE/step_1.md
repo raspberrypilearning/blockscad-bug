@@ -12,47 +12,47 @@ Die Käfer sind großartige Belohnungen für das Debuggen (englisch für Fehlers
 
 Der fertige Käferr sieht so aus:
 
-![screenshot](images/bug-complete.png)
+![Screenshot](images/bug-complete.png)
 
 Wenn du Zugriff auf einen 3D-Drucker hast, kannst du deinen Käfer ausdrucken und anschließend dekorieren.
 
-![Complete project](images/bug-showcase.png)
+![Fertiges Projekt](images/bug-showcase.png)
 
 Die meisten 3D-Drucker können nur in einer Farbe drucken, aber du kannst mithilfe von Permanent-Markern Details hinzufügen, damit dein Käfer noch besser aussieht.
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Ein 3D-Drucker und ein Filament in einer Farbe deiner Wahl
++ Farbige Permanentmarker in verschiedenen Farben - Metallic-Farben eignen sich gut
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dieses Projekt kann in einem Webbrowser mit BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"} abgeschlossen werden
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D-Modellierung mit geometrischen Formen (Kugeln)
++ Verwenden von `Skalieren` zum Strecken geometischer Formen
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Zusätzliche Informationen für Pädagogen
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Lade den fertigen Projektcode unter [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get) herunter.
 
 --- /collapse ---
