@@ -1,34 +1,34 @@
-## Add a head to your bug
+## Ajoute une tête à ton insecte
 
-Now create a head for the bug.
+Crée maintenant une tête pour l'insecte.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Ajoute une petite `sphère` comme tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Ajoute également un bloc `échelle` à la nouvelle `sphère` pour former la tête.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Ajoute ensuite un bloc `union`{:class="blockscadsetops"} pour combiner la tête et le corps.
 
 ![screenshot](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
+Si tu souhaites voir la nouvelle sphère ``, désactive temporairement le corps en cliquant avec le bouton droit sur son bloc `échelle`{:class="blockscadtransforms"} et en choisissant **Désactivez le bloc**. Ensuite, ce bloc et ceux à l'intérieur sont grisés et le corps n'apparaît pas lorsque tu cliques sur **Rendu**.
 
 ![screenshot](images/bug-disable.png)
 
-Right-click on the block again and choose **Enable block** to enable the body.
+Clique de nouveau avec le bouton droit sur le bloc et choisis **Activer le bloc** pour activer le corps.
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+`Fais une translation` de la tête le long de l'axe Y afin qu'elle dépasse du corps.
 
   ![screenshot](images/bug-head.png)
 
 --- /task --- --- task ---
 
-If you want to clearly see the different shapes, change the colour of the head.
+Si tu veux voir clairement les différentes formes, change la couleur de la tête.
 
 ![screenshot](images/bug-head-black.png)
 
