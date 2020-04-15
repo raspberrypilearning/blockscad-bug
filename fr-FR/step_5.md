@@ -1,64 +1,64 @@
-## Create legs
+## Créer des pattes
 
-Now the bug needs six legs!
+Maintenant, l'insecte a besoin de six pattes !
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Mets d'abord une paire de pattes au milieu du corps de l'insecte.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Clique sur le `+` en haut du bloc `union` pour ajouter une autre section. Ajoute une `sphère` étirée pour créer une paire de pattes.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![capture d'écran](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Si tu le souhaites, tu peux désactiver le corps de l'insecte pour voir comment les pattes sont faites.
 
-![screenshot](images/bug-legs-disable.png)
+![capture d'écran](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Ensuite, réactive le corps pour continuer à travailler sur ton insecte.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Ajoute maintenant une autre paire de pattes.
 
-Your bug needs to look like this:
+Ajoute une autre `sphère` `à l'échelle` avec les mêmes paramètres. Ensuite, `faire pivoter` de `30` degrés le long de l'axe Z de sorte que les pattes dépassent en biais.
 
-![screenshot](images/bug-finished.png)
+![capture d'écran](images/bug-legs-2-annotated.png)
+
+Ton insecte a maintenant deux pattes du milieu et une patte avant et une patte arrière chacune !
+
+--- /task ---
+
+--- task ---
+
+Peux-tu ajouter une troisième paire de pattes pour que l'insecte ait trois ensembles complets de paires de pattes ?
+
+Ton insecte doit ressembler à ceci :
+
+![capture d'écran](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Tu dois ajouter une troisième `sphère` `à l'échelle`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Faire tourner`{:class="blockscadtransforms"} dans la sens opposé à la deuxième `sphère`. Il y a 360 degrés dans un cercle.
 
-Here are the blocks you need:
+Voici les blocs dont tu auras besoin :
 
-![screenshot](images/bug-legs-blocks.png)
+![capture d'écran](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Voici le code que tu as besoin :
 
-![screenshot](images/bug-legs-3-annotated.png)
+![capture d'écran](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
