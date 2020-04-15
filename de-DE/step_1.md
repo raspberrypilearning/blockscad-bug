@@ -1,24 +1,24 @@
-## Introduction
+## Einleitung
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+In diesem Projekt verwendest du BlocksCAD, um einen 3D Käfer oder ein Insekt mit geometrischen Formen zu entwerfen.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Wenn Du Zugriff auf einen 3D-Drucker hast, kannst du den von dir entworfenen Käfer drucken. Wenn dein Käfer gedruckt ist, kannst du Details mit permanenten Markierungsstiften hinzufügen.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Ausserdem wirst du in der Lage sein, die Fähigkeiten, die du gelernt hast, zu nutzen, um deinen eigenen Käfer oder andere Kreaturen aus geometrischen Formen zu entwerfen.
 
-The bugs make great rewards for debugging!
+Die Käfer sind großartige Belohnungen für das Debuggen (englisch für Fehlersuche, Programmierfehler werden auch Bug, also "Käfer", genannt)!
 
-### What you will make
+### Was du machen wirst
 
-The finished bug looks like this:
+Der fertige Käferr sieht so aus:
 
 ![screenshot](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Wenn du Zugriff auf einen 3D-Drucker hast, kannst du deinen Käfer ausdrucken und anschließend dekorieren.
 
 ![Complete project](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Die meisten 3D-Drucker können nur in einer Farbe drucken, aber du kannst mithilfe von Permanent-Markern Details hinzufügen, damit dein Käfer noch besser aussieht.
 
 --- collapse ---
 ---
