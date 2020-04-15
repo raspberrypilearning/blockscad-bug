@@ -10,13 +10,13 @@ Ajoute également un bloc `échelle` à la nouvelle `sphère` pour former la tê
 
 Ajoute ensuite un bloc `union`{:class="blockscadsetops"} pour combiner la tête et le corps.
 
-![screenshot](images/bug-head-hidden.png)
+![capture d'écran](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
 Si tu souhaites voir la nouvelle sphère ``, désactive temporairement le corps en cliquant avec le bouton droit sur son bloc `échelle`{:class="blockscadtransforms"} et en choisissant **Désactivez le bloc**. Ensuite, ce bloc et ceux à l'intérieur sont grisés et le corps n'apparaît pas lorsque tu cliques sur **Rendu**.
 
-![screenshot](images/bug-disable.png)
+![capture d'écran](images/bug-disable.png)
 
 Clique de nouveau avec le bouton droit sur le bloc et choisis **Activer le bloc** pour activer le corps.
 
@@ -24,33 +24,33 @@ Clique de nouveau avec le bouton droit sur le bloc et choisis **Activer le bloc*
 
 `Fais une translation` de la tête le long de l'axe Y afin qu'elle dépasse du corps.
 
-  ![screenshot](images/bug-head.png)
+  ![capture d'écran](images/bug-head.png)
 
 --- /task --- --- task ---
 
 Si tu veux voir clairement les différentes formes, change la couleur de la tête.
 
-![screenshot](images/bug-head-black.png)
+![capture d'écran](images/bug-head-black.png)
 
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Tu peux également expérimenter différentes combinaisons de couleurs pour décorer ton insecte imprimé avec des marqueurs indélébiles.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+Peux-tu changer la couleur du corps de ton modèle d'insecte ? Tu peux le changer à la couleur du filament avec lequel tu souhaites imprimer ou à la couleur du marqueur indélébile avec lequel tu souhaites le colorer.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+C'est le bloc que tu as besoin.
 
-![screenshot](images/bug-colour-block.png)
+![capture d'écran](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Voici un exemple avec un corps vert :
 
-![screenshot](images/bug-body-colour.png)
+![capture d'écran](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
