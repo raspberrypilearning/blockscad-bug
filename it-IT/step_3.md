@@ -1,22 +1,22 @@
 ## Flatten the base of the body
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Ora appiattisci la base del corpo per rendere il tuo insetto più realistico. Un modello con una base piatta è anche più facile da stampare in 3D!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Per fare ciò, puoi semplicemente rimuovere un cuboide dal tuo modello usando il blocco `differenza`{:class="blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Per iniziare, crea un cuboide per coprire la metà inferiore dell'insetto (la parte che si trova sotto lo zero sull'asse Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Il cuboide dovrebbe essere `centrato` e alto 10 mm (lungo l'asse Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Aggiungi un blocco `trasla` per spostare il parallelepipedo -5mm lungo l'asse Z (in basso).
 
 To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
 
 ![screenshot](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Il cuboide è più grande del corpo dell'insetto. Ciò significa che è possibile aggiungere elementi all'insetto senza dover ingrandire il cuboide in seguito.
 
 --- /task ---
 
@@ -26,9 +26,9 @@ Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the
 
 ![screenshot](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Ora il corpo del tuo insetto ha una base piatta!
 
-Drag your model around in the viewer to see it from different angles.
+Trascina il tuo modello nel visualizzatore per vederlo da diverse angolazioni.
 
 --- /task ---
 
