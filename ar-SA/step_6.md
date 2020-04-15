@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## التحدي: قم بتصميم دعسوقة خاصة بك
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+حان الوقت الآن لتصميم الدعسوقة الخاصة بك بأستخدام معرفتك الجديدة بـبرنامج BlocksCAD!
 
-Tips:
+نصائح:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ يمكن لمعظم الطابعات ثلاثية الأبعاد الطباعة بواسطة لون واحد فقط. يمكنك استخدام الألوان في برنامج BlocksCAD لتصميم الشكل الذي تريده ثم إضافة التفاصيل بأقلام التحديد الدائمة بعد الطباعة.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ لا تجعل أي جزء من الدعسوقة نحيفًا جدًا، وإلا فسوف تنكسر بسهولة.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ تجنب إضافة أجزاء فيها فجوات في الأسفل عند طباعتها بالطابعة الثلاثية الأبعاد، لأن الطابعات ثلاثية الأبعاد لا يمكنها الطباعة في الهواء. (من الممكن الطباعة بأستخدام الدعامات لتعليق أجزاء معينة من نموذجك، ولكن هذا يجعل الطباعة أكثر تعقيدًا.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ فكر في حجم الدعسوقة بعد طباعتها. إذا جعلتها كبيرة جدًا، فسيستغرق الأمر وقتًا طويلاً لطباعة وأستخدام الكثير من ألوان الطباعة.
 
 --- /challenge ---
 
