@@ -2,23 +2,23 @@
 
 In questo progetto, utilizzerai BlocksCAD per progettare una coccinella o un insetto 3D usando forme geometriche.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Se hai accesso a una stampante 3D, potrai stampare l'insetto che avrai disegnato. Una volta stampato l'insetto, potrai aggiungere dettagli usando dei pennarelli indelebili.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Sarai anche in grado di usare le abilità che hai acquisito per progettare il tuo insetto o altra creatura usando forme geometriche.
 
 I "bug" (insetti) danno grandi ricompense per il debug!
 
 ### Che cosa creerai
 
-The finished bug looks like this:
+L'insetto finito sarà simile al seguente:
 
 ![screenshot](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Se hai accesso a una stampante 3D, potrai stampare il tuo insetto e poi decorarlo.
 
 ![Progetto completo](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+La maggior parte delle stampanti 3D può stampare solo in un colore, quindi è possibile aggiungere dettagli utilizzando pennarelli indelebili per migliorare ulteriormente l'aspetto dell'insetto.
 
 --- collapse ---
 ---
@@ -27,8 +27,8 @@ title: Di cosa avrai bisogno
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Una stampante 3D e un filamento di un colore a scelta
++ Pennarelli indelebili colorati in vari colori - funzionano bene i colori metallici
 
 ### Software
 
