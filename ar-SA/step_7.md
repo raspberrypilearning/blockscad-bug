@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## قم بتصميم نموذج ثلاثي الأبعاد وتزيينه
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+إذا كان لديك حق الوصول إلى طابعة ثلاثية الأبعاد، يمكنك الآن طباعة الدعسوقة الخاصة بك ثم قم بتزيينها.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+قم بعرض النموذج الخاص بك ثم انقر فوق **إنشاء STL**. تذكر مكان حفظ ملف STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+قم بطباعة الدعسوقة بالطابعة الثلاثية الأبعاد.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+يمكنك الطباعة بأستخدام اللون الرئيسي للدعسوقة، أو يمكنك أستخدام خيوط الالوان للطابعة أو خيوط بيضاء.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+قم بإنهاء الدعسوقة بأستخدام ألوان التلوين الدائمة!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+يمكنك تلوين الرأس والساقين باللون الأسود، أو إضافة بقع أو خطوط بلون آخر.
 
-Here are some examples:
+وهنا بعض الأمثلة:
 
-![screenshot](images/bug-decorated.png)
+![لقطة للشاشة](images/bug-decorated.png)
 
 --- /task ---
 
