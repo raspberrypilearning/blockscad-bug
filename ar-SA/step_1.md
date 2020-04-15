@@ -1,33 +1,33 @@
-## Introduction
+## المقدمة
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+في هذا المشروع، سوف تستخدم برنامج BlocksCAD لتصميم الدعسوقة أو حشرة ثلاثية الأبعاد بأستخدام الأشكال الهندسية.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+إذا كان بإمكانك الوصول إلى طابعة ثلاثية الأبعاد، فيمكنك طباعة الدعسوقة التي صممتها. بمجرد طباعة الدعسوقة، يمكنك إضافة التفاصيل باستخدام أقلام التحديد الدائمة.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+ستتمكن أيضًا من أستخدام المهارات التي تعلمتها لتصميم دعسوقة خاصة بك أو أي مخلوق آخر بأستخدام الأشكال الهندسية.
 
 The bugs make great rewards for debugging!
 
-### What you will make
+### ما الذي سوف تصنعه
 
-The finished bug looks like this:
+يبدو شكل الدعسوقة النهائي كالتالي:
 
 ![screenshot](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+إذا كان بإمكانك الوصول إلى طابعة ثلاثية الأبعاد، فيمكنك طباعة الدعسوقة الخاص بك ثم يمكنك تزيينها.
 
 ![Complete project](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+يمكن لمعظم الطابعات ثلاثية الأبعاد الطباعة بواسطة لون واحد فقط، لذا يمكنك إضافة التفاصيل بأستخدام الاقلام الدائمة لجعل الدعسوقة تبدو بشكل أفضل.
 
 --- collapse ---
 ---
-title: What you will need
+العنوان: ما الذي سوف تحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
-+ A 3D printer, and filament in a colour of your choice
++ طابعة ثلاثية الأبعاد وخيط بلون من اختيارك
 + Coloured permanent marker pens in a range of colours — metallic colours work well
 
 ### Software
