@@ -18,9 +18,9 @@ Puoi stampare usando il colore principale del tuo insetto, oppure puoi usare fil
 
 Finish your bug using permanent marker pens!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Puoi colorare la testa e le zampe in nero o aggiungere macchie o strisce in un altro colore.
 
-Here are some examples:
+Ecco alcuni esempi:
 
 ![screenshot](images/bug-decorated.png)
 
