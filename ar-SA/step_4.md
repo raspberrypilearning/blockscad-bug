@@ -1,14 +1,14 @@
-## Add a head to your bug
+## أضف رأسًا إلى الدعسوقة
 
-Now create a head for the bug.
+الآن قم بإنشاء رأس للدعسوقة.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+أضف `كرة sphere ` أصغر كرأس للدعسوقة. الآن لا يمكنك رؤية هذا الجزء الجديد، لأنه مخفي داخل الجسم.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+قم أيضا بإضافة كتلة `مقياس scale ` إلى `الكرة` الجديدة لتشكيل الرأس.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+ثم قم بإضافة كتلة ` union `{: فئة = "blockscadsetops"} لتجمع بين الرأس والجسم.
 
 ![screenshot](images/bug-head-hidden.png)
 
