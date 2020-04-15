@@ -10,47 +10,47 @@
 
 ثم قم بإضافة كتلة ` union `{: فئة = "blockscadsetops"} لتجمع بين الرأس والجسم.
 
-![screenshot](images/bug-head-hidden.png)
+![لقطة للشاشة](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
+إذا كنت تريد رؤية `الكرة`، الجديدة فقم بتعطيل الجسم مؤقتًا عن طريق النقر بزر الماوس الأيمن على كتلة `scale`{:class="blockscadtransforms"} الخاصة به واختار **تعطيل الكتلة**. ثم هذه الكتلة و تلك التي بداخلها تصبح غير نشطة، ولا يظهر الجسم عند النقر فوق ** Render **.
 
-![screenshot](images/bug-disable.png)
+![لقطة للشاشة](images/bug-disable.png)
 
-Right-click on the block again and choose **Enable block** to enable the body.
-
---- /task --- --- task ---
-
-`Translate` the head along the Y axis so that it sticks out of the body.
-
-  ![screenshot](images/bug-head.png)
+انقر بزر الماوس الأيمن على الكتلة مرة أخرى واختر **Enable block** لتمكين الجسم.
 
 --- /task --- --- task ---
 
-If you want to clearly see the different shapes, change the colour of the head.
+`ترجم` الرأس على طول المحور Y بحيث يخرج من الجسم.
 
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+  ![لقطة للشاشة](images/bug-head.png)
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+إذا كنت تريد أن ترى بوضوح الأشكال المختلفة، قم بتغيير لون الرأس.
+
+![لقطة للشاشة](images/bug-head-black.png)
+
+يمكنك أيضًا تجربة تركيبات ألوان مختلفة لتزيين الدعسوقة المطبوعة باقلام ذات الوان دائمة.
+
+--- /task --- --- task ---
+
+هل يمكنك تغيير لون جسم نموذج الدعسوقة الخاص بك؟ يمكنك تغييره إلى لون الفتيل الخاص بالطابعة الذي تريد طباعته به، أو إلى لون من الالوان الدائمة التي تريد التلوين بها.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+هذه هي الكتلة التي تحتاجها.
 
-![screenshot](images/bug-colour-block.png)
+![لقطة للشاشة](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+إليك مثال بجسم أخضر:
 
-![screenshot](images/bug-body-colour.png)
+![لقطة للشاشة](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
