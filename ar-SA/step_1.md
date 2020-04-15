@@ -12,11 +12,11 @@ The bugs make great rewards for debugging!
 
 يبدو شكل الدعسوقة النهائي كالتالي:
 
-![screenshot](images/bug-complete.png)
+![لقطة للشاشة](images/bug-complete.png)
 
 إذا كان بإمكانك الوصول إلى طابعة ثلاثية الأبعاد، فيمكنك طباعة الدعسوقة الخاص بك ثم يمكنك تزيينها.
 
-![Complete project](images/bug-showcase.png)
+![المشروع كامل](images/bug-showcase.png)
 
 يمكن لمعظم الطابعات ثلاثية الأبعاد الطباعة بواسطة لون واحد فقط، لذا يمكنك إضافة التفاصيل بأستخدام الاقلام الدائمة لجعل الدعسوقة تبدو بشكل أفضل.
 
@@ -28,31 +28,31 @@ The bugs make great rewards for debugging!
 ### الأجهزة
 
 + طابعة ثلاثية الأبعاد وخيط بلون من اختيارك
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ عدد كبير من أقلام التحديد الدائمة الملونة - الألوان البراقة تعمل بشكل جيد
 
-### Software
+### البرامج
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ يمكن إكمال هذا المشروع في متصفح ويب باستخدام BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: ما الذي سوف تتعلمه
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
++ نموذج ثلاثي الأبعاد بأشكال هندسية (كرات)
++ أستخدام ` مقياس ` لتمديد الأشكال الهندسية
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+--- /collapse ---
+
+--- collapse ---
+---
+title: معلومات إضافية للمعلمين
+---
+
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء أستخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+
+قم بتنزيل الكود البرمجي للمشروع النهائي على [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
