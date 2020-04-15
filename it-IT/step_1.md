@@ -16,13 +16,13 @@ The finished bug looks like this:
 
 If you have access to a 3D printer, you can print your bug and then decorate it.
 
-![Complete project](images/bug-showcase.png)
+![Progetto completo](images/bug-showcase.png)
 
 Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
 
 --- collapse ---
 ---
-title: What you will need
+title: Di cosa avrai bisogno
 ---
 
 ### Hardware
@@ -32,27 +32,27 @@ title: What you will need
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Questo progetto può essere completato in un browser Web utilizzando BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Cosa imparerai
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modellazione 3D con forme geometriche (sfere)
++ Usare `scala` per allungare le forme geometriche
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Scarica il codice del progetto finito su [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
