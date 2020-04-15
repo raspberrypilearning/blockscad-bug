@@ -1,16 +1,16 @@
-## 3D print and decorate your design
+## Stampa 3D e decora il tuo oggetto
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Se hai accesso a una stampante 3D, ora puoi stampare il tuo insetto e poi decorarlo.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Genera il modello 3D e quindi fai clic su **Genera STL**. Ricorda dove salvi il file STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Stampa 3D il tuo il insetto.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Puoi stampare usando il colore principale del tuo insetto, oppure puoi usare filamenti neutri o bianchi.
 
 --- /task ---
 
