@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: دعسوقة ثلاثية الأبعاد
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: قم بتصميم حشرة الدعسوقة قابلة للطباعة ثلاثية الأبعاد باستخدام برنامج BlocksCAD
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Give your bug a body
+    title: أعط جسمٌ للحشرة
   - 
-    title: Flatten the base of the body
+    title: افرد قاعدة الجسم
   - 
-    title: Add a head to your bug
+    title: أضف رأسًا إلى الحشرة
   - 
-    title: Create legs
+    title: اصنع الأرجل
   - 
-    title: Design your own bug
+    title: صمم الحشرة
   - 
-    title: 3D print and decorate your design
+    title: قم بالطباعة الثلاثية وزين التصميم الخاص بك
