@@ -1,42 +1,42 @@
-## Give your bug a body
+## Dai un corpo al tuo insetto
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Apri l'editor BlocksCAD in un browser Web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Ora crea il corpo del tuo insetto.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Inizia con una `sfera` con un raggio di `10` (l'unità qui è millimetri):
 
 ![screenshot](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Fai clic sul pulsante **Genera 3D** per vedere il risultato.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Suggerimento: puoi cambiare il colore del modello renderizzato facendo clic sul quadrato colorato.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Ora allunga la sfera lungo il suo asse Y per creare un corpo allungato per l'insetto.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Il blocco `scala`{:class="blockscadtransforms"} consente di allungare o schiacciare gli oggetti lungo gli assi X, Y e Z. Impostare il valore Y su `1.2` per allungare la sfera lungo l'asse Y.
 
 ![screenshot](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Click **Render** again and check that the sphere has been stretched into an ellipsoid. Guarda il tuo modello da diverse angolazioni in modo da poter vedere come è cambiato.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Suggerimento: ogni volta che apporti una modifica al codice, devi fare clic su **Genera 3D** per visualizzare i risultati.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Ora schiaccia un po' l'ellissoide lungo l'asse z per creare un insetto più piatto.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+L'impostazione di un valore dell'asse inferiore a `1` rende l'oggetto più piccolo lungo quell'asse. Quindi cambia il valore Z nel blocco `scala`{:class="blockscadtransforms"} su `0.8`.
 
 ![screenshot](images/bug-body-z.png)
 
