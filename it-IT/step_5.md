@@ -6,7 +6,7 @@ Ora l'insetto ha bisogno di sei zampe!
 
 Per prima cosa metti un paio di zampe al centro del corpo dell'insetto.
 
-Click the `+` at the top of the `union` block to add another section. Aggiungi una `sfera` allungata per creare un paio di zampe.
+Fai clic su `+` nella parte superiore del blocco `unione` per aggiungere un'altra sezione. Aggiungi una `sfera` allungata per creare un paio di zampe.
 
 ![screenshot](images/bug-legs-middle-annotated.png)
 
@@ -26,7 +26,7 @@ Quindi abilita nuovamente il corpo per continuare a lavorare sul tuo insetto.
 
 Ora aggiungi un altro paio di zampe.
 
-Add another `scaled` `sphere` with the same settings. Quindi `ruota` di `30` gradi lungo l'asse Z in modo che le zampe sporgano ad angolo.
+Aggiungi un altro blocco `scala` `sfera` con le stesse impostazioni. Quindi `ruota` di `30` gradi lungo l'asse Z in modo che le zampe sporgano ad angolo.
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
