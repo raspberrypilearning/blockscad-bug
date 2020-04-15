@@ -1,8 +1,8 @@
-## Flatten the base of the body
+## تسوية قاعدة الجسم
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+الآن قم بتسوية قاعدة الجسم لجعل الدعسوقة تبدو بشكل أكثر واقعي. النموذج ذو القاعدة المسطحة أسهل أيضًا في الطباعة ثلاثية الأبعاد!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+للقيام بذلك، يمكنك ببساطة إزالة مكعب من النموذج الخاص بك بأستخدام كتلة ` difference `{: class = "blockscadsetops"}.
 
 --- task ---
 
