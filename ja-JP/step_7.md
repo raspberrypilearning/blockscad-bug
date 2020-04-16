@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3Dプリントでデザインを装飾
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+3Dプリンターにアクセスできる場合は、バグを印刷して装飾することができます。
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+モデルをレンダリングし、[ **Generate STL**]をクリックします。 STLファイルを保存する場所を覚えておいてください。
 
 --- /task --- --- task ---
 
-3D print your bug.
+バグを3Dプリントします。
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+バグのメインカラーを使用して印刷することも、クリアまたは白のフィラメントを使用することもできます。
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+永久マーカーペンを使用してバグを完了してください！
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+頭と脚を黒にしたり、スポットやストライプを別の色に追加したりできます。
 
-Here are some examples:
+ここではいくつかの例を示します。
 
-![screenshot](images/bug-decorated.png)
+![スクリーンショット](images/bug-decorated.png)
 
 --- /task ---
 
