@@ -1,58 +1,58 @@
-## Introduction
+## Введение
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+В этом проекте ты будешь использовать BlocksCAD для создания 3D-жука или насекомого с использованием геометрических фигур.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Если у тебя есть доступ к 3D-принтеру, ты можешь распечатать созданного тобой жука. После того, как твой жук напечатан, ты можешь добавить детали, используя перманентные маркеры.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Ты также сможешь использовать приобретенные навыки для создания собственного жука или другого существа с использованием геометрических фигур.
 
-The bugs make great rewards for debugging!
+Ошибки дают отличную награду за их устранение!
 
-### What you will make
+### Что ты сделаешь
 
-The finished bug looks like this:
+Готовый жук выглядит так:
 
-![screenshot](images/bug-complete.png)
+![снимок экрана](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Если у тебя есть доступ к 3D-принтеру, ты можешь распечатать жука и затем украсить его.
 
-![Complete project](images/bug-showcase.png)
+![Завершенный проект](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Большинство 3D-принтеров могут печатать только в одном цвете, поэтому ты можешь добавлять детали, используя перманентные маркеры, чтобы твой жук выглядел еще лучше.
 
 --- collapse ---
 ---
-title: What you will need
+title: Что тебе понадобится
 ---
 
-### Hardware
+### Оборудование
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D-принтер и нить цвета на твой выбор
++ Цветные перманентные маркеры разных цветов — хорошо подходят металлические цвета
 
-### Software
+### Программное обеспечение
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Этот проект может быть выполнен в веб-браузере с помощью BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чему ты научишься
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D моделированию с использованием геометрических фигур (сфер)
++ Использованию функции `scale` для растяжения геометрических фигур
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Дополнительная информация для педагогов
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Загрузите готовый код проекта по адресу [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
