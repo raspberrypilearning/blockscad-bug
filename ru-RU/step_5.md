@@ -1,64 +1,64 @@
-## Create legs
+## Создаем ноги
 
-Now the bug needs six legs!
+Теперь жук нуждается в шести ногах!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Сначала помести пару ног в середину тела жука.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Нажми `+` вверху блока `union`, чтобы добавить еще одну секцию. Добавь растянутую сферу `sphere`, чтобы создать пару ног.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![снимок экрана](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Если хочешь, ты можешь отключить тело жука, чтобы увидеть, как сделаны ноги.
 
-![screenshot](images/bug-legs-disable.png)
+![снимок экрана](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Затем включи тело снова, чтобы продолжить работу над твоим жуком.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Теперь добавь еще одну пару ног.
 
-Your bug needs to look like this:
+Добавь еще растянутую сферу (`scaled` `sphere`) с теми же настройками. Затем поверни с помощью блока `rotate` на `30` градусов вдоль оси Z, чтобы ножки выступали под углом.
 
-![screenshot](images/bug-finished.png)
+![снимок экрана](images/bug-legs-2-annotated.png)
+
+Теперь у твоего жука две средние ноги, одна передняя и задняя!
+
+--- /task ---
+
+--- task ---
+
+Можешь ли ты добавить третью пару ног, чтобы у жука было три полных набора пар ног?
+
+Твой жук должен выглядеть так:
+
+![снимок экрана](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Тебе нужно добавить третью растянутую сферу (`scaled` `sphere`).
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+Поверни (`Rotate`{:class="blockscadtransforms"}) в направлении, противоположном второй сфере `sphere`. В круге 360 градусов.
 
-Here are the blocks you need:
+Вот блоки, которые тебе понадобятся:
 
-![screenshot](images/bug-legs-blocks.png)
+![снимок экрана](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Вот код, который тебе понадобится:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![снимок экрана](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
