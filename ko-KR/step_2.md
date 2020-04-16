@@ -2,7 +2,7 @@
 
 --- task ---
 
-웹브라우저에서 BlocksCAD 편집기를 엽니다. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
+웹브라우저에서 BlocksCAD 편집기를 엽니다. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
@@ -10,7 +10,7 @@
 
 --- task ---
 
-반경이 `10`인 `sphere`(구)로 시작하십시오(여기서의 단위는 밀리미터입니다):
+radius(반지름)가 `10`인 `sphere`(구)로 시작하십시오(여기서의 단위는 밀리미터입니다):
 
 ![스크린샷](images/bug-body-sphere.png)
 
@@ -36,7 +36,7 @@
 
 이제 Z 축을 따라 타원체를 조금 축소하여 더 평평한 버그를 만들어봅시다.
 
-축 값을 `1` 미만으로 설정하면 해당 축을 따라 오브젝트가 작아집니다. 이제 `scale`{: class = "blockscadtransforms"}(스케일) 블록의 Z 값을 `0.8`로 변경해보세요.
+축 값을 `1` 미만으로 설정하면 해당 축을 따라 오브젝트가 작아집니다. 이제 `scale`{:class="blockscadtransforms"}(스케일) 블록의 Z 값을 `0.8`로 변경해보세요.
 
 ![스크린샷](images/bug-body-z.png)
 
