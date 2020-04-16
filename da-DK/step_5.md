@@ -1,64 +1,64 @@
-## Create legs
+## Opret ben
 
-Now the bug needs six legs!
+Nu skal bugten have seks ben!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Sæt først et par ben midt i bugens krop.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Klik på `+` øverst i `union` blokken for at tilføje et andet afsnit. Tilføj en strakt `sfære` at skabe et par ben.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![screenshots](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Hvis du vil, kan du deaktivere bugten af bugten for at se, hvordan benene er lavet.
 
-![screenshot](images/bug-legs-disable.png)
+![skærmbillede](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Aktivér derefter kroppen igen til at fortsætte med at arbejde på din bug.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Tilføj nu et andet par ben.
 
-Your bug needs to look like this:
+Tilføj endnu `skaleret` `sfære` med de samme indstillinger. Drej derefter `` med `30` aftap langs Z-aksen, så benene stikker ud i en vinkel.
 
-![screenshot](images/bug-finished.png)
+![skærmbillede](images/bug-legs-2-annotated.png)
+
+Nu har din bug to midterste ben og et forben og bagben hver!
+
+--- /task ---
+
+--- task ---
+
+Kan du tilføje et tredje benpar, så bugten har tre komplette sæt benpar?
+
+Din bug skal se sådan ud:
+
+![skærmbillede](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Du skal tilføje et tredje `skaleret` `sfære`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Drej`{: class = "blockscadtransforms"} den i modsat retning fra den anden `sfære`. Der er 360 grader i en cirkel.
 
-Here are the blocks you need:
+Her er de blokke, du har brug for:
 
-![screenshot](images/bug-legs-blocks.png)
+![skærmbillede](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Her er den kode, du har brug for:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![skærmbillede](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
