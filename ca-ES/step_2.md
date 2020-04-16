@@ -1,12 +1,12 @@
-## Give your bug a body
+## Dóna forma a la teva cuca
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Obre l'editor de BlocksCAD en un navegador web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Ara crea el cos de la teva cuca.
 
 --- task ---
 
