@@ -32,7 +32,7 @@ title: 준비물
 
 ### 소프트웨어
 
-+ 이 프로젝트는 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}를 사용하여 웹브라우저에서 모두 완료할 수 있습니다.
++ 이 프로젝트는 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}를 사용하여 웹브라우저에서 모두 완료할 수 있습니다.
 
 --- /collapse ---
 
