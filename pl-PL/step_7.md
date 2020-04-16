@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Wydrukuj 3D i udekoruj swój model
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Jeśli masz dostęp do drukarki 3D, możesz wydrukować zaprojektowanego żuczka i udekorować go.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderuj model, a następnie kliknij **Generuj STL(ang. Generate STL)**. Pamiętaj, gdzie zapisujesz plik STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Wydrukuj swojego żuka w 3D.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Możesz drukować przy użyciu głównego koloru żuka lub możesz użyć przezroczystego lub białego filamentu.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Wykończ swojego żuka za pomocą permanentnych pisaków!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Możesz pokolorować głowę i nogi na czarno lub dodać plamy lub paski w innym kolorze.
 
-Here are some examples:
+Oto kilka przykładów:
 
-![screenshot](images/bug-decorated.png)
+![zrzut ekranu](images/bug-decorated.png)
 
 --- /task ---
 
