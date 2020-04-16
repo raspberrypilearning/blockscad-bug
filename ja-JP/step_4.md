@@ -1,56 +1,56 @@
-## Add a head to your bug
+## バグに頭を追加
 
-Now create a head for the bug.
+バグのヘッドを作成します。
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+小さい `球` をバグの頭として追加します。 現在、この新しい球は体の中に隠されているため、見えません。
 
-Also add a `scale` block to the new `sphere` to shape the head.
+また、新しい `球体` に `スケール` ブロックを追加して、頭を形作ります。
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+次に、 `ユニオン`{：class = "blockscadsetops"}ブロックを追加して、ヘッドとボディを結合します。
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![スクリーンショット](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+新しい `球`を表示する場合は、 `スケール`{：class = "blockscadtransforms"}ブロックを右クリックし、[ **ブロックを無効にする**を選択して、ボディを一時的に無効にします。 次に、このブロックとその中のブロックはグレー表示され、 **Render**をクリックしてもボディは表示されません。
 
-  ![screenshot](images/bug-head.png)
+![スクリーンショット](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+もう一度ブロックを右クリックし、[ **ブロック** を有効にする]を選択してボディを有効にします。
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`頭部をY軸に沿って` し、体から突き出るようにします。
+
+  ![スクリーンショット](images/bug-head.png)
+
+--- /task --- --- task ---
+
+さまざまな形をはっきりと見たい場合は、頭の色を変更してください。
+
+![スクリーンショット](images/bug-head-black.png)
+
+さまざまな色の組み合わせを試し、印刷したバグを永続的なマーカーで装飾することもできます。
+
+--- /task --- --- task ---
+
+バグモデルのボディの色を変更できますか？ 印刷したいフィラメントの色や、色を付けたいパーマネントマーカーの色に変更できます。
 
 --- hints --- --- hint ---
 
-This is the block you need.
+これはあなたが必要とするブロックです。
 
-![screenshot](images/bug-colour-block.png)
+![スクリーンショット](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+緑のボディの例を次に示します。
 
-![screenshot](images/bug-body-colour.png)
+![スクリーンショット](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
