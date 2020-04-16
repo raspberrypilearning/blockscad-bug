@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Desafio: cria o teu próprio inseto
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Agora está na hora de criares o teu próprio inseto utilizando os teus novos conhecimentos sobre BlocksCAD!
 
-Tips:
+Dicas:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ A maior parte das impressoras 3D só imprime com uma cor. Podes usar cores no BlocksCAD para criar a aparência desejada e adicionar detalhes com canetas permanentes após a impressão.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Não faças com que qualquer parte do teu bug fique muito fina para que não quebre facilmente.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Evita usar peças que tenham espaços abaixo delas quando pretendes imprimir em 3D, porque as impressoras 3D não conseguem imprimir no ar. (É possível fazer impressões usando suportes para sustentar partes do teu modelo, mas isso torna a impressão mais complicada.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Pensa no tamanho do teu inseto. Se o tornar fizeres muito grande, levará muito tempo a imprimir e irá urilizar muito filamento.
 
 --- /challenge ---
 
