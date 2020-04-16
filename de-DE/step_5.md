@@ -1,64 +1,64 @@
-## Create legs
+## Erstelle Beine
 
-Now the bug needs six legs!
+Jetzt braucht der Käfer sechs Beine!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Platziere zuerst ein Beinpaar in die Mitte des Körpers des Käfers.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Klicke oben im `vereinigungs` Block auf `+`, um einen weiteren Abschnitt hinzuzufügen. Füge eine gestreckte `Kugel` hinzu, um ein Beinpaar zu erstellen.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![Screenshot](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Wenn du möchtest, kannst du den Körper des Käfers deaktivieren, um zu sehen, wie die Beine erstellt werden.
 
-![screenshot](images/bug-legs-disable.png)
+![Screenshot](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Aktiviere dann den Körper wieder, um weiter an deinem Käfer zu arbeiten.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Füge nun ein weiteres Paar Beine hinzu.
 
-Your bug needs to look like this:
+Füge eine weitere `skalierte` `Kugel` mit denselben Einstellungen hinzu. Dann `rotiere` sie um `30` Grad entlang der Z-Achse, so dass die Beine schräg herausragen.
 
-![screenshot](images/bug-finished.png)
+![Screenshot](images/bug-legs-2-annotated.png)
+
+Jetzt hat dein Käfer zwei Mittelbeine und je ein Vorder- und Hinterbein!
+
+--- /task ---
+
+--- task ---
+
+Kannst du ein drittes Beinpaar hinzufügen, sodass der Käfer drei vollständige Beinpaare hat?
+
+Dein Käfer muss folgendermaßen aussehen:
+
+![Screenshot](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Du musst eine dritte `skalierte` `Kugel`hinzufügen.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Rotiere`{:class="blockscadtransforms"} sie in die entgegengesetzte Richtung der zweiten `Kugel`. Es gibt 360 Grad in einem Kreis.
 
-Here are the blocks you need:
+Hier sind die Blöcke, die du brauchst:
 
-![screenshot](images/bug-legs-blocks.png)
+![Screenshot](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Hier ist der Code, den du brauchst:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![Screenshot](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
