@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D drucke und dekoriere dein Design
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Wenn du Zugriff auf einen 3D-Drucker hast, kannst du deinen Käfer jetzt drucken und dann dekorieren.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Rendere dein Modell und klicke dann auf **Generieren STL**. Merke dir, wo du die STL-Datei speicherst.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D drucke deinen Käfer.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Du könntest mit der Hauptfarbe deines Käfers oder mit klarem oder weißem Filament drucken.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Vervollständige deinen Käfer mit Permanentmarkern!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Du könntest Kopf und Beine schwarz färben oder Flecken oder Streifen in einer anderen Farbe hinzufügen.
 
-Here are some examples:
+Hier sind einige Beispiele:
 
-![screenshot](images/bug-decorated.png)
+![Screenshot](images/bug-decorated.png)
 
 --- /task ---
 
