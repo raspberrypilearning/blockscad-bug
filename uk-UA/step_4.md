@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Додайте голову до вашої помилки
 
-Now create a head for the bug.
+Тепер створіть голову про помилку.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Додайте меншу `сферу` як голову помилки. Зараз ви не можете побачити цю нову сферу, оскільки вона прихована всередині тіла.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Також додайте блок `масштабу` до нової `сфери` для формування голови.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Потім додайте блок `союз`{: class = "blockscadsetops"}, щоб поєднати голову та тіло.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![знімок екрана](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Якщо ви хочете побачити нову `сферу`, а потім тимчасово відключити тіло , клацнувши правою кнопкою миші на його `масштабі`{: клас = "blockscadtransforms»} блок і вибирають **Відключити блок**. Потім цей блок і ті, хто знаходиться всередині нього, затьмарюються, і тіло не з’являється, коли ви натискаєте **Render**.
 
-  ![screenshot](images/bug-head.png)
+![скріншот](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Клацніть ще раз правою кнопкою миші на блоці та виберіть **Увімкнути блок** щоб активувати тіло.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Переведіть` голову вздовж осі Y, щоб вона стирчала з тіла.
+
+  ![скріншот](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Якщо ви хочете чітко бачити різні форми, змініть колір голови.
+
+![скріншот](images/bug-head-black.png)
+
+Ви також можете експериментувати з різними поєднаннями кольорів для прикраси друкованої помилки постійними маркерами.
+
+--- /task --- --- task ---
+
+Чи можете ви змінити колір корпусу вашої моделі помилок? Ви можете змінити його на колір нитки, з яким ви хочете друкувати, або на колір постійного маркера, з яким ви хочете його забарвити.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Це той блок, який вам потрібен.
 
-![screenshot](images/bug-colour-block.png)
+![скріншот](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Ось приклад із зеленим тілом:
 
-![screenshot](images/bug-body-colour.png)
+![скріншот](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
