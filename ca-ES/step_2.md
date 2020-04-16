@@ -14,7 +14,7 @@ Comença amb un bloc `sphere (esfera)` de radi `10` (la unitat aquí és en mil�
 
 ![captura de pantalla](images/bug-body-sphere.png)
 
-Fes clic al botó **Render** per veure el resultat.
+Fes clic al botó **Render (Fer)** per veure el resultat.
 
 Consell: pots canviar el color del model generat fent clic al quadrat de colors.
 
@@ -30,7 +30,7 @@ Fes clic **Render** de nou i comprova que l'esfera s'ha estirat en un el·lipsoi
 
 --- /task ---
 
-Consell: cada vegada que es realitza un canvi en el codi, s'ha de fer clic a **Render** per veure els resultats.
+Consell: cada vegada que facis un canvi en el codi, s'ha de fer clic a **Render** per veure els resultats.
 
 --- task ---
 
