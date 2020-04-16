@@ -1,6 +1,6 @@
 ## Aplana la base del cos
 
-Ara aplana la base del cos per fer la teva cuca més realista. Un model amb base plana també és més fàcil d'imprimir en 3D.
+Ara aplana la base del cos per fer la teva cuca més realista. Un model amb base plana també és més fàcil d'imprimir en 3D!
 
 Per fer-ho, simplement pots eliminar un cuboide del teu model mitjançant el block `difference`{:class="blockscadsetops"}.
 
