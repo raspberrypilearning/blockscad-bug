@@ -1,44 +1,44 @@
-## Give your bug a body
+## Hrošču daj telo
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Odpri urejevalnik BlocksCAD v spletnem brskalniku [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Zdaj pa ustvari telo hrošča.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Začni s `kroglo`, ki ima polmer `10` (enota je v milimetrih):
 
-![screenshot](images/bug-body-sphere.png)
+![posnetek zaslona](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Za prikaz rezultata klikni gumb **Izriši**.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Nasvet: barvo izrisanega modela lahko spremeniš s klikom na barvni kvadrat.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Zdaj raztegni kroglo vzdolž osi Y, da ustvariš podolgovato telo hrošča.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Blok `merilo`{: class = "blockcadtransforms"} ti omogoča, da raztegneš ali stisneš predmet vzdolž osi X, Y ali Z. Nastavi vrednost Y na `1.2`, da raztegneš kroglo vzdolž osi Y.
 
-![screenshot](images/bug-body-y.png)
+![posnetek zaslona](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Znova klikni **Izriši** in poglej, ali je krogla raztegnjena v elipsoid. Oglej si svoj model z različnih zornih kotov, da bosš videl, kako se je spremenil.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Nasvet: vsakič, ko spremeniš kodo, moraš klikniti **Izriši**, da vidiš rezultat.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Zdaj elipsoid nekoliko stisni vzdolž osi z, da postane hrošč bolj sploščen.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Če nastaviš vrednost osi pod `1` se objekt zmanjša po tej osi. Spremeni torej vrednost Z v bloku `merilo`{: class = "blockscadtransforms"} na `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![posnetek zaslona](images/bug-body-z.png)
 
 --- /task ---
 
