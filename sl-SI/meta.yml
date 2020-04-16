@@ -1,0 +1,16 @@
+---
+title: 3D hrošč
+hero_image: images/banner.png
+description: Z BlocksCAD oblikuj 3D žuželko, ki jo je mogoče natisniti s 3D tiskalnikom
+version: 1
+listed: true
+copyedit: true
+last_tested: "2019-03-21"
+steps:
+  - title: Uvod
+  - title: Hrošču daj telo
+  - title: Splošči dno telesa
+  - title: Hrošču dodaj glavo
+  - title: Ustvari noge
+  - title: "Izziv: oblikuj svojega lastnega hrošča"
+  - title: 3D natisni hrošča 3D in naredi svoj dizajn
