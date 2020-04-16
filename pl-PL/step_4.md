@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Dodaj głowę do swojego żuczka
 
-Now create a head for the bug.
+Teraz stwórz głowę żuka.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Dodaj mniejszą `sferę` jako głowę robaka. W tej chwili nie możesz zobaczyć tej nowej sfery, ponieważ jest ona ukryta w tułowiu.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Dodaj również blok `skaluj` do nowej `sfery` aby ukształtować głowę.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Następnie dodaj blok `połącz(ang. union)`{:class="blockscadsetops"}, aby połączyć głowę z tułowiem.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![zrzut ekranu](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Jeśli chcesz zobaczyć nową `sferę`, tymczasowo wyłącz tułów, klikając prawym przyciskiem myszy jego bloku `scale`{:class="blockscadtransforms"} i wybierając **Wyłącz blok(ang. Disable block)**. Następnie ten blok i pozostałe znajdujące się w nim są wyszarzone, a tułów nie pojawia się po kliknięciu **Render**.
 
-  ![screenshot](images/bug-head.png)
+![zrzut ekranu](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Kliknij blok ponownie prawym przyciskiem myszy i wybierz **Włącz blok(ang. Enable block)** aby włączyć tułów.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Przenieś` głowę wzdłuż osi Y, aby wystawała z ciała.
+
+  ![zrzut ekranu](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Jeśli chcesz wyraźnie widzieć różne kształty, zmień kolor głowy.
+
+![zrzut ekranu](images/bug-head-black.png)
+
+Możesz także eksperymentować z różnymi kombinacjami kolorów do ozdabiania wydrukowanego żuka permanentnymi pisakami.
+
+--- /task --- --- task ---
+
+Czy możesz zmienić kolor tułowia swojego modelu owada? Możesz zmienić go na kolor filamentu, którym chcesz go wydrukować, lub na kolor permanentnego pisaka, którym chcesz go pokolorować.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+To jest blok, którego potrzebujesz.
 
-![screenshot](images/bug-colour-block.png)
+![zrzut ekranu](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Oto przykład z zielonym tułowiem:
 
-![screenshot](images/bug-body-colour.png)
+![zrzut ekranu](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
