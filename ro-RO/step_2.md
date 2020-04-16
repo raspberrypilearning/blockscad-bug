@@ -1,44 +1,44 @@
-## Give your bug a body
+## Dă-ți un corp de eroare
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Deschide editorul BlocksCAD într-un browser web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Acum creează corpul erorii tale.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Începeți cu `sferă` cu o rază de `10` (unitatea de aici este milimetrică):
 
-![screenshot](images/bug-body-sphere.png)
+![captură de ecran](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Faceți clic pe butonul **Render** pentru a vedea rezultatul.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Sfat: puteți modifica culoarea modelului redat făcând clic pe pătratul colorat.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Acum întinde sfera de-a lungul axei sale Y pentru a crea un corp alungit pentru bug.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Blocul `scara`{: class = "blockcadtransforms"} vă permite să întindeți sau să stricați obiecte de-a lungul axelor X, Y și Z. Setați valoarea Y la `1,2` pentru a întinde sfera de-a lungul axei Y.
 
-![screenshot](images/bug-body-y.png)
+![captură de ecran](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Faceți clic pe **Render** din nou și verificați dacă sfera a fost întinsă într - un elipsoid. Privește-ți modelul din diferite unghiuri pentru a putea vedea cum s-a schimbat.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Sfat: de fiecare dată când efectuați o modificare a codului, trebuie să faceți clic pe **Render** pentru a vedea rezultatele.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Acum zdrobiți elipsoidul un pic de-a lungul axei z pentru a face un bug mai plat.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Setarea unei valori a axei sub `1` face ca obiectul să fie mai mic de-a lungul acelei axe. Așadar, modificați valoarea Z în scara ``{: class = "blockcadtransforms"} bloc la `0,8`.
 
-![screenshot](images/bug-body-z.png)
+![captură de ecran](images/bug-body-z.png)
 
 --- /task ---
 
