@@ -1,58 +1,58 @@
-## Introduction
+## Wprowadzenie
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+W tym projekcie użyjesz BlocksCAD do zaprojektowania trójwymiarowego żuczka lub owada przy użyciu kształtów geometrycznych.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Jeśli masz dostęp do drukarki 3D, możesz wydrukować zaprojektowanego żuczka. Po wydrukowaniu żuczka, możesz dodać szczegółowe informacje za pomocą trwałych/permanentnych pisaków.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Będziesz także mógł wykorzystać umiejętności, których nauczyłeś się, do projektowania własnego owada lub innego stworzenia za pomocą kształtów geometrycznych.
 
-The bugs make great rewards for debugging!
+Bugi(ang."bug" oznacza zarówno "błąd" jak i "owada") stanowią świetne nagrody za debugowanie(usuwanie błędów)!
 
-### What you will make
+### Co stworzysz
 
-The finished bug looks like this:
+Gotowy żuczek wygląda następująco:
 
-![screenshot](images/bug-complete.png)
+![zrzut ekranu](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Jeśli masz dostęp do drukarki 3D, możesz wydrukować zaprojektowanego żuczka i udekorować go.
 
-![Complete project](images/bug-showcase.png)
+![Skończony projekt](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Większość drukarek 3D może drukować tylko w jednym kolorze, dzięki czemu możesz dodawać szczegóły za pomocą trwałych markerów, aby Twój żuczek wyglądał jeszcze lepiej.
 
 --- collapse ---
 ---
-title: What you will need
+title: Czego będziesz potrzebować
 ---
 
-### Hardware
+### Sprzęt
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Drukarka 3D i filament(materiał którym się drukuje) w wybranym kolorze
++ Kolorowe markery permanentne w różnych kolorach - dobrze sprawdzają się kolory metaliczne
 
-### Software
+### Oprogramowanie
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Ten projekt można ukończyć w przeglądarce internetowej za pomocą BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Czego się nauczysz
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modelowanie 3D z kształtami geometrycznymi (kulami)
++ Używanie `skalowania` do rozciągania kształtów geometrycznych
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Dodatkowe informacje dla nauczycieli
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Pobierz gotowy kod projektu ze strony [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
