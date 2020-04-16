@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Fflatiwch waelod y corff
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Nawr gwastatiwch waelod y corff i wneud eich nam yn fwy realistig. Mae model gyda sylfaen wastad hefyd yn haws ei argraffu 3D!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+I wneud hyn, gallwch chi dynnu ciwboid o'ch model gan ddefnyddio'r bloc `gwahaniaeth`{: class = "bloccadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+I ddechrau, crëwch giwboid i orchuddio hanner isaf y byg (y rhan sy'n eistedd o dan 0 ar yr echel Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Dylai'r ciwboid fod yn `ganolog` a 10mm o daldra (ar hyd yr echel Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Ychwanegwch floc `translate` i symud y ciwboid -5mm ar hyd yr echel Z (i lawr).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Er mwyn ei gwneud hi'n hawdd dweud wrth y ciwboid a chorff eich byg ar wahân, ychwanegwch floc `lliw` i wneud y ciwboid yn lliw gwahanol.
 
-![screenshot](images/bug-body-cuboid.png)
+![sgrinlun](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Mae'r ciwboid yn fwy na chorff y byg. Mae hyn yn golygu y gallwch chi ychwanegu at y nam heb orfod gwneud y ciwboid yn fwy yn ddiweddarach.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Defnyddiwch floc `gwahaniaeth`{: class = "bloccadsetops"} i dynnu'r ciwboid o'r corff.
 
-![screenshot](images/bug-difference.png)
+![sgrinlun](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Nawr mae gan gorff eich byg sylfaen wastad!
 
-Drag your model around in the viewer to see it from different angles.
+Llusgwch eich model o gwmpas yn y gwyliwr i'w weld o wahanol onglau.
 
 --- /task ---
 
