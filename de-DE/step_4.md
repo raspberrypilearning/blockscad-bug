@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Füge deinem Käfer einen Kopf hinzu
 
-Now create a head for the bug.
+Erstelle nun einen Kopf für den Käfer.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Füge eine kleinere `Kugel` als Kopf für den Käfer hinzu. Im Moment kannst du diese neue Kugel nicht sehen, weil sie im Körper versteckt ist.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Füge der neuen `Kugel` auch einen `skalieren` Block hinzu, um den Kopf zu formen.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Füge dann einen `vereinigung`{:class="blockscadsetops"} Block hinzu, um Kopf und Körper zu kombinieren.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![Screenshot](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Wenn du die neue `Kugel` sehen willst, dann deaktiviere den Körper vorübergehend, indem du mit der rechten Maustaste auf seinen `skalieren`{:class=„blockscadtransforms“} Block klickst und **Baustein deaktivieren** auswählst. Dann sind dieser Block und die darin enthaltenen ausgegraut und der Körper wird nicht angezeigt, wenn du auf **Rendern** klickst.
 
-  ![screenshot](images/bug-head.png)
+![Screenshot](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Klicke erneut mit der rechten Maustaste auf den Block und wähle **Baustein aktivieren**, um den Körper zu aktivieren.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Verschiebe` den Kopf entlang der Y-Achse so, dass er aus dem Körper herausragt.
+
+  ![Screenshot](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Wenn du die verschiedenen Formen deutlich sehen möchtest, ändere die Farbe des Kopfes.
+
+![Screenshot](images/bug-head-black.png)
+
+Du kannst auch mit verschiedenen Farbkombinationen experimentieren, um deinen gedruckten Käfer mit Permanentmarkern zu dekorieren.
+
+--- /task --- --- task ---
+
+Kannst du die Farbe des Körpers deines Käfer-Modells ändern? Du könntest sie zur Farbe des Filaments ändern, mit dem du drucken möchtest oder zur Farbe des Permanentmarkers, mit dem du es färben möchtest.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Dies ist der Block, den du benötigst.
 
-![screenshot](images/bug-colour-block.png)
+![Screenshot](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Hier ist ein Beispiel mit einem grünen Körper:
 
-![screenshot](images/bug-body-colour.png)
+![Screenshot](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
