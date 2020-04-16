@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D-print og dekorér dit design
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Hvis du har adgang til en 3D-printer, kan du nu udskrive din fejl og derefter dekorere den.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Gengiv din model, og klik derefter på **Generer STL**. Husk, hvor du gemmer STL-filen.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D-udskriv din fejl.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Du kan udskrive ved hjælp af hovedfarven på din bug, eller du kan bruge klar eller hvid filament.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Afslut din bug ved hjælp af permanente markørpenne!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Du kan farve hovedet og benene i sort eller tilføje pletter eller striber i en anden farve.
 
-Here are some examples:
+Her er nogle eksempler:
 
-![screenshot](images/bug-decorated.png)
+![skærmbillede](images/bug-decorated.png)
 
 --- /task ---
 
