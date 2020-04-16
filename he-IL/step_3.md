@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## משטחים את בסיס הגוף
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+כעת משטחים את בסיס הגוף כדי להפוך את הבאג שלך ליותר מציאותי. דגם עם בסיס שטוח קל גם יותר להדפסת תלת מימד!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+כדי לעשות זאת, אתה יכול פשוט להסיר קוביות מהדגם שלך באמצעות `הבדל`{: class = "blockscadsetops"} לחסום.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+כדי להתחיל, צור קובואידית לכיסוי המחצית התחתונה של החיידק (החלק שיושב מתחת ל 0 בציר Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+הקובויד צריך להיות `במרכזו` ו- 10 מ"מ (לאורך ציר ה- Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+הוסף חסימה `לתרגם` כדי להזיז את הקובויד -5 מ"מ לאורך ציר Z (למטה).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+כדי להקל על הפרדת הקובויד וגוף החיידק שלך, הוסף בלוק `בצבע` כדי להפוך את הקובויד לצבע אחר.
 
-![screenshot](images/bug-body-cuboid.png)
+![צילום מסך](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+הקובויד גדול מגופו של החיידק. משמעות הדבר היא שאתה יכול להוסיף לבאג בלי שתצטרך להגדיל את הקובויד בהמשך.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+השתמש בחסימה `בהפרש`{: class = "blockscadsetops"} כדי להסיר את הקובויד מהגוף.
 
-![screenshot](images/bug-difference.png)
+![צילום מסך](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+עכשיו לגוף הבאג שלך יש בסיס שטוח!
 
-Drag your model around in the viewer to see it from different angles.
+גרור את הדגם שלך בצופה כדי לראות אותו מזוויות שונות.
 
 --- /task ---
 
