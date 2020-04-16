@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Imprima em 3D e decora o teu inseto
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Se tiveres acesso a uma impressora 3D, poderás imprimir o inseto e decorá-lo.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderiza o teu modelo e clica em **Generate STL**. Memoriza o local em que estás a salvar o arquivo STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Imprime o teu inseto em 3D.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Podes imprimir usando a cor principal do teu inseto ou usar filamento claro ou branco.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Termina o teu inseto com canetas permanentes!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Podes pintar a cabeça e as pernas de preto ou adicionar pontos ou listas de outra cor.
 
-Here are some examples:
+Aqui estão alguns exemplos:
 
-![screenshot](images/bug-decorated.png)
+![captura de ecrã](images/bug-decorated.png)
 
 --- /task ---
 
