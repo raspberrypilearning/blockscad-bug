@@ -1,44 +1,44 @@
-## Give your bug a body
+## Подаруйте своєму клопі тіло
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Відкрийте редактор BlocksCAD у веб-браузері [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Тепер створіть тіло вашої помилки.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Почнемо з `сфери` з радіусом `10` (блок тут міліметрів):
 
-![screenshot](images/bug-body-sphere.png)
+![знімок екрану](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Клацніть на кнопці **Render** щоб побачити результат.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Порада: ви можете змінити колір наданої моделі, натиснувши на кольоровий квадрат.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Тепер розтягніть сферу вздовж осі Y, щоб створити витягнуте тіло для клопа.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Блок `шкала`{: class = "блокуєтрансформації"} дозволяє розтягувати або розминати об'єкти вздовж осей X, Y і Z. Встановіть значення Y на `1,2` щоб розтягнути сферу вздовж осі Y.
 
-![screenshot](images/bug-body-y.png)
+![скріншот](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Клацніть **Знову** ще раз і перевірте, чи сфера розтягнута на еліпсоїд. Подивіться на свою модель з різних кутів, щоб побачити, як вона змінилася.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Порада: кожного разу, коли ви вносите зміни до коду, вам потрібно натиснути **Візуалізувати** щоб побачити результати.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Тепер розчавіть еліпсоїд трохи вздовж осі z, щоб зробити більш пологий помилку.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Встановлення значення осі нижче `1` робить об'єкт меншим уздовж цієї осі. Тож змініть значення Z у блоці `шкали`{: class = "блокирує переклади"} на `0,8`.
 
-![screenshot](images/bug-body-z.png)
+![скріншот](images/bug-body-z.png)
 
 --- /task ---
 
