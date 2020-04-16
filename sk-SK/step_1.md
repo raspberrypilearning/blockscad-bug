@@ -1,58 +1,58 @@
-## Introduction
+## Úvod
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+V tomto projekte použijete BlocksCAD na navrhnutie 3D chyby alebo hmyzu pomocou geometrických tvarov.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Ak máte prístup k 3D tlačiarni, môžete vytlačiť navrhnutú chybu. Po vytlačení chyby môžete pridať podrobnosti pomocou permanentných popisovacích pier.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Budete tiež môcť využiť zručnosti, ktoré ste sa naučili, navrhnúť svoju vlastnú chybu alebo inú bytosť pomocou geometrických tvarov.
 
-The bugs make great rewards for debugging!
+Chyby robia skvelé odmeny za ladenie!
 
-### What you will make
+### Čo vytvoríš
 
-The finished bug looks like this:
+Hotová chyba vyzerá takto:
 
-![screenshot](images/bug-complete.png)
+![snímka obrazovky](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Ak máte prístup k 3D tlačiarni, môžete chybu vytlačiť a potom ju vyzdobiť.
 
-![Complete project](images/bug-showcase.png)
+![Hotový projekt](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Väčšina 3D tlačiarní môže tlačiť iba v jednej farbe, takže môžete pridať podrobnosti pomocou trvalých značiek, aby vaša chyba vyzerala ešte lepšie.
 
 --- collapse ---
 ---
-title: What you will need
+title: Čo budeš potrebovať
 ---
 
-### Hardware
+### Hardvér
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D tlačiareň a vlákno vo farbe podľa vášho výberu
++ Farebné permanentné popisovacie perá v rôznych farbách - metalické farby fungujú dobre
 
-### Software
+### Softvér
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Tento projekt je možné dokončiť vo webovom prehliadači pomocou BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Čo sa naučíš
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D modelovanie s geometrickými tvarmi (gule)
++ Pomocou `stupnice` roztiahnite geometické tvary
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Doplňujúce informácie pre vyučujúcich
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Ak potrebujete tento projekt vytlačiť, použite [ verziu pre tlač ](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {: target = "_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Stiahnite si hotový kód projektu na [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
