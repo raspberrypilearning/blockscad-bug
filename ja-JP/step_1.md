@@ -1,58 +1,58 @@
-## Introduction
+## はじめに
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+このプロジェクトでは、BlocksCADを使用して、幾何学的形状を使用して3Dバグまたは昆虫を設計します。
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+3Dプリンターにアクセスできる場合は、設計したバグを印刷できます。 バグが印刷されたら、恒久的なマーカーペンを使用して詳細を追加できます。
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+また、学習したスキルを使用して、幾何学的形状を使用して独自のバグや他の生き物をデザインすることもできます。
 
-The bugs make great rewards for debugging!
+バグはデバッグに大きな報酬を与えます！
 
-### What you will make
+### 作るもの
 
-The finished bug looks like this:
+完成したバグは次のようになります。
 
-![screenshot](images/bug-complete.png)
+![スクリーンショット](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+3Dプリンターにアクセスできる場合は、バグを印刷して装飾することができます。
 
-![Complete project](images/bug-showcase.png)
+![完成したプロジェクト](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+ほとんどの3Dプリンターは1色でしか印刷できないため、パーマネントマーカーを使用して詳細を追加し、バグをさらに見やすくすることができます。
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要なもの
 ---
 
-### Hardware
+### ハードウェア
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3Dプリンター、お好きな色のフィラメント
++ さまざまな色のパーマネントマーカーペンの色—メタリックカラーが効果的
 
-### Software
+### ソフトウェア
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ このプロジェクトは、BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){：target = "_ blank"}を使用してWebブラウザで完了することができます
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学習すること
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 幾何学的形状（球）による3Dモデリング
++ `スケール` を使用してジオメトリック形状をストレッチする
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 教育者向けの追加情報
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_ blank"}を使用してください。
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+完成したプロジェクトコードを [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)ダウンロードします。
 
 --- /collapse ---
