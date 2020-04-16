@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Afegeix un cap a la teva cuca
 
-Now create a head for the bug.
+Ara crea un cap per a la cuca.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Afegeix una petita `esfera` perquè sigui el cap de la cuca. Ara mateix no es pot veure aquesta nova esfera, perquè està amagada dins del cos.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+També afegeix un bloc `scale` a la nova `esfera` per donar forma al cap.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+A continuació, afegeix un bloc `union`{:class="blockscadsetops"} per combinar el cap amb el cos.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![captura de pantalla](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Si vols veure la nova `esfera`, a continuació, desactiva temporalment el cos fent clic dret al bloc `scale`{:class="blockscadtransforms"} i escollint **Disable block**. Aleshores, aquest bloc i els que hi ha al seu interior es veuen grisos i el cos no apareix quan fas clic a **Render**.
 
-  ![screenshot](images/bug-head.png)
+![captura de pantalla](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Fes clic amb el botó dret del ratolí sobre el bloc altre cop i tria **Enable block** per mostrar el cos.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+Aplica `Translate` al cap al llarg de l’eix Y de manera que es quedi fora del cos.
+
+  ![captura de pantalla](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Si vols veure clarament les diferents formes, canvia el color del cap.
+
+![captura de pantalla](images/bug-head-black.png)
+
+També pots experimentar amb diferents combinacions de colors per decorar la cuca impresa amb retoladors permanents.
+
+--- /task --- --- task ---
+
+Pots canviar el color del cos del teu model de cuca? Pots canviar-lo pel color del filament amb què vols imprimir o pel color del marcador permanent amb el qual vols acolorir-lo.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Aquest és el bloc que necessites.
 
-![screenshot](images/bug-colour-block.png)
+![captura de pantalla](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Aquí tens un exemple amb un cos verd:
 
-![screenshot](images/bug-body-colour.png)
+![captura de pantalla](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
