@@ -1,44 +1,44 @@
-## Give your bug a body
+## バグに体を与える
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+WebブラウザーでBlocksCADエディターを開きます [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){：target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+次に、バグの本文を作成します。
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+半径 `10` `球` 始めます（ここでの単位はミリメートルです）：
 
-![screenshot](images/bug-body-sphere.png)
+![スクリーンショット](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+**Render** ボタンをクリックして結果を確認します。
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+ヒント：色付きの四角をクリックすると、レンダリングされたモデルの色を変更できます。
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Y軸に沿って球を引き伸ばして、バグの細長いボディを作成します。
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`スケール`{：class = "blockscadtransforms"}ブロックを使用すると、X、Y、Z軸に沿ってオブジェクトをストレッチまたはスカッシュできます。 Y値を `1.2` に設定して、球をY軸に沿ってストレッチします。
 
-![screenshot](images/bug-body-y.png)
+![スクリーンショット](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+もう一度[ **レンダリング** クリックし、球体が楕円体に引き伸ばされていることを確認します。 モデルをさまざまな角度から見て、どのように変化したかを確認します。
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+ヒント：コードを変更するたびに、結果を表示するには **レンダリング** をクリックする必要があります。
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+次に、楕円体をz軸に沿って少し押しつぶして、より平らなバグを作成します。
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+軸の値を `1` 未満に設定すると、オブジェクトはその軸に沿って小さくなります。 したがって、 `scale`{：class = "blockscadtransforms"}ブロックのZ値を `0.8`ます。
 
-![screenshot](images/bug-body-z.png)
+![スクリーンショット](images/bug-body-z.png)
 
 --- /task ---
 
