@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D print en versier je ontwerp
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Als je toegang hebt tot een 3D-printer, kun je nu je kever printen en deze vervolgens versieren.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Klik op render en klik vervolgens op **Generate STL**. Onthoud waar je het STL-bestand opslaat.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D print je kever.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Je kunt printen met de hoofdkleur van je kever of je kunt helder of wit filament gebruiken.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Maak je kever af met permanent stiften!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Je kunt het hoofd en de benen zwart kleuren of vlekken of strepen in een andere kleur toevoegen.
 
-Here are some examples:
+Hier zijn enkele voorbeelden:
 
-![screenshot](images/bug-decorated.png)
+![schermafbeelding](images/bug-decorated.png)
 
 --- /task ---
 
