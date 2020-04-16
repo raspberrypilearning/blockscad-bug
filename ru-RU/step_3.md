@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Сделаем основание тела более плоским
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Теперь сделаем основание тела более плоским, чтобы сделать твоего жука более реалистичным. Модель с плоским основанием также удобнее для 3D-печати!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Для этого ты можешь просто извлечь объем кубоидом из твоей модели, используя блок `difference`{:class="blockscadsetops"} (разность).
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Для начала создай кубоид, чтобы покрыть нижнюю половину жука (часть, которая находится ниже 0 на оси Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Кубоид должен быть `centered` (отцентрирован) и высотой в 10 мм (вдоль оси Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Добавь блок `translate` (перемещать/преобразовывать), чтобы переместить кубоид на -5 мм вдоль оси Z (вниз).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Чтобы было легко отличить кубоид от тела вашего жучка, добавь блок `color` (цвет), чтобы сделать кубоид другого цвета.
 
-![screenshot](images/bug-body-cuboid.png)
+![снимок экрана](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Кубоид больше тела жука. Это означает, что ты можешь добавлять к жуку элементы, не увеличивая кубоид позже.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Используй блок `difference`{:class="blockscadsetops"}, чтобы удалить кубоид из тела.
 
-![screenshot](images/bug-difference.png)
+![снимок экрана](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Теперь тело твоего жука имеет плоскую основу!
 
-Drag your model around in the viewer to see it from different angles.
+Перетаскивай свою модель в блоке просмотра, чтобы увидеть ее под разными углами.
 
 --- /task ---
 
