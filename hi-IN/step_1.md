@@ -1,58 +1,58 @@
-## Introduction
+## परिचय
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+इस प्रोजेक्ट में आप ज्यामितीय आकृतियों (geometric shapes) का उपयोग करके 3D बग या कीट (insect) को डिज़ाइन करने के लिए BlocksCAD का उपयोग करेंगे।
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+यदि आपके पास एक 3D प्रिंटर है, तो आप अपने द्वारा डिज़ाइन किए गए बग को प्रिंट कर सकते हैं। एक बार जब आपका बग प्रिंट हो जाये, तो आप टिकाऊ मार्कर पेन का उपयोग कर विवरण भी लिख सकते हैं।
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+आप उन कौशलों का उपयोग करने में भी सक्षम होंगे जो आपने ज्यामितीय आकृतियों का उपयोग करके बग या अन्य प्राणी को डिज़ाइन करते वक़्त सीखा है |
 
-The bugs make great rewards for debugging!
+डिबगिंग (debugging) के लिए बग्स (bugs) बहुत अच्छा पुरुस्कार है!
 
-### What you will make
+### आप क्या बनाएँगे
 
-The finished bug looks like this:
+पूरा बनाया हुआ बग इस तरह दिखता है:
 
 ![screenshot](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+यदि आपके पास 3D प्रिंटर है, तो आप अपने बग को प्रिंट कर सकते हैं और फिर इसे सजा सकते हैं।
 
 ![Complete project](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+ज़्यादातर 3D प्रिंटर केवल एक रंग में प्रिंट कर सकते हैं इसलिए आप अपने बग को और भी बेहतर बनाने के लिए टिकाऊ मार्कर का उपयोग करऔर विवरण लिख सकते हैं।
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ एक 3D प्रिंटर, और अपनी पसंद के रंग में फिलामेंट (filament)
++ अलग अलग रंगो में टिकाऊ मार्कर पेन्स - धातुमय (metallic) रंग भी काफी अच्छा काम करता है
 
-### Software
+### सॉफ्टवेयर
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ यह प्रोजेक्ट BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"} का उपयोग करके एक वेब ब्राउज़र (web browser) में पूरा किया जा सकता है
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ ज्यामितीय आकृतियों (geometric shapes) के साथ 3D मॉडलिंग (गोल आकार)
++ `scale` का उपयोग करके ज्यामितीय आकृतियों को खींचना
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"} का उपयोग करें।
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+तैयार किया हुआ प्रोजेक्ट कोड को [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get) पर डाउनलोड (download) करें।
 
 --- /collapse ---
