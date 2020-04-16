@@ -18,7 +18,7 @@ Si tens accés a una impressora 3D, pots imprimir la teva cuca i després decora
 
 ![Projecte acabat](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+La majoria d’impressores 3D només poden imprimir en un sol color, de manera que pots afegir detalls mitjançant marcadors permanents per millorar la cuca.
 
 --- collapse ---
 ---
