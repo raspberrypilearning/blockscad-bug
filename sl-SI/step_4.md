@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Hrošču dodaj glavo
 
-Now create a head for the bug.
+Sedaj hrošču ustvari glavo.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Za glavo hrošča dodaj manjšo `kroglo`. Te nove krogle trenutno še ne vidiš, ker je skrita v telesu.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Tudi tej `krogli` dodaj blok `merilo`, da jo oblikuješ.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Nato doda blok `združi`{: class = "blockcadsetops"}, da združiš glavo in telo.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![posnetek zaslona](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Če si želiš ogledati novo `kroglo`, začasno onemogoči telo z desnim klikom na `merilo`{: class = "blockscadtransforms"} blok in izbiro **Onemogoči kocko**. Ta blok in tisti v njemu so sedaj osiveli, telo pa se več ne pojavi, ko pritisneš **Izriši**.
 
-  ![screenshot](images/bug-head.png)
+![posnetek zaslona](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Znova z desno tipko miške klikni na ta blok in izberi **Omogoči blok** da vklopiš prikaz bloka.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Premakni` glavo vzdolž osi Y, da bo štrlela iz telesa.
+
+  ![posnetek zaslona](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Če želiš različne like videti bolj jasno, spremeni barvo glave.
+
+![posnetek zaslona](images/bug-head-black.png)
+
+Prav tako lahko eksperimentiraš z različnimi barvnimi kombinacijami za okrasitev tiskanega hrošča s permanentnimi pisali.
+
+--- /task --- --- task ---
+
+Ali lahko modelu hrošča spremeniš barvo telesa? Lahko ga spremeniš v barvo nitke, s katero ga želiš natisniti, ali v barvo permanentnega pisala, s katerim ga boš barval.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+To je blok, ki ga potrebuješ.
 
-![screenshot](images/bug-colour-block.png)
+![posnetek zaslona](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Tu je primer z zelenim telesom:
 
-![screenshot](images/bug-body-colour.png)
+![posnetek zaslona](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
