@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Splošči dno telesa
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Zdaj pa splošči še spodnji del telesa, da bo hrošč videti bolj resnično. 3D tisk je lažji tudi model z ravno podlago! Prav tako je lažje 3D natisniti model z ravnim dnom!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Za dosego tega, lahko preprosto svojemu modelu odzameš kvader z uporabo bloka `razlika`{: class = "blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Najprej ustvari kvader, ki pokrije spodnjo polovico hrošča (del, ki se nahaja pod 0 na osi Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Kvader mora biti poravnan v `težišču` in 10 mm visok (po Z osi).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Dodaj blok `premakni`, da premakneš kvader za -5mm po Z osi.
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Za lažje razlikovanje med kvadrom in telesom hrošča, mu dodaj blok `barva` in mu določi drugo barvo.
 
-![screenshot](images/bug-body-cuboid.png)
+![posnetek zaslona](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Kvader je večji od telesa hrošča. To pomeni, da lahko hrošču dodajaš, ne da bi kasneje moral povečati kvader.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Uporabi blok `razlika`{: class = "blockcadsetops"}, da odstraniš kvader iz telesa.
 
-![screenshot](images/bug-difference.png)
+![posnetek zaslona](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Zdaj ima telo tvojega hrošča ravno podlago!
 
-Drag your model around in the viewer to see it from different angles.
+V pregledovalniku si s pomočjo vlecenja miške oglej svoj model z različnih zornih kotov.
 
 --- /task ---
 
