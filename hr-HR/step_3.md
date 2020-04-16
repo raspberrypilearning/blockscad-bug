@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Izravnajte bazu tijela
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Sada izravnajte bazu tijela kako bi vaš bug bio realniji. Model s ravnom bazom također je lakši za 3D ispis!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Da biste to učinili, možete jednostavno ukloniti kuboid iz modela koristeći blok `razlika`{: class = "blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Za početak, napravite kuboid za pokrivanje donje polovice kukca (dijela koji sjedi ispod 0 na osi Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+U obliku kocke treba biti `usmjeren` i 10 mm visok (po Z osi).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Dodajte blok `prevesti` kako biste pomaknuli kuboid -5 mm duž osi Z (dolje).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Da biste olakšali raspoznavanje kuboida i tijela vaše bube, dodajte blok `boje` kako bi kuboid stavio drugu boju.
 
 ![screenshot](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Kuboid je veći od tijela buba. To znači da možete dodati u bug bez potrebe da kasnije učinite kuboid većim.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Upotrijebite blok `razlika`{: class = "blockscadsetops"} za uklanjanje kuboida iz tijela.
 
 ![screenshot](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Sada tijelo vašeg buba ima ravnu bazu!
 
-Drag your model around in the viewer to see it from different angles.
+Povucite svoj model oko sebe u pregledniku da biste ga vidjeli iz različitih kutova.
 
 --- /task ---
 
