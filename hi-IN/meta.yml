@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3D bug (कीड़ा)
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: BlocksCAD के साथ 3D प्रिंट करने योग्य बग कीट (bug insect) डिज़ाइन करें
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Give your bug a body
+    title: अपने बग को शरीर दें
   - 
-    title: Flatten the base of the body
+    title: शरीर के आधार (base) को चपटा करें
   - 
-    title: Add a head to your bug
+    title: अपने बग में एक सिर जोड़ें
   - 
-    title: Create legs
+    title: पैर बनाएँ
   - 
-    title: Design your own bug
+    title: अपना बग डिज़ाइन करें
   - 
-    title: 3D print and decorate your design
+    title: 3D प्रिंट और अपने डिज़ाइन को सजाएं
