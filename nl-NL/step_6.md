@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Uitdaging: ontwerp je eigen kever
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Nu is het tijd om je eigen kever te ontwerpen met je nieuwe kennis van BlocksCAD!
 
 Tips:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ De meeste 3D-printers kunnen slechts in één kleur afdrukken. Je kunt kleuren in BlocksCAD gebruiken om de gewenste look te ontwerpen en vervolgens na het afdrukken details toevoegen met permanent stiften.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Maak geen onderdeel van je kever te dun, anders zal het gemakkelijk breken.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Voeg geen delen toe met gaten eronder wanneer ze in 3D worden geprint, omdat 3D-printers niet in de lucht kunnen printen. (Het is mogelijk om met behulp van support te printen om zo delen van je model te ondersteunen, maar dit maakt het printen ingewikkelder.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Bedenk hoe groot jouw kever zal zijn. Als je het te groot maakt, duurt het lang om te printen en zal het veel filament gebruiken.
 
 --- /challenge ---
 
