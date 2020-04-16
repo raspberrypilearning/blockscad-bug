@@ -1,44 +1,44 @@
-## Give your bug a body
+## Gib deinem Käfer einen Körper
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Öffne den BlocksCAD-Editor in einem Webbrowser. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Erstelle nun den Körper deines Käfers.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Beginne mit einer `Kugel` mit einem Radius von `10` (die Einheit hier ist Millimeter):
 
-![screenshot](images/bug-body-sphere.png)
+![Screenshot](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Klicke auf die Schaltfläche **Rendern**, um das Ergebnis anzuzeigen.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Tipp: Du kannst die Farbe des gerenderten Modells ändern, indem du auf das farbige Quadrat klickst.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Dehne nun die Kugel entlang ihrer Y-Achse, um einen länglichen Körper für den Käfer zu erstellen.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Mit dem Block `skalieren`{:class="blockscadtransforms"} kannst du Objekte entlang der X-, Y- und Z-Achse strecken oder quetschen. Setze den Y-Wert auf `1.2`, um die Kugel entlang der Y-Achse zu dehnen.
 
-![screenshot](images/bug-body-y.png)
+![Screenshot](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Klicke erneut auf **Rendern** und überprüfe, ob die Kugel zu einem Ellipsoid gedehnt wurde. Betrachte dein Modell aus verschiedenen Blickwinkeln, damit du sehen kannst, wie es sich verändert hat.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Tipp: Jedes Mal, wenn du den Code änderst, musst du auf **Rendern** klicken, um die Ergebnisse anzuzeigen.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Drücke nun das Ellipsoid etwas entlang der Z-Achse zusammen, um einen flacheren Käfer zu erzeugen.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Setzt du einen Achsenwert unter `1`, wird das Objekt entlag dieser Achse kleiner. Ändere daher den Z-Wert im `skalieren`{:class="blockscadtransforms"} Block auf `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![Screenshot](images/bug-body-z.png)
 
 --- /task ---
 
