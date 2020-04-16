@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Ychwanegwch ben at eich nam
 
-Now create a head for the bug.
+Nawr crëwch ben ar gyfer y nam.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Ychwanegwch sffêr `llai` fel pen y nam. Ar hyn o bryd ni allwch weld y sffêr newydd hon, oherwydd ei fod wedi'i guddio y tu mewn i'r corff.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Hefyd ychwanegwch floc `graddfa` i'r `sffêr` newydd i siapio'r pen.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Yna ychwanegwch floc `undeb`{: class = "bloccadsetops"} i gyfuno'r pen a'r corff.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![sgrinlun](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Os ydych chi am weld y sffêr `newydd`, yna analluoga'r corff dros dro trwy glicio ar y dde ar ei floc `scale`{: class = "bloccadcadiadau"} a dewis **Analluogi bloc**. Yna mae'r bloc hwn a'r rhai y tu mewn iddo yn llwydaidd, ac nid yw'r corff yn ymddangos pan fyddwch chi'n clicio **Rendr**.
 
-  ![screenshot](images/bug-head.png)
+![sgrinlun](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+De-gliciwch ar y bloc eto a dewis **Galluogi bloc** i alluogi'r corff.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Cyfieithwch` y pen ar hyd yr echel Y fel ei fod yn glynu allan o'r corff.
+
+  ![sgrinlun](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Os ydych chi am weld y gwahanol siapiau yn glir, newidiwch liw'r pen.
+
+![sgrinlun](images/bug-head-black.png)
+
+Gallwch hefyd arbrofi gyda chyfuniadau lliw gwahanol ar gyfer addurno'ch nam print gyda marcwyr parhaol.
+
+--- /task --- --- task ---
+
+Allwch chi newid lliw corff eich model nam? Fe allech chi ei newid i liw'r ffilament rydych chi am ei argraffu ag ef, neu i liw'r marciwr parhaol rydych chi am ei liwio ag ef.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Dyma'r bloc sydd ei angen arnoch chi.
 
-![screenshot](images/bug-colour-block.png)
+![sgrinlun](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Dyma enghraifft gyda chorff gwyrdd:
 
-![screenshot](images/bug-body-colour.png)
+![sgrinlun](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
