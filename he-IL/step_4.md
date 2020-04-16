@@ -1,56 +1,56 @@
-## Add a head to your bug
+## הוסף ראש לבאג שלך
 
-Now create a head for the bug.
+כעת צור ראש לבאג.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+הוספה קטן `כדור` כראש של באג. כרגע אתה לא יכול לראות את התחום החדש הזה, מכיוון שהוא מוסתר בתוך הגוף.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+גם להוסיף `בקנה מידה` לחסום את חדשות `בתחום` כדי לעצב את הראש.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+לאחר מכן הוסף חסימת `איחוד`{: class = "blockscadsetops"} כדי לשלב את הראש והגוף.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![צילום מסך](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+אם אתה רוצה לראות את כדור ה- `החדש`, השבת את הגוף באופן זמני על ידי לחיצה ימנית על סולם `שלו`: {: class = "blockscadtransforms"} חסום ובחר **השבת בלוק**. ואז החסימה הזו ואלו שבתוכה מאפירנים, והגוף לא מופיע כשאתה לוחץ על **Render**.
 
-  ![screenshot](images/bug-head.png)
+![צילום מסך](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+לחץ באמצעות לחצן העכבר הימני על החסימה ובחר **הפעל את החסימה** כדי לאפשר את הגוף.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`תרגם` את הראש לאורך ציר ה- Y כך שהוא יבקע מהגוף.
+
+  ![צילום מסך](images/bug-head.png)
+
+--- /task --- --- task ---
+
+אם אתה רוצה לראות בבירור את הצורות השונות, שנה את צבע הראש.
+
+![צילום מסך](images/bug-head-black.png)
+
+אתה יכול גם להתנסות בשילובי צבעים שונים לקישוט הבאג המודפס שלך בסמנים קבועים.
+
+--- /task --- --- task ---
+
+האם אתה יכול לשנות את צבע גוף דגם הבאג שלך? אתה יכול לשנות אותו לצבע הנימה שאיתו תרצה להדפיס, או לצבע הטוש הקבוע שאיתו תרצה לצבוע אותו.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+זה החסימה שאתה צריך.
 
-![screenshot](images/bug-colour-block.png)
+![צילום מסך](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+להלן דוגמא עם גוף ירוק:
 
-![screenshot](images/bug-body-colour.png)
+![צילום מסך](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
