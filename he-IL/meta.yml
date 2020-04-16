@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: באג תלת ממדי
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: תכנן חרק באגים הניתן להדפסה בתלת מימד בעזרת BlocksCAD
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: הקדמה
   - 
-    title: Give your bug a body
+    title: תן לגוף שלך
   - 
-    title: Flatten the base of the body
+    title: משטחים את בסיס הגוף
   - 
-    title: Add a head to your bug
+    title: הוסף ראש לבאג שלך
   - 
-    title: Create legs
+    title: צור רגליים
   - 
-    title: Design your own bug
+    title: תכנן את הבאג שלך
   - 
-    title: 3D print and decorate your design
+    title: הדפס תלת מימד וקשט את העיצוב שלך
