@@ -1,58 +1,58 @@
-## Introduction
+## Inleiding
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+In dit project gebruik je BlocksCAD om een 3D kever of insect te ontwerpen met geometrische vormen.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Als je toegang hebt tot een 3D-printer, kun je de kever die je ontwerpt printen. Zodra jouw kever is afgedrukt, kun je details toevoegen met permanente markeerstiften.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Je zult ook de vaardigheden die je hebt geleerd kunnen gebruiken om je eigen insect of ander wezen te ontwerpen met behulp van geometrische vormen.
 
-The bugs make great rewards for debugging!
+De kevers zijn geweldige beloningen voor foutopsporing!
 
-### What you will make
+### Wat ga je maken
 
-The finished bug looks like this:
+De voltooide kever ziet er als volgt uit:
 
-![screenshot](images/bug-complete.png)
+![schermafbeelding](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Als je toegang hebt tot een 3D-printer, kun je je kever afdrukken en deze vervolgens versieren.
 
-![Complete project](images/bug-showcase.png)
+![Voltooid project](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+De meeste 3D-printers kunnen slechts in één kleur afdrukken, dus je kunt details toevoegen met permanente stiften om je kever er nog beter uit te laten zien.
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Een 3D-printer en filament in een kleur naar keuze
++ Gekleurde permanente stiften in verschillende kleuren - metallic kleuren werken goed
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dit project kan worden voltooid in een webbrowser met BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D-modellering met geometrische vormen (bollen)
++ Gebruik `scale` om geometrische vormen uit te rekken
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {:target="_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download de voltooide projectcode op [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
