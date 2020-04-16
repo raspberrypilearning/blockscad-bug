@@ -1,44 +1,44 @@
-## Give your bug a body
+## 給你的昆蟲一個身體
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+在Web瀏覽器中打開BlocksCAD編輯器 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+現在，建立你的昆蟲的身體。
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+從半徑為 `10` 的 `sphere` 球體開始（這裡的單位是毫米）：
 
-![screenshot](images/bug-body-sphere.png)
+![截圖](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+點擊 **Render** 按鈕來查看結果。
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+提示：您可以通過點擊彩色正方形來更改渲染模型的顏色。
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+現在，沿著球體的Y軸延伸球體，來為昆蟲建立細長的身體。
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`scale`{:class="blockscadtransforms"} 區塊使你可以沿著X，Y和Z軸延展或壓縮物件。 將Y值設定為 `1.2` 來沿著Y軸延展球體。
 
-![screenshot](images/bug-body-y.png)
+![截圖](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+再次點擊 **Render** ，然後檢查球體是否已延展為橢圓體。 從不同角度查看模型，以便了解其變化。
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+提示：每次你更改程式碼時，都需要點擊 **Render** 以查看結果。
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+現在，沿z軸稍微壓縮橢圓形，以製作出更扁平的昆蟲。
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+將軸值設置為低於 `1` 可使對象沿著該軸變小。 因此，將  `scale`{:class="blockscadtransforms"} 區塊中的Z值更改為 `0.8`。
 
-![screenshot](images/bug-body-z.png)
+![截圖](images/bug-body-z.png)
 
 --- /task ---
 
