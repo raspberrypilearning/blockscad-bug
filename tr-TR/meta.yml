@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3D hata
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: BlocksCAD ile 3D yazdırılabilir böcek böcekleri tasarlayın
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: Giriş
   - 
-    title: Give your bug a body
+    title: Böceğinize bir beden verin
   - 
-    title: Flatten the base of the body
+    title: Vücudun tabanını düzleştirin
   - 
-    title: Add a head to your bug
+    title: Hatanıza bir kafa ekleyin
   - 
-    title: Create legs
+    title: Bacak oluştur
   - 
-    title: Design your own bug
+    title: Kendi hatanızı tasarlayın
   - 
-    title: 3D print and decorate your design
+    title: 3D baskı ve tasarımınızı süsleyin
