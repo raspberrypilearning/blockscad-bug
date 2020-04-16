@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Adăugați un cap la eroare
 
-Now create a head for the bug.
+Acum creați un cap pentru eroare.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Adăugați o mai mică `sferă` ca cap al erorii. Momentan nu puteți vedea această sferă nouă, deoarece este ascunsă în interiorul corpului.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Adăugați, de asemenea, un bloc de `scară` la noua `sferă` pentru a modela capul.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Apoi adăugați un bloc `union`{: class = "blockcadsetops"} pentru a combina capul și corpul.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![captură de ecran](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Dacă doriți să vedeți noua `sferă`, atunci dezactivați temporar corpul făcând clic dreapta pe blocul său `scara`{: class = "blockcadtransforms"} și alegând **Dezactivați blocul**. Apoi, acest bloc și cele din interior sunt lăsate la culoare și corpul nu apare atunci când faceți clic pe **Render**.
 
-  ![screenshot](images/bug-head.png)
+![captură de ecran](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Faceți clic dreapta pe bloc din nou și alegeți **Activați blocul** pentru a activa corpul.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Traduceți` capul de-a lungul axei Y, astfel încât să rămână afară din corp.
+
+  ![captură de ecran](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Dacă doriți să vedeți clar diferitele forme, schimbați culoarea capului.
+
+![captură de ecran](images/bug-head-black.png)
+
+Puteți experimenta, de asemenea, diferite combinații de culori pentru decorarea erorii tipărite cu markere permanente.
+
+--- /task --- --- task ---
+
+Puteți schimba culoarea corpului modelului dvs. de erori? Puteți schimba culoarea filamentului cu care doriți să imprimați sau culoarea markerului permanent cu care doriți să o colorați.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Acesta este blocul de care aveți nevoie.
 
-![screenshot](images/bug-colour-block.png)
+![captură de ecran](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Iată un exemplu cu un corp verde:
 
-![screenshot](images/bug-body-colour.png)
+![captură de ecran](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
