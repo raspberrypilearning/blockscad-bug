@@ -1,58 +1,58 @@
-## Introduction
+## Увод
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+У овом пројекту, БлоцксЦАД ћете користити за дизајнирање 3Д бубе или инсекта користећи геометријске облике.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Ако имате приступ 3Д штампачу, можете да штампате грешку коју дизајнирате. Једном када вам се грешка одштампа, можете додати детаље помоћу трака за трајно означавање.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Такође ћете моћи да користите вештине које сте научили да дизајнирате сопствену грешку или друго биће користећи геометријске облике.
 
-The bugs make great rewards for debugging!
+Грешке доносе велике награде за уклањање погрешака!
 
-### What you will make
+### Шта ћеш направити
 
-The finished bug looks like this:
+Готов буг изгледа овако:
 
-![screenshot](images/bug-complete.png)
+![слика екрана](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Ако имате приступ 3Д штампачу, можете да штампате своју грешку и затим је украсите.
 
-![Complete project](images/bug-showcase.png)
+![Завршени пројекат](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Већина 3Д штампача може да штампа само у једној боји, тако да можете додати детаље помоћу трајних маркера како би ваш буг изгледао још боље.
 
 --- collapse ---
 ---
-title: What you will need
+title: Шта ће ти бити потребно
 ---
 
-### Hardware
+### Хардвер
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3Д штампач и нит у боји по вашем избору
++ Оловке за трајно обележавање у боји у разним бојама - металне боје делују добро
 
-### Software
+### Софтвер
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Овај пројекат се може завршити у веб претраживачу помоћу БлоцксЦАД [блоцксцад3д.цом/едитор/](https://www.blockscad3d.com/editor){: таргет = "_ бланк"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Шта ћеш научити
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3Д моделирање са геометријским облицима (сфере)
++ Користећи `скале` протегнути геометиц облике
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додатне информације за наставнике
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Преузмите готов пројектни код на [рпф.ио/п/ен/блоцксцад-буг-гет](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
