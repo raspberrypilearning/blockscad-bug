@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Voeg een kop toe aan je kever
 
-Now create a head for the bug.
+Maak nu een hoofd voor de kever.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Voeg een kleinere `sphere` toe als kop van de kever. Op dit moment kun je deze nieuwe bol niet zien, omdat hij verborgen is in het lichaam.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Voeg ook een `scale` blok toe aan de nieuwe `sphere` om de kop vorm te geven.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Voeg vervolgens een `union`{:class="blockscadsetops"} - blok toe om hoofd en lichaam te combineren.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![schermafbeelding](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Als je de nieuwe `sphere` wilt zien, schakel dan tijdelijk de body uit door met de rechtermuisknop te klikken op het `scale`{:class="blockscadtransforms"} blok en kies **Disable block**. Vervolgens worden dit blok en de blokken erin grijs weergegeven en wordt het lichaam niet weergegeven wanneer je op **Render** klikt.
 
-  ![screenshot](images/bug-head.png)
+![schermafbeelding](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Klik opnieuw met de rechtermuisknop op het blok en kies **Enable Blok** om het lichaam weer te tonen.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Translate` het hoofd langs de Y-as zodat het uit het lichaam steekt.
+
+  ![schermafbeelding](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Als je de verschillende vormen duidelijk wilt zien, verander dan de kleur van het hoofd.
+
+![schermafbeelding](images/bug-head-black.png)
+
+Je kunt ook experimenteren met verschillende kleurencombinaties voor het decoreren van je geprinte kever met permanent stiften.
+
+--- /task --- --- task ---
+
+Kun je de kleur van de body van je kevermodel veranderen? Je kunt het wijzigen in de kleur van het filament waarmee je wilt printen of in de kleur van de permanente stift waarmee je het wilt kleuren.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Dit is het blok dat je nodig hebt.
 
-![screenshot](images/bug-colour-block.png)
+![schermafbeelding](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Hier is een voorbeeld met een groen lichaam:
 
-![screenshot](images/bug-body-colour.png)
+![schermafbeelding](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
