@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## शरीर के आधार (base) को चपटा करें
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+अब अपने बग को थोड़ा और वास्तविक बनाने के लिए शरीर के आधार (base) को चपटा करें। एक चपटा आधार (base) वाला मॉडल (model) 3D प्रिंट करने में भी आसान है!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+ऐसा करने के लिए आप केवल `difference`{:class="blockscadsetops"} ब्लॉक का उपयोग करके अपने मॉडल से एक घनाभ (cuboid) निकाल सकते हैं।
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+शुरू करने के लिए, बग के निचले आधे हिस्से को कवर करने के लिए एक घनाभ (cuboid) बनाएं (वह भाग जो Z axis पर 0 से नीचे बैठता है)।
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+घनाभ (cuboid) `centered` और 10mm लंबा (Z axis के समानांतर) होना चाहिए।
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+यह `translate` ब्लॉक जोड़ें घनाभ को -5mm Z axis (नीचे) के समानांतर हिलाने के लिए |
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+घनाभ और अपने बग के शरीर को को आसानी से पहचानने के लिए, घनाभ को एक अलग रंग दें और `color` ब्लॉक जोड़ें।
 
 ![screenshot](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+अभी घनाभ बग के शरीर से बड़ा है। इसका मतलब है कि आप बाद में घनाकार को बड़ा करने की आवश्यकता के बिना बग में जोड़ सकते हैं।
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+शरीर से घनाभ (cuboid) हटाने के लिए `difference`{:class="blockscadsetops"} ब्लॉक का उपयोग करें।
 
 ![screenshot](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+अब आपके बग के शरीर का सपाट आधार (flat base) है!
 
-Drag your model around in the viewer to see it from different angles.
+विभिन्न कोणों से देखने के लिए अपने मॉडल को व्यूअर (viewer) में चारों ओर खींचें।
 
 --- /task ---
 
