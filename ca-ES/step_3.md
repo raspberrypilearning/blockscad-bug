@@ -28,7 +28,7 @@ Utilitza un bloc `difference`{:class="blockscadsetops"} per eliminar el cuboide 
 
 Ara el cos de la teva cuca té una base plana!
 
-Arrossega el model al visor per veure-ho des de diferents angles.
+Arrossega el model pel visor per veure-ho des de diferents angles.
 
 --- /task ---
 
