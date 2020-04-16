@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3Dバグ
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: BlocksCADで3Dプリント可能なバグ昆虫を設計する
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: Give your bug a body
+    title: バグに体を与える
   - 
-    title: Flatten the base of the body
+    title: 体の付け根を平らにする
   - 
-    title: Add a head to your bug
+    title: バグに頭を追加
   - 
-    title: Create legs
+    title: 脚を作成する
   - 
-    title: Design your own bug
+    title: 独自のバグを設計する
   - 
-    title: 3D print and decorate your design
+    title: 3Dプリントでデザインを装飾
