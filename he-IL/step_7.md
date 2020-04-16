@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## הדפס תלת מימד וקשט את העיצוב שלך
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+אם יש לך גישה למדפסת תלת ממדית, כעת תוכל להדפיס את הבאג ואז לקשט אותו.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+השג את המודל שלך ולחץ על **צור STL**. זכור היכן אתה שומר את קובץ ה- STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+תלת ממד מדפיס את הבאג שלך.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+אתה יכול להדפיס באמצעות הצבע העיקרי של הבאג שלך, או שאתה יכול להשתמש בנימה צלולה או לבנה.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+סיים את הבאג שלך באמצעות עטים לטוש קבוע!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+אתה יכול לצבוע את הראש והרגליים בשחור, או להוסיף כתמים או פסים בצבע אחר.
 
-Here are some examples:
+הנה כמה דוגמאות:
 
-![screenshot](images/bug-decorated.png)
+![צילום מסך](images/bug-decorated.png)
 
 --- /task ---
 
