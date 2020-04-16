@@ -12,7 +12,7 @@ Now create the body of your bug.
 
 Start with a `sphere` with a radius of `10` (the unit here is millimetres):
 
-![screenshot](images/bug-body-sphere.png)
+![captura de pantalla](images/bug-body-sphere.png)
 
 Click on the **Render** button to see the result.
 
@@ -24,7 +24,7 @@ Now stretch the sphere along its Y axis to create an elongated body for the bug.
 
 The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
 
-![screenshot](images/bug-body-y.png)
+![captura de pantalla](images/bug-body-y.png)
 
 Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
 
@@ -38,7 +38,7 @@ Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
 
 Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![captura de pantalla](images/bug-body-z.png)
 
 --- /task ---
 
