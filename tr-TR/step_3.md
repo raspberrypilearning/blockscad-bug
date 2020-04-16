@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Vücudun tabanını düzleştirin
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Şimdi böceğinizi daha gerçekçi hale getirmek için vücudun tabanını düzleştirin. Düz tabanlı bir modelin 3D baskısı da daha kolaydır!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Bunu yapmak için, `fark`{: class = "blockscadsetops"} bloğunu kullanarak bir cuboid'i modelinizden kaldırabilirsiniz.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Başlamak için, hatanın alt yarısını (Z ekseninde 0'ın altında oturan kısım) kapsayacak şekilde bir küboid oluşturun.
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Küboid `merkezli` ve 10 mm yüksekliğinde olmalıdır (Z ekseni boyunca).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Küboid -5mm Z ekseni boyunca (aşağı) hareket etmek için `translate` blok ekleyin.
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Cuboid ve böceğinizin vücudunu ayırmayı kolaylaştırmak için, cuboid'i farklı bir renk yapmak üzere `renk` blok ekleyin.
 
-![screenshot](images/bug-body-cuboid.png)
+![ekran görüntüsü](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Küboid, böceğin vücudundan daha büyüktür. Bu, küboidi daha sonra büyütmeye gerek kalmadan hataya ekleyebileceğiniz anlamına gelir.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Cuboid'i vücuttan kaldırmak için `fark`{: class = "blockscadsetops"} bloğu kullanın.
 
-![screenshot](images/bug-difference.png)
+![ekran görüntüsü](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Şimdi böceğinizin vücudunun düz bir tabanı var!
 
-Drag your model around in the viewer to see it from different angles.
+Modelinizi farklı açılardan görmek için görüntüleyicide sürükleyin.
 
 --- /task ---
 
