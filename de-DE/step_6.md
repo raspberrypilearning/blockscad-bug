@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Herausforderung: Entwerfe deinen eigenen Käfer
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Jetzt ist es Zeit, deinen eigenen Käfer mit deinen neuen BlocksCAD-Kenntnissen zu entwerfen!
 
-Tips:
+Tipps:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Die meisten 3D-Drucker können nur in einer Farbe drucken. Du kannst Farben in BlocksCAD verwenden, um den gewünschten Look zu entwerfen und nach dem Drucken Details mit permanenten Markierungsstiften hinzuzufügen.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Mache kein Teil deines Käfers zu dünn, sonst kann er leicht brechen.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Vermeide es, Teile hinzuzufügen, unter denen beim 3D-Druck Lücken liegen, da 3D-Drucker nicht in der Luft drucken können. (Es ist möglich, mit Stützen zu drucken, um Teile deines Modells zu halten. Dies macht das Drucken jedoch komplizierter.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Überlege, wie groß dein Käfer sein wird. Wenn du ihn zu groß machst, dauert es lange ihn zu drucken und es wird viel Filament verbraucht.
 
 --- /challenge ---
 
