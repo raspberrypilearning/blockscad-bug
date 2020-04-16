@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Изазов: дизајнирајте сопствену грешку
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Сада је време да дизајнирате сопствену грешку користећи своје ново знање о БлоцксЦАД-у!
 
-Tips:
+Савети:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Већина 3Д штампача може да штампа само у једној боји. Можете користити боје у БлоцксЦАД-у да бисте дизајнирали жељени изглед, а затим додали детаље трајним маркерима након штампања.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Не чини ни један део бубе претанким, или ће се лако сломити.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Избегавајте додавање делова који имају празнине испод њих када су 3Д штампани јер 3Д штампачи не могу да се штампају у ваздуху. (Штампање је могуће помоћу носача за држање делова вашег модела, али то чини штампање компликованијим.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Размислите колико ће вам велика грешка бити. Ако га направите превише великим, тада ће вам требати доста времена да се штампа и употребљава пуно нити.
 
 --- /challenge ---
 
