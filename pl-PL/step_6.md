@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Wyzwanie: zaprojektuj swojego własnego owada
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Teraz nadszedł czas, aby zaprojektować własnego owada przy użyciu nowej wiedzy o BlocksCAD!
 
-Tips:
+Wskazówki:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Większość drukarek 3D może drukować tylko w jednym kolorze. Możesz użyć kolorów w BlocksCAD, aby zaprojektować pożądany wygląd, a następnie odtworzyć szczegóły za pomocą permanentnych pisaków po wydrukowaniu.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Nie rób, żadnej część twojego owada była zbyt wąskiej, bo łatwo się ułamie.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Unikaj dodawania części, które mają przerwy poniżej, gdy są drukowane w 3D. Ponieważ drukarki 3D nie mogą drukować w powietrzu. (Możliwe jest drukowanie za pomocą podpór do podtrzymywania części modelu, ale to utrudnia drukowanie).
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Pomyśl o tym, jak duży będzie twój owad. Jeśli zrobisz go za dużego, wydrukowanie go użyje dużej ilości filamentu i zajmie dużo czasu.
 
 --- /challenge ---
 
