@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D-принт та прикрасьте ваш дизайн
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Якщо у вас є доступ до 3D-принтера, ви тепер можете надрукувати помилку, а потім прикрасити її.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Зробіть модель та натисніть **Створити STL**. Згадайте, де ви зберігаєте файл STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D-друк вашої помилки.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Ви можете друкувати, використовуючи основний колір вашої помилки, або можете використовувати прозору або білу нитку.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Завершіть свою помилку за допомогою перманентних фломастерів!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Можна пофарбувати голову і ноги в чорний колір, або додати плями або смужки іншого кольору.
 
-Here are some examples:
+Ось кілька прикладів:
 
-![screenshot](images/bug-decorated.png)
+![знімок екрану](images/bug-decorated.png)
 
 --- /task ---
 
