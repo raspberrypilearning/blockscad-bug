@@ -1,64 +1,64 @@
-## Create legs
+## 創造腳
 
-Now the bug needs six legs!
+現在，該昆蟲需要六隻腳！
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+首先將一對腳放在昆蟲的身體中間。
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+點擊 `union` 區塊頂部的 `+` 新增另一部分。 新增一個延展的 `sphere` 以建立一對腳。
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![截圖](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+如果你想要，你可以停用昆蟲的身體，以查看你製作的腳。
 
-![screenshot](images/bug-legs-disable.png)
+![截圖](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+然後再次啟用身體以繼續製作你的昆蟲。
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+現在，新增另一對腳。
 
-Your bug needs to look like this:
+使用相同的設置新增另一個 `scaled` `sphere`。 然後將其沿著Z軸以`30`度`rotate` 旋轉使腳的部分傾斜突出。
 
-![screenshot](images/bug-finished.png)
+![截圖](images/bug-legs-2-annotated.png)
+
+現在，你的昆蟲有一對中間的腳，一隻前腳和一隻後腳！
+
+--- /task ---
+
+--- task ---
+
+你有辦法新增第三對腳，來讓該昆蟲具有三對完整的腳嗎？
+
+你的昆蟲需要看起來像這樣：
+
+![截圖](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+你需要新增第三個 `scaled` `sphere` 縮放的球體。
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Rotate`{:class="blockscadtransforms"} 沿著第二個 `sphere` 球體的相反方向旋轉。 一圈有360度。
 
-Here are the blocks you need:
+這裡是你需要的程式區塊：
 
-![screenshot](images/bug-legs-blocks.png)
+![截圖](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+這是你需要的程式碼：
 
-![screenshot](images/bug-legs-3-annotated.png)
+![截圖](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
