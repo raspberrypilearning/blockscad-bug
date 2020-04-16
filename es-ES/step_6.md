@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Desafío: diseña tu propio error
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+¡Ahora es el momento de diseñar su propio error utilizando su nuevo conocimiento de BlocksCAD!
 
-Tips:
+Consejos:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ La mayoría de las impresoras 3D solo pueden imprimir en un color. Puede usar colores en BlocksCAD para diseñar el aspecto que desea y luego agregar detalles con rotuladores permanentes después de la impresión.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ No haga que ninguna parte de su error sea demasiado delgada o se romperá fácilmente.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Evite agregar partes que tengan espacios debajo de ellas cuando se imprimen en 3D, porque las impresoras 3D no pueden imprimir en el aire. (Es posible imprimir usando soportes para sostener partes de su modelo, pero esto hace que la impresión sea más complicada).
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Piensa en cuán grande será tu error. Si lo hace demasiado grande, llevará mucho tiempo imprimir y usar mucho filamento.
 
 --- /challenge ---
 
