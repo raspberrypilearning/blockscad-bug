@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## 몸통 밑을 평평하게
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+이제 몸통 밑을 평평하게 하여 버그를 보다 사실적으로 만들어봅시다. 밑이 평평한 모델이 3D 프린팅을 하기도 더 쉽습니다!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+이를 위해서는 `difference`{: class = "blockscadsetops"}(빼기) 블록을 사용하여 모델에서 직육면체를 제거하면 됩니다.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+먼저, 버그의 아래쪽 절반(Z 축에서 0 아래에 있는 부분)과 겹치는 직육면체를 만듭니다.
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+직육면체는 (z축 방향) 10mm의 높이로 `가운데 정렬`이 되어 있어야 합니다.
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+`평행 이동` 블록을 추가하여 Z 축을 따라 직육면체를 -5mm 이동합니다 (아래).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+직육면체와 버그의 몸통을 쉽게 구분할 수 있도록 `color`(색상) 블록을 추가하여 직육면체를 다른 색으로 바꿉니다.
 
-![screenshot](images/bug-body-cuboid.png)
+![스크린샷](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+직육면체는 버그의 몸보다 큽니다. 이것은 나중에 직육면체를 더 크게 만들 필요 없이 버그에 추가할 수 있음을 의미합니다.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+몸통에서 입방체를 제거하려면 `차이`{: class = "blockscadsetops"} 블록을 사용하십시오.
 
-![screenshot](images/bug-difference.png)
+![스크린샷](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+이제 버그의 몸체는 평평합니다!
 
-Drag your model around in the viewer to see it from different angles.
+뷰어에서 모델을 드래그하여 다른 각도에서 볼 수 있습니다.
 
 --- /task ---
 
