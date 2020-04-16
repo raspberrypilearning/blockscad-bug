@@ -1,56 +1,56 @@
-## Add a head to your bug
+## 버그에 머리를 추가
 
-Now create a head for the bug.
+이제 버그의 머리를 만드십시오.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+버그의 머리로 더 작은 `구체` 을 추가하십시오. 이 새로운 구체는 몸 안에 숨겨져 있기 때문에 지금은 볼 수 없습니다.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+또한 새로운 `구` 에 `스케일` 블록을 추가하여 헤드를 형성하십시오.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+그런 다음 `Union`{: class = "blockscadsetops"} 블록을 추가하여 헤드와 바디를 결합하십시오.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![스크린샷](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+새로운 `sphere`을 보려면 `scale`{: class = "blockscadtransforms"} 블록을 마우스 오른쪽 버튼으로 클릭하고 **Disable block**선택하여 바디를 일시적으로 비활성화하십시오. 그런 다음이 블록과 그 안에있는 블록은 회색으로 표시되며 **렌더**을 클릭하면 본체가 나타나지 않습니다.
 
-  ![screenshot](images/bug-head.png)
+![스크린샷](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+블록을 다시 마우스 오른쪽 버튼으로 클릭하고 **블록** 사용을 선택하여 본문을 활성화합니다.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`번역` 은 Y 따라 헤드가 신체의 돌출되도록 축.
+
+  ![스크린샷](images/bug-head.png)
+
+--- /task --- --- task ---
+
+다른 모양을 명확하게 보려면 머리의 색을 변경하십시오.
+
+![스크린샷](images/bug-head-black.png)
+
+영구적 인 마커로 인쇄 된 버그를 꾸미기 위해 다양한 색상 조합을 실험 할 수도 있습니다.
+
+--- /task --- --- task ---
+
+버그 모델의 본문 색상을 변경할 수 있습니까? 인쇄하려는 필라멘트의 색상이나 색칠하려는 영구 마커의 색상으로 변경할 수 있습니다.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+이것이 필요한 블록입니다.
 
-![screenshot](images/bug-colour-block.png)
+![스크린샷](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+초록색 바디가있는 예는 다음과 같습니다.
 
-![screenshot](images/bug-body-colour.png)
+![스크린샷](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
