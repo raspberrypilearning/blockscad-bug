@@ -1,42 +1,42 @@
-## Give your bug a body
+## अपने बग को शरीर दें
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+एक वेब ब्राउज़र (web browser) में BlocksCAD editor खोलें [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+अब अपने बग की शरीर बनाएं।
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+शुरू कीजिये एक `sphere` से जिसका त्रिज्या (radius) `10` (यहां इकाई मिलीमीटर की है):
 
 ![screenshot](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+परिणाम देखने के लिए **Render** बटन पर क्लिक करें।
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+टिप: अपने मॉडल का रंग बदलने के लिए रंगीन चौकोर टुकड़े पर क्लिक करें।
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+अब बग का लम्बा शरीर बनाने के लिए, इस गोला (sphere) को Y axis के साथ फैलाएं।
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`scale`{:class="blockscadtransforms"} ब्लॉक आपको X, Y और Z axes के साथ वस्तुओं को खींचने या पिचकाने की अनुमति देता है। Y axis के साथ गोले को फैलाने के लिए Y को `1.2` मूल्य पर सेट करें।
 
 ![screenshot](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+**Render** पे फिर से क्लिक करें और जांचें कि गोला फैलकर एक दीर्घवृत्ताभ (ellipsoid) बन गया है। अपने मॉडल को विभिन्न कोणों से देखें ताकि आप देख सकें कि यह कैसे बदला है।
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+टिप: हर बार जब आप कोड में बदलाव करते हैं, तो परिणाम देखने के लिए आपको **Render** पर क्लिक करना होगा।
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+अब थोड़ा और चपटा बग बनाने के लिए z-axis के समानांतर दीर्घवृत्ताभ (ellipsoid) को पिचकाएं |
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Axis का मूल्य `1` से कम सेट करने से उस अक्ष (axis) के समानांतर वस्तु को छोटा बनाता है। इसलिए Z का मूल्य `scale`{:class="blockscadtransforms"} ब्लॉक में `0.8` में बदल दें।
 
 ![screenshot](images/bug-body-z.png)
 
