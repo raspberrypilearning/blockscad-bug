@@ -1,58 +1,58 @@
-## Introduction
+## 들어가며
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+이 프로젝트에서는 BlocksCAD를 통해 기하학적 모양을 이용한 3D 버그 또는 곤충을 설계합니다.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+3D 프린터를 사용할 수 있다면 디자인 한 버그를 인쇄 할 수 있습니다. 버그가 인쇄되면 네임펜이나 사용하여 세부 정보를 추가할 수 있습니다.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+또한 배운 기술을 통해 기하학적 모양을 이용한 자신만의 버그나 다른 생명체를 디자인 할 수도 있습니다.
 
-The bugs make great rewards for debugging!
+만들어진 버그는 디버깅을 한 보상으로 사용될 수도 있습니다!
 
-### What you will make
+### 만들 작품
 
-The finished bug looks like this:
+완성 된 버그는 다음과 같습니다.
 
-![screenshot](images/bug-complete.png)
+![스크린샷](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+3D 프린터를 사용할 수 있으면 버그를 출력한 다음 꾸밀 수 있습니다.
 
-![Complete project](images/bug-showcase.png)
+![완료된 프로젝트](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+대부분의 3D 프린터는 한 가지 색상으로 만 인쇄 할 수 있으므로, 유성 마커를 이용해 자세한 디자인을 추가하여 버그를 더욱 돋보이게 할 수 있습니다.
 
 --- collapse ---
 ---
-title: What you will need
+title: 준비물
 ---
 
-### Hardware
+### 하드웨어
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D 프린터 및 원하는 색상의 필라멘트
++ 다양한 색상의 유성 펜 - 금속성 색상이 좋습니다
 
-### Software
+### 소프트웨어
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ 이 프로젝트는 BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}를 사용하여 웹브라우저에서 모두 완료할 수 있습니다.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 학습 목표
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 기하학적 형태 (구)를 사용한 3D 모델링
++ 모양의 크기나 비율을 변형하기 위해 `스케일` 사용
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 교육자를 위한 추가 정보
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}을 사용해 주십시오.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+완성 된 프로젝트 코드는 [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)에서 다운로드하십시오.
 
 --- /collapse ---
