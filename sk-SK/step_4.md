@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Pridajte hlavu k svojej chybe
 
-Now create a head for the bug.
+Teraz vytvorte hlavu pre chybu.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Pridajte menšiu `guľu` ako hlavu chyby. Momentálne nemôžete vidieť túto novú guľu, pretože je skrytá vo vnútri tela.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Taktiež pridajte blok `stupnice` do novej `gule` aby ste tvarovali hlavu.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Potom pridajte `únie`{: class = "blockscadsetops"} blok na kombináciu hlavy a tela.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![snímka obrazovky](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Ak chcete vidieť novú `guľu`, potom dočasne vypnite telo kliknutím pravým tlačidlom myši na jeho blok `stupnice`{: class = "blockscadtransforms"} a výberom **Zakázať blok**. Potom tento blok a tie, ktoré sú v ňom, sú sivé a telo sa po kliknutí na **Vykreslenie**nezobrazí.
 
-  ![screenshot](images/bug-head.png)
+![snímka obrazovky](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Opäť kliknite pravým tlačidlom myši na blok a vyberte **Povoliť blok** čím telo aktivujete.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Preložte` hlavu pozdĺž osi Y tak, aby vyčnievala z tela.
+
+  ![snímka obrazovky](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Ak chcete zreteľne vidieť rôzne tvary, zmeňte farbu hlavy.
+
+![snímka obrazovky](images/bug-head-black.png)
+
+Môžete tiež experimentovať s rôznymi farebnými kombináciami na ozdobenie vytlačenej chyby trvalými značkami.
+
+--- /task --- --- task ---
+
+Môžete zmeniť farbu tela modelu chyby? Dalo by sa zmeniť na farbu vlákna, s ktorým chcete tlačiť, alebo na farbu permanentnej značky, s ktorou chcete farbu zafarbiť.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Toto je blok, ktorý potrebujete.
 
-![screenshot](images/bug-colour-block.png)
+![snímka obrazovky](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Tu je príklad so zeleným telom:
 
-![screenshot](images/bug-body-colour.png)
+![snímka obrazovky](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
