@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Κάνε επίπεδη τη βάση του σώματος
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Τώρα ίσιωσε τη βάση του σώματος για να κάνεις το έντομο πιο ρεαλιστικό. Ένα μοντέλο με επίπεδη βάση είναι επίσης ευκολότερο στην τρισδιάστατη εκτύπωση!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Για να γίνει αυτό, μπορείς απλά να αφαιρέσεις ένα κύβο από το μοντέλο σου χρησιμοποιώντας το μπλοκ `διαφορά`{:class="blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Για να ξεκινήσεις, δημιούργησε ένα κύβο για να καλύψεις το κάτω μισό του εντόμου (το τμήμα που βρίσκεται κάτω από το 0 στον άξονα Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Ο κύβος θα πρέπει να είναι `κεντραρισμένος` με 10 χιλιοστά ύψος (κατά μήκος του άξονα Ζ).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Πρόσθεσε ένα μπλοκ `μετατροπή` για να κινήσεις τον κύβο -5 χιλιοστά κατά μήκος του άξονα Ζ (κάτω).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Για να είναι εύκολο να πει ξεχωρίσεις τον κύβο από το σώμα του εντόμου σου, πρόσθεσε ένα μπλοκ `χρώματος` για να κάνεις τον κύβο διαφορετικό χρώμα.
 
-![screenshot](images/bug-body-cuboid.png)
+![στιγμιότυπο οθόνης](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Ο κύβος είναι μεγαλύτερος από το σώμα του εντόμου. Αυτό σημαίνει ότι μπορείς να προσθέσεις στο έντομο χωρίς να χρειαστεί να κάνεις τον κύβο μεγαλύτερο αργότερα.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Χρησιμοποίησε ένα μπλοκ `διαφορά`{:class="blockcadsetops"} για να αφαιρέσεις τον κύβο από το σώμα.
 
-![screenshot](images/bug-difference.png)
+![στιγμιότυπο οθόνης](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Τώρα το σώμα του εντόμου έχει μια επίπεδη βάση!
 
-Drag your model around in the viewer to see it from different angles.
+Σύρε το μοντέλο σου γύρω από τον θεατή για να το δεις από διάφορες γωνίες.
 
 --- /task ---
 
