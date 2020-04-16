@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D natisni hrošča 3D in naredi svoj dizajn
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Če imaš dostop do 3D tiskalnika, lahko hrošča natisneš in nato okrasiš.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Izriši model in klikni **Ustvari STL**. Ne pozabi, kam boš shranil datoteko STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D natisni svojega hrošča.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Lahko ga natisneš v prevladujoči barvi hrošča ali pa uporabiš prozorno ali belo nitko.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Dokončaj hrošča s trajnimi flomastri!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Lahko bi pobarval glavo in noge v črni barvi ali dodal pike in črte v drugi barvi.
 
-Here are some examples:
+Tu je nekaj primerov:
 
-![screenshot](images/bug-decorated.png)
+![posnetek zaslona](images/bug-decorated.png)
 
 --- /task ---
 
