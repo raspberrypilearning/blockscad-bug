@@ -1,44 +1,44 @@
-## Give your bug a body
+## Дай своему жуку тело
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Открой редактор BlocksCAD в веб-браузере. [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Теперь создай тело своему жуку.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Начнем со сферы `sphere` с радиусом `10` (здесь единица измерения – миллиметры):
 
-![screenshot](images/bug-body-sphere.png)
+![снимок экрана](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Нажми на кнопку **Render** (рендер/отрисовка), чтобы увидеть результат.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Совет: ты можешь изменить цвет отображаемой модели, нажав на цветной квадрат.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Теперь растяните сферу вдоль оси Y, чтобы создать вытянутое тело для жука.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Блок `scale`{: class="blockscadtransforms"} позволяет растягивать или сдавливать объекты вдоль осей X, Y и Z. Установи значение Y на `1.2` чтобы растянуть сферу вдоль оси Y.
 
-![screenshot](images/bug-body-y.png)
+![снимок экрана](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Нажми **Render** снова и убедись, что сфера растянута в эллипсоид. Посмотри на свою модель с разных сторон, чтобы увидеть, как она изменилась.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Совет: каждый раз, когда ты вносишь изменения в код, тебе нужно нажимать **Render**, чтобы увидеть результаты.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Теперь немного раздави эллипсоид вдоль оси Z, чтобы сделать жука более плоским.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Установка значения оси ниже `1` делает объект меньше вдоль этой оси. Поэтому измени значение Z в блоке `scale`{:class="blockscadtransforms"} на `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![снимок экрана](images/bug-body-z.png)
 
 --- /task ---
 
