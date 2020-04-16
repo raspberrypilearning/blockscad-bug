@@ -16,7 +16,7 @@
 
 यदि आप नया `sphere` देखना चाहते हैं, तो अस्थायी रूप से शरीर को उसके `scale`{:class="blockscadtransforms"} ब्लॉक पर राइट-क्लिक (right-click) करके **Disable block** को चुनें। फिर यह ब्लॉक और इसके अंदर लेख को हलके रंग में करदिया जाता है और **Render**क्लिक करने पर बॉडी (body) दिखाई नहीं देती है।
 
-![स्क्रीनशॉट](images/bug-disable.png)
+![screenshot](images/bug-disable.png)
 
 फिर से ब्लॉक पर राइट-क्लिक (right-click) करें और बॉडी (body) को दोबारा देखने के लिए **Enable block** को चुनें।
 
@@ -24,13 +24,13 @@
 
 सिर को शरीर से अलग दिखाने के लिए, सिर को Y axis के समानांतर `Translate` करें |
 
-  ![स्क्रीनशॉट](images/bug-head.png)
+  ![screenshot](images/bug-head.png)
 
 --- /task --- --- task ---
 
 यदि आप स्पष्ट रूप से विभिन्न आकृतियों को देखना चाहते हैं, तो सिर का रंग बदल दें।
 
-![स्क्रीनशॉट](images/bug-head-black.png)
+![screenshot](images/bug-head-black.png)
 
 आप अपने प्रिंटेड बग (printed bug) को सजाने के लिए विभिन्न रंगों के टिकाऊ मार्कर्स का प्रयोग भी कर सकते हैं |
 
@@ -42,7 +42,7 @@
 
 आपको इन ब्लॉक्स की आवश्यकता होगी:
 
-![स्क्रीनशॉट](images/bug-colour-block.png)
+![screenshot](images/bug-colour-block.png)
 
 --- /hint ---
 
@@ -50,7 +50,7 @@
 
 यहाँ एक हरे रंग के शरीर के साथ एक उदाहरण दिया गया है:
 
-![स्क्रीनशॉट](images/bug-body-colour.png)
+![screenshot](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
