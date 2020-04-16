@@ -1,58 +1,58 @@
-## Introduction
+## מבוא
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+בפרויקט זה תשתמשו ב- BlocksCAD כדי לתכנן באג או חרק תלת-ממדי בעזרת צורות גיאומטריות.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+אם יש לך גישה למדפסת תלת ממדית, אתה יכול להדפיס את הבאג שאתה מעצב. לאחר הדפסת הבאג שלך, תוכל להוסיף פרטים באמצעות עטים קבועים לסמן.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+תוכלו גם להשתמש בכישורים שלמדתם לעיצוב באג משלכם או יצור אחר בעזרת צורות גיאומטריות.
 
-The bugs make great rewards for debugging!
+הבאגים מפיקים תגמולים גדולים עבור ניפוי באגים!
 
-### What you will make
+### התוצר
 
-The finished bug looks like this:
+הבאג המוגמר נראה כך:
 
-![screenshot](images/bug-complete.png)
+![צילום מסך](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+אם יש לך גישה למדפסת תלת ממדית, אתה יכול להדפיס את הבאג שלך ואז לקשט אותו.
 
-![Complete project](images/bug-showcase.png)
+![פרוייקט שלם](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+מרבית מדפסות התלת מימד יכולות להדפיס רק בצבע אחד, כך שתוכלו להוסיף פרטים בעזרת סמנים קבועים כדי שהבאג שלכם ייראה טוב יותר.
 
 --- collapse ---
 ---
-title: What you will need
+title: למה תזדקק
 ---
 
-### Hardware
+### חומרה
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ מדפסת תלת מימד, ונימה בצבע לבחירתך
++ עטים סמנים קבועים צבעוניים במגוון צבעים - צבעים מתכתיים עובדים היטב
 
-### Software
+### תוכנה
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ ניתן להשלים את הפרויקט בדפדפן אינטרנט באמצעות BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: מה תלמד
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ דוגמנות תלת מימד עם צורות גיאומטריות (כדורים)
++ שימוש `בקנה מידה` למתוח צורות geometic
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: מידע נוסף למורי המועדון
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/blockscad-bug/print).
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+הורד את קוד הפרויקט המוגמר בכתובת [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
