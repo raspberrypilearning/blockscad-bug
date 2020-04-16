@@ -1,58 +1,58 @@
-## Introduction
+## Uvod
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+V tem projektu boš z BlocksCAD-om oblikoval 3D hrošča ali žuželko z uporabo geometrijskih oblik.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Če imaš dostop do 3D tiskalnika, lahko oblikovanega hrošča natisneš. Ko je hrošč natisnjena, mu lahko dodaš podrobnosti s pomočjo trajnega flomastra.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Pridobljene veščine iz oblikovanja hrošča, lahko uporabiš tudi za ustvarjanje drugih kreatur, z uporabo geometrijskih oblik.
 
-The bugs make great rewards for debugging!
+Hrošči so krasna nagrada za odpravljanje napak!
 
-### What you will make
+### Kaj boš ustvaril-a?
 
-The finished bug looks like this:
+Zaključen hrošč je videti tako:
 
-![screenshot](images/bug-complete.png)
+![posnetek zaslona](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Če imaš dostop do 3D tiskalnika, lahko hrošča natisneš in ga nato okrasiš.
 
-![Complete project](images/bug-showcase.png)
+![Dokončan projekt](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Večina 3D-tiskalnikov lahko tiska samo v eni barvi, zato lahko dodaš podrobnosti s trajnimi pisali, da bo hrošček izgledal še lepše.
 
 --- collapse ---
 ---
-title: What you will need
+title: Kaj potrebuješ? 
 ---
 
-### Hardware
+### Strojna oprema
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D tiskalnik in nitke izbrane barve
++ Barvna pisala za trajno označevanje različnih barv  - zelo primerne so kovinske barve
 
-### Software
+### Programska oprema
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Ta projekt je mogoče dokončati v spletnem brskalniku z uporabo BlocksCAD [blockcad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Kaj se boš naučil-a?
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D modeliranja z geometrijskimi oblikami (krogle)
++ Uporabljati `merilo`, za raztezanje geometrijskih oblik
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Dodatne informacije za izobraževalce
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Končano kodo projekta lahko prenesete iz [rpf.io/p/sl/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
