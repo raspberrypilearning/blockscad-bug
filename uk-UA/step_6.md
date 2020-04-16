@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Завдання: спроектуйте свій власний помилку
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Тепер настав час створити власну помилку, використовуючи ваші нові знання про BlocksCAD!
 
-Tips:
+Поради:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Більшість 3D-принтерів можуть друкувати лише в одному кольорі. Ви можете використовувати кольори в BlocksCAD для оформлення потрібного вигляду, а потім додавати деталі перманентними фломастерами після друку.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Не робіть будь-яку частину вашої помилки занадто тонкою, інакше вона легко зламається.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Уникайте додавання деталей, які мають зазори під ними, коли вони надруковані в 3D, оскільки 3D-принтери не можуть друкувати в повітрі. (Можна друкувати за допомогою опор, щоб утримувати частини вашої моделі, але це ускладнює друк.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Подумайте, наскільки великою буде ваша помилка. Якщо ви зробите його занадто великим, знадобиться багато часу, щоб надрукувати і використовувати багато ниток.
 
 --- /challenge ---
 
