@@ -1,64 +1,64 @@
-## Create legs
+## 脚を作成する
 
-Now the bug needs six legs!
+バグには6本の足が必要です！
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+まず、虫の体の真ん中に足のペアを置きます。
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+`union` ブロックの上部にある `+` をクリックして、別のセクションを追加します。 伸ばした `球` を追加して、一対の脚を作成します。
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![スクリーンショット](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+必要に応じて、バグの本体を無効にして、脚がどのように作成されるかを確認できます。
 
-![screenshot](images/bug-legs-disable.png)
+![スクリーンショット](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+次に、本体を再度有効にして、バグの作業を続行します。
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+次に、別の足のペアを追加します。
 
-Your bug needs to look like this:
+同じ設定で、 `スケーリングされた` `球` をもう</code>つ追加します。 次に、 `` 回転させ、Z軸に沿って `30` 度下がります。これにより、脚が斜めに突き出ます。
 
-![screenshot](images/bug-finished.png)
+![スクリーンショット](images/bug-legs-2-annotated.png)
+
+これで、バグには2つの中脚とそれぞれ1つの前脚と後脚があります。
+
+--- /task ---
+
+--- task ---
+
+バグに3つの完全な脚のペアのセットが含まれるように、3番目の脚のペアを追加できますか？
+
+バグは次のようにする必要があります。
+
+![スクリーンショット](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+3番目の `スケールの` `球`を追加する必要があります。
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`2番目の <code>球体`と反対方向に</code>{：class = "blockscadtransforms"}回転させます</code> 。 円には360度あります。
 
-Here are the blocks you need:
+必要なブロックは次のとおりです。
 
-![screenshot](images/bug-legs-blocks.png)
+![スクリーンショット](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+必要なコードは次のとおりです。
 
-![screenshot](images/bug-legs-3-annotated.png)
+![スクリーンショット](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
