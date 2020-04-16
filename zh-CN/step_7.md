@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D打印和装饰设计
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+如果可以使用3D打印机，则现在可以打印错误，然后对其进行装饰。
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+渲染模型，然后单击 **生成STL**。 记住在哪里保存STL文件。
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D打印您的错误。
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+您可以使用错误的主要颜色进行打印，也可以使用透明或白色的灯丝。
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+使用永久性记号笔完成您的错误！
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+您可以将头部和腿部染成黑色，或者添加其他颜色的斑点或条纹。
 
-Here are some examples:
+这里有些例子：
 
-![screenshot](images/bug-decorated.png)
+![截屏](images/bug-decorated.png)
 
 --- /task ---
 
