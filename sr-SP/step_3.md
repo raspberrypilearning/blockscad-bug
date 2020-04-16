@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Изравнајте базу тела
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Сада изравнајте базу тела како бисте направили бугу реалнијом. Модел са равном базом је такође лакши за 3Д штампање!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Да бисте то учинили, можете једноставно уклонити кубоид из модела користећи блок `разлика`{: цласс = "блоцксцадсетопс"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+За почетак направите кубоид за покривање доње половине бубе (дела који се налази испод 0 на оси З).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Квадра треба да буде `центрирано` и 10мм високи (дуж З осе).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Додајте `блок за превођење` да бисте померили кубоид -5 мм дуж оси З (доле).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Да бисте олакшали раздвајање кубоида и тела ваше бубе, додајте блок `боје` да кубоид постане другачију боју.
 
-![screenshot](images/bug-body-cuboid.png)
+![слика екрана](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Кубоид је већи од тела бубе. То значи да можете додати у буг без потребе да накнадно повећавате кубоид.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Користите блок `разлика`{: цласс = "блоцксцадсетопс"} да бисте уклонили кубоид из тела.
 
-![screenshot](images/bug-difference.png)
+![слика екрана](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Сада тело ваше бубе има равну основу!
 
-Drag your model around in the viewer to see it from different angles.
+Превуците свој модел око себе у прегледачу да бисте га видели из различитих углова.
 
 --- /task ---
 
