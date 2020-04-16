@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Zorluk: Kendi hatanızı tasarlayın
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Şimdi yeni BlocksCAD bilginizi kullanarak kendi hatanızı tasarlamanın zamanı geldi!
 
-Tips:
+İpuçları:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Çoğu 3D yazıcı yalnızca bir renkte yazdırabilir. İstediğiniz görünümü tasarlamak için BlocksCAD'deki renkleri kullanabilir ve ardından yazdırdıktan sonra kalıcı marker kalemlerle ayrıntılar ekleyebilirsiniz.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Hatanın herhangi bir parçasını çok ince yapmayın, aksi takdirde kolayca kırılır.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ 3B yazıcılar havada yazdırılamadığından, 3B yazdırıldıklarında altlarında boşluklar olan parçalar eklemekten kaçının. (Modelinizin bir kısmını tutmak için destekleri kullanarak yazdırmak mümkündür, ancak bu yazdırmayı daha karmaşık hale getirir.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Hatanızın ne kadar büyük olacağını düşünün. Çok büyük yaparsanız, çok fazla filament yazdırmak ve kullanmak uzun zaman alacaktır.
 
 --- /challenge ---
 
