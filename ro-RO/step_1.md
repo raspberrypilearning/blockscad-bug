@@ -1,58 +1,60 @@
-## Introduction
+## Introducere
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+În acest proiect, veți utiliza BlocksCAD pentru a proiecta un bug 3D sau o insectă folosind forme geometrice.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Dacă aveți acces la o imprimantă 3D, puteți imprima eroarea pe care o proiectați. Odată tipărită eroarea dvs., puteți adăuga detalii folosind pixuri pentru marker permanent.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+De asemenea, veți putea utiliza abilitățile pe care le-ați învățat pentru a vă proiecta propriul bug sau o altă creatură folosind forme geometrice.
 
-The bugs make great rewards for debugging!
+Bug-urile aduc beneficii mari pentru depanare!
 
-### What you will make
+### Ce vei face
 
-The finished bug looks like this:
+Eroarea terminată arată astfel:
 
-![screenshot](images/bug-complete.png)
+![captură de ecran](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Dacă aveți acces la o imprimantă 3D, puteți să vă imprimați eroarea și apoi să o decorați.
 
-![Complete project](images/bug-showcase.png)
+![Proiect complet](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare, astfel încât să puteți adăuga detalii folosind markere permanente pentru ca eroarea dvs. să pară și mai bună.
 
 --- collapse ---
 ---
-title: What you will need
+title: De ce vei avea nevoie
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ O imprimantă 3D și filament într-o culoare la alegere
++ Stilouri colorate permanente colorate într-o gamă de culori - culorile metalice funcționează bine
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Acest proiect poate fi finalizat într-un browser web folosind BlocksCAD [blockcad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ce vei învăța
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modelare 3D cu forme geometrice (sfere)
++ Folosind scala</code> pentru a întinde formele geometrice</li>
+</ul>
 
---- /collapse ---
+<p spaces-before="0">--- /collapse ---</p>
 
---- collapse ---
----
-title: Additional information for educators
----
+<p spaces-before="0">--- collapse ---</p>
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+<hr />
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+<h2 spaces-before="0">title: Informații suplimentare pentru educatori</h2>
 
---- /collapse ---
+<p spaces-before="0">Dacă trebuie să printezi acest proiect, folosește te rog <a href="https://projects.raspberrypi.org/en/projects/blockscad-bug/print">versiunea printabilă</a>{:target="_blank"}.</p>
+
+<p spaces-before="0">Descărcați codul de proiect finalizat la <a href="http://rpf.io/p/en/blockscad-bug-get">rpf.io/p/en/blockscad-bug-get</a>.</p>
+
+<p spaces-before="0">--- /collapse ---</p>
