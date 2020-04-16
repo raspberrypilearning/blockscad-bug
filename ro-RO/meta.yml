@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: Bug 3D
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: Proiectați o insectă cu bug imprimabilă 3D cu BlocksCAD
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: Give your bug a body
+    title: Dă-ți un corp de eroare
   - 
-    title: Flatten the base of the body
+    title: Aplatizați baza corpului
   - 
-    title: Add a head to your bug
+    title: Adăugați un cap la eroare
   - 
-    title: Create legs
+    title: Creați picioare
   - 
-    title: Design your own bug
+    title: Proiectați-vă propriul bug
   - 
-    title: 3D print and decorate your design
+    title: Imprimare 3D și decorați designul
