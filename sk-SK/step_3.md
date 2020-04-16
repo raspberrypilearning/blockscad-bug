@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Zrovnajte spodnú časť tela
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Teraz vyrovnajte základňu tela, aby sa vaša chyba stala realistickejšou. Model s rovnou základňou sa tiež ľahšie 3D tlačí!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Za týmto účelom môžete jednoducho odstrániť kváder z vášho modelu pomocou bloku `rozdiel`{: class = "blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Na začiatok vytvorte kváder, ktorý pokryje spodnú polovicu chyby (časť, ktorá leží pod 0 na osi Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Kvádra musí byť `stred` a 10 mm vysoký (v smere osi Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Ak chcete posunúť kváder -5 mm pozdĺž osi Z (nadol), pridajte blok `prekladom`.
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Ak chcete ľahšie rozoznať kváder a telo vašej chyby od seba, pridajte blok `farieb` aby sa kváder stal inou farbou.
 
-![screenshot](images/bug-body-cuboid.png)
+![snímka obrazovky](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Kocka je väčšia ako telo chyby. To znamená, že môžete pridať k chybe bez toho, aby ste museli kváder zväčšiť.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Na odstránenie kvádra z tela použite blok `rozdiel`{: class = "blockscadsetops"}.
 
-![screenshot](images/bug-difference.png)
+![snímka obrazovky](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Telo vašej chyby má teraz rovnú základňu!
 
-Drag your model around in the viewer to see it from different angles.
+Potiahnutím modelu v prehliadači ho zobrazíte z rôznych uhlov.
 
 --- /task ---
 
