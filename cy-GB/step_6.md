@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Her: dyluniwch eich nam eich hun
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Nawr mae'n bryd dylunio'ch nam eich hun gan ddefnyddio'ch gwybodaeth newydd am BlocksCAD!
 
-Tips:
+Awgrymiadau:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Dim ond mewn un lliw y gall y mwyafrif o argraffwyr 3D argraffu. Gallwch ddefnyddio lliwiau yn BlocksCAD i ddylunio'r edrychiad rydych chi ei eisiau ac yna ychwanegu manylion gyda beiros marcio parhaol ar ôl eu hargraffu.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Peidiwch â gwneud unrhyw ran o'ch nam yn rhy fain, neu bydd yn torri'n hawdd.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Ceisiwch osgoi ychwanegu rhannau sydd â bylchau oddi tanynt pan fyddant wedi'u hargraffu 3D, oherwydd ni all argraffwyr 3D argraffu yng nghanol yr awyr. (Mae'n bosib argraffu gan ddefnyddio cynhalwyr i ddal rhannau o'ch model, ond mae hyn yn gwneud argraffu yn fwy cymhleth.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Meddyliwch pa mor fawr fydd eich nam. Os ydych chi'n ei wneud yn rhy fawr, yna bydd yn cymryd amser hir i argraffu a defnyddio llawer o ffilament.
 
 --- /challenge ---
 
