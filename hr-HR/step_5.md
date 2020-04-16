@@ -1,54 +1,54 @@
-## Create legs
+## Stvorite noge
 
-Now the bug needs six legs!
+Sada je bubi potrebno šest nogu!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Prvo stavite par nogu u sredinu tijela buba.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Kliknite `+` na vrhu bloka `Union` da biste dodali još jedan odjeljak. Dodajte ispruženu `sferu` kako biste stvorili par nogu.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![snimka zaslona](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Ako želite, možete onemogućiti tijelo kukca da vidite kako su izrađene noge.
 
 ![screenshot](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
+Zatim ponovo omogućite tijelu da nastavi raditi na svojoj bubi.
 
 --- /task ---
 
 --- task ---
 
-Now add another pair of legs.
+Sada dodajte još jedan par nogu.
 
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
+Dodajte još `skaliranu` `sferu` s istim postavkama. Zatim `zakrenite` za `30` udaljite se duž osi Z, tako da se noge ispružuju pod kutom.
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
-Now your bug has two middle legs and one front leg and back leg each!
+Sada vaša buba ima dvije srednje noge i po jednu prednju i stražnju nogu!
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Možete li dodati treći par nogu tako da kuka ima tri kompletna para nogu?
 
-Your bug needs to look like this:
+Vaš bug treba izgledati ovako:
 
 ![screenshot](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Trebate dodati treću `pomaknutu` `sferu`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Zakrenite`{: class = "blockcadtransforms"} u suprotnom smjeru od druge `sfere`. U krugu je 360 stupnjeva.
 
-Here are the blocks you need:
+Ovdje su blokovi koji vam trebaju:
 
 ![screenshot](images/bug-legs-blocks.png)
 
@@ -56,7 +56,7 @@ Here are the blocks you need:
 
 --- hint ---
 
-Here's the code you need:
+Evo vam potrebnog koda:
 
 ![screenshot](images/bug-legs-3-annotated.png)
 
