@@ -1,58 +1,58 @@
-## Introduction
+## Cyflwyniad
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+Yn y prosiect hwn, byddwch yn defnyddio BlocksCAD i ddylunio nam 3D neu bryfed gan ddefnyddio siapiau geometrig.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Os oes gennych argraffydd 3D, gallwch argraffu'r nam rydych chi'n ei ddylunio. Ar ôl i'ch byg gael ei argraffu, gallwch ychwanegu manylion gan ddefnyddio corlannau marcio parhaol.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Byddwch hefyd yn gallu defnyddio'r sgiliau rydych chi wedi'u dysgu i ddylunio'ch nam eich hun neu greadur arall gan ddefnyddio siapiau geometrig.
 
-The bugs make great rewards for debugging!
+Mae'r chwilod yn gwneud gwobrau gwych am ddadfygio!
 
-### What you will make
+### Yr hyn byddi di'n ei greu
 
-The finished bug looks like this:
+Mae'r byg gorffenedig yn edrych fel hyn:
 
-![screenshot](images/bug-complete.png)
+![sgrinlun](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Os oes gennych argraffydd 3D, gallwch argraffu eich nam ac yna ei addurno.
 
-![Complete project](images/bug-showcase.png)
+![Cwblhau'r prosiect](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Dim ond mewn un lliw y gall y mwyafrif o argraffwyr 3D argraffu, felly gallwch ychwanegu manylion gan ddefnyddio marcwyr parhaol i wneud i'ch byg edrych hyd yn oed yn well.
 
 --- collapse ---
 ---
-title: What you will need
+title: Beth fydd ei angen arno ti
 ---
 
-### Hardware
+### Caledwedd
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Argraffydd 3D, a ffilament mewn lliw o'ch dewis chi
++ Corlannau marciwr parhaol lliw mewn ystod o liwiau - mae lliwiau metelaidd yn gweithio'n dda
 
-### Software
+### Meddalwedd
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Gellir cwblhau'r prosiect hwn mewn porwr gwe gan ddefnyddio BlocksCAD [bloccad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Yr hyn byddi di'n ei ddysgu
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modelu 3D gyda siapiau geometrig (sfferau)
++ Gan ddefnyddio `graddfa` i ymestyn siapiau geometig
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Gwybodaeth ychwanegol i addysgwyr
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Dadlwythwch god gorffenedig y prosiect yn [rpf.io/p/cy/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
