@@ -1,64 +1,64 @@
-## Create legs
+## Bacak oluştur
 
-Now the bug needs six legs!
+Şimdi böcek altı bacağı gerekiyor!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Önce böceğin vücudunun ortasına bir çift bacak koyun.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Başka bir bölüm eklemek için `birleşim` bloğunun üstündeki `+` tıklayın. Bir çift bacak oluşturmak için gerilmiş `küre` ekleyin.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![ekran görüntüsü](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+İsterseniz, bacakların nasıl yapıldığını görmek için böceğin gövdesini devre dışı bırakabilirsiniz.
 
-![screenshot](images/bug-legs-disable.png)
+![ekran görüntüsü](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Ardından hatanız üzerinde çalışmaya devam etmek için vücudu tekrar etkinleştirin.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Şimdi başka bir çift bacak ekleyin.
 
-Your bug needs to look like this:
+Aynı ayarlarla `ölçekli` `küre` ekleyin. Daha sonra `` Z ekseni boyunca `30` dereceye kadar </code> döndürün, böylece bacaklar bir açıyla yapışır.
 
-![screenshot](images/bug-finished.png)
+![ekran görüntüsü](images/bug-legs-2-annotated.png)
+
+Şimdi böceğinizin iki orta bacağı ve bir ön bacağı ve arka bacağı vardır!
+
+--- /task ---
+
+--- task ---
+
+Üçüncü bir çift bacak ekleyebilir misiniz, böylece böceğin üç komple bacak çifti seti olacak mı?
+
+Böceğinizin şöyle görünmesi gerekir:
+
+![ekran görüntüsü](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Üçüncü bir `ölçekli` `küre`eklemeniz gerekir.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+``{: class = "blockscadtransforms"} döndürün ve ikinci `kürenin`tersi yönde döndürün. Bir daire içinde 360 derece vardır.
 
-Here are the blocks you need:
+İşte ihtiyacınız olan bloklar:
 
-![screenshot](images/bug-legs-blocks.png)
+![ekran görüntüsü](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+İşte ihtiyacınız olan kod:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![ekran görüntüsü](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
