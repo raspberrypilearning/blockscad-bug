@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## 体の付け根を平らにする
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+本体の底面を平らにして、バグをより現実的にします。 底面がフラットなモデルも3Dプリントしやすい！
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+これを行うには、 `差`{：class = "blockscadsetops"}ブロックを使用して、モデルから直方体を削除するだけです。
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+まず、バグの下半分（Z軸で0の下にある部分）を覆う直方体を作成します。
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+立方体は `を中心にして` と10mmの高さでなければなりません（Z軸に沿って）。
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+`平行移動` ブロックを追加して、直方体をZ軸に沿って-5mm移動します（下）。
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+直方体とバグの体を簡単に区別できるようにするには、 `色` ブロックを追加して、直方体を別の色にします。
 
-![screenshot](images/bug-body-cuboid.png)
+![スクリーンショット](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+直方体は虫の体よりも大きい。 これは、直方体を後で大きくする必要なく、バグを追加できることを意味します。
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+`差`{：class = "blockscadsetops"}ブロックを使用して、ボディから直方体を削除します。
 
-![screenshot](images/bug-difference.png)
+![スクリーンショット](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+これで、バグの本体の底面が平らになりました。
 
-Drag your model around in the viewer to see it from different angles.
+ビューア内でモデルをドラッグして、さまざまな角度から見ます。
 
 --- /task ---
 
