@@ -1,64 +1,64 @@
-## Create legs
+## 다리 만들기
 
-Now the bug needs six legs!
+이제 버그는 6 개의 다리가 필요합니다!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+먼저 버그의 몸 중간에 다리 한 켤레를 넣으십시오.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+`Union` 블록 상단의 `+` 을 클릭하여 다른 섹션을 추가하십시오. 늘어난 `구` 을 추가하여 다리 쌍을 만듭니다.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![스크린샷](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+원하는 경우 버그 본문을 비활성화하여 다리가 어떻게 만들어 지는지 확인할 수 있습니다.
 
-![screenshot](images/bug-legs-disable.png)
+![스크린샷](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+그런 다음 본문을 다시 활성화하여 버그 작업을 계속하십시오.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+이제 다른 다리 쌍을 추가하십시오.
 
-Your bug needs to look like this:
+동일한 설정으로 다른 `스케일` `구` 을 추가하십시오. 그런 다음 Z 축을 따라 `` 씩 `30` 씩 회전시켜 다리가 비스듬히 튀어 나오게합니다.
 
-![screenshot](images/bug-finished.png)
+![스크린샷](images/bug-legs-2-annotated.png)
+
+이제 버그에는 두 개의 가운데 다리와 하나의 앞 다리와 뒷 다리가 있습니다!
+
+--- /task ---
+
+--- task ---
+
+버그에 3 개의 완전한 레그 세트 세트가 있도록 세 번째 레그 세트를 추가 할 수 있습니까?
+
+버그는 다음과 같아야합니다.
+
+![스크린샷](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+세 번째 `스케일` `구`을 추가해야합니다.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`회전`{CLASS = "blockscadtransforms"} 제 반대 방향이 `구`. 원 안에는 360 도가 있습니다.
 
-Here are the blocks you need:
+필요한 코드 블록은 다음과 같습니다.
 
-![screenshot](images/bug-legs-blocks.png)
+![스크린샷](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+필요한 코드는 다음과 같습니다.
 
-![screenshot](images/bug-legs-3-annotated.png)
+![스크린샷](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
