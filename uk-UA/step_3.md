@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Згладьте основу тіла
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Тепер сплюстіть основу тіла, щоб зробити помилку реалістичнішою. Модель з плоскою основою також простіше для 3D-друку!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Для цього ви можете просто вийняти кубоїд зі своєї моделі за допомогою блоку `різниці`{: class = "blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Для початку створіть кубоїд, щоб прикрити нижню половину помилки (частина, яка сидить нижче 0 на осі Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Кубоїд повинен бути `центру і висотою` мм (по осі Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Додайте блок `перекладу на` щоб перемістити кубовик на 5 мм по осі Z (вниз).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Щоб полегшити розрізнення кубоїди та тіла помилки, додайте блок `кольорів` щоб кубоїд став іншим кольором.
 
-![screenshot](images/bug-body-cuboid.png)
+![знімок екрану](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Кубоїд більший за тіло клопа. Це означає, що ви можете додати до помилки, не потребуючи згодом збільшувати кубоїд.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Використовуйте блок `різниці`{: class = "blockscadsetops"}, щоб вийняти кубоїд з тіла.
 
-![screenshot](images/bug-difference.png)
+![скріншот](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Тепер тіло вашої клопи має плоску основу!
 
-Drag your model around in the viewer to see it from different angles.
+Перетягніть свою модель навколо у глядачі, щоб побачити її з різних кутів.
 
 --- /task ---
 
