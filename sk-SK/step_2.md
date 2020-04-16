@@ -1,44 +1,44 @@
-## Give your bug a body
+## Dajte svojmu telu chybu
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Otvorte editor BlocksCAD vo webovom prehliadači [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Teraz vytvorte telo svojej chyby.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Začnite `guľou` s polomerom `10` (jednotka je tu milimetre):
 
-![screenshot](images/bug-body-sphere.png)
+![snímka obrazovky](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Kliknutím na tlačidlo **Render** zobrazíte výsledok.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Tip: farbu vykresleného modelu môžete zmeniť kliknutím na farebný štvorec.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Teraz natiahnite guľu pozdĺž jej osi Y a vytvorte pre ňu pretiahnuté telo.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`stupnice`{: class = "blockscadtransforms"} blok umožňuje natiahnuť alebo squash predmety pozdĺž X, Y a Z osi. Nastavte hodnotu Y na `1,2` aby ste natiahli guľu pozdĺž osi Y.
 
-![screenshot](images/bug-body-y.png)
+![snímka obrazovky](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Znovu kliknite na **Render** a skontrolujte, či bola guľa roztiahnutá do elipsoidu. Pozrite sa na svoj model z rôznych uhlov, aby ste videli, ako sa zmenil.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Tip: Vždy, keď urobíte zmenu kódu, musíte kliknúť na **Vykresliť** aby ste videli výsledky.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Teraz vypláchnite elipsoid trochu pozdĺž osi Z, aby sa vytvorila ploššia chyba.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Nastavením hodnoty osi pod `1` sa objekt zmenší pozdĺž tejto osi. Preto zmeňte hodnotu Z v bloku `stupnica`{: class = "blockscadtransforms"} na `0,8`.
 
-![screenshot](images/bug-body-z.png)
+![snímka obrazovky](images/bug-body-z.png)
 
 --- /task ---
 
