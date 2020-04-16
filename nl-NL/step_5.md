@@ -1,64 +1,64 @@
-## Create legs
+## Maak benen
 
-Now the bug needs six legs!
+Nu heeft de kever zes poten nodig!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Leg eerst een paar poten in het midden van het lijf van de kever.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Klik op de `+` bovenaan het blok `union` om nog een sectie toe te voegen. Voeg een uitgerekte `sphere` toe om een paar benen te maken.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![schermafbeelding](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Als je wilt, kun je de body van de kever uitschakelen om te zien hoe de benen zijn gemaakt.
 
-![screenshot](images/bug-legs-disable.png)
+![schermafbeelding](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Schakel het lichaam vervolgens opnieuw in om aan je kever te blijven werken.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Voeg nu nog een paar poten toe.
 
-Your bug needs to look like this:
+Voeg nog een `scale` `bol` met dezelfde instellingen toe. Draai vervolgens met `rotate` de benen `30` graden omlaag langs de Z-as zodat deze schuin uitsteken.
 
-![screenshot](images/bug-finished.png)
+![schermafbeelding](images/bug-legs-2-annotated.png)
+
+Nu heeft je insect twee middelste benen en een voor- en achterbeen!
+
+--- /task ---
+
+--- task ---
+
+Kun je een derde paar poten toevoegen zodat de kever drie complete sets poten heeft?
+
+Je kever moet er als volgt uitzien:
+
+![schermafbeelding](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Je moet een derde `scale` `sphere` toevoegen.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Rotate`{:class="blockscadtransforms"} in de tegengestelde richting van de tweede `sphere`. Er zitten 360 graden in een cirkel.
 
-Here are the blocks you need:
+Dit zijn de blokken die je nodig hebt:
 
-![screenshot](images/bug-legs-blocks.png)
+![schermafbeelding](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Hier is de code die je nodig hebt:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![schermafbeelding](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
