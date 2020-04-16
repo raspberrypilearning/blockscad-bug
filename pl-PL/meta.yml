@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: Żuczek 3D
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: Zaprojektuj owada-żuczka do wydrukowania w 3D za pomocą BlocksCAD
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: Wprowadzenie
   - 
-    title: Give your bug a body
+    title: Nadaj swojemu żuczkowi tułów
   - 
-    title: Flatten the base of the body
+    title: Spłaszcz podstawę tułowia
   - 
-    title: Add a head to your bug
+    title: Dodaj głowę do swojego żuczka
   - 
-    title: Create legs
+    title: Stwórz nogi
   - 
-    title: Design your own bug
+    title: Zaprojektuj swojego własnego owada - żuczka
   - 
-    title: 3D print and decorate your design
+    title: Wydrukuj 3D i udekoruj swój model
