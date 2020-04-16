@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## אתגר: תכנן את הבאג שלך
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+עכשיו הגיע הזמן לעצב באג משלך בעזרת הידע החדש שלך ב- BlocksCAD!
 
-Tips:
+טיפים:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ רוב מדפסות התלת מימד יכולות להדפיס רק בצבע אחד. אתה יכול להשתמש בצבעים ב- BlocksCAD כדי לעצב את המראה שאתה רוצה ואז להוסיף פרטים עם עטים על סמן קבוע לאחר ההדפסה.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ אל תהפוך חלק מהבאג שלך לרזה מדי, או שהוא ישבר בקלות.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ הימנע מהוספת חלקים עם פערים מתחתים כשהם מודפסים בתלת מימד, מכיוון שמדפסות תלת מימד אינן יכולות להדפיס באוויר. (אפשר להדפיס באמצעות תומכים כדי להחזיק חלקים מהדגם שלך, אך הדבר הופך את ההדפסה למסובכת יותר.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ חשוב על כמה גדול הבאג שלך. אם אתה עושה את זה גדול מדי, אז ייקח הרבה זמן להדפיס ולהשתמש בנימה נימה רבה.
 
 --- /challenge ---
 
