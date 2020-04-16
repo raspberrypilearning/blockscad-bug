@@ -14,7 +14,7 @@ Add a `translate` block to move the cuboid -5mm along the Z axis (down).
 
 To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
 
-![screenshot](images/bug-body-cuboid.png)
+![captura de pantalla](images/bug-body-cuboid.png)
 
 The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
 
@@ -24,7 +24,7 @@ The cuboid is bigger than the bug's body. This means you can add to the bug with
 
 Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
 
-![screenshot](images/bug-difference.png)
+![captura de pantalla](images/bug-difference.png)
 
 Now your bug's body has a flat base!
 
