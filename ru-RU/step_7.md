@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Печатаем в 3D и украшаем свой дизайн
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Если у тебя есть доступ к 3D-принтеру, ты можешь распечатать жука и украсить его.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Отрендери свою модели и затем нажми **Generate STL**. Помни, куда ты сохраняешь файл STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D-печать жука.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Ты можешь печатать, используя основной цвет твоего жука или ты можешь использовать прозрачную или белую нить.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Заверши своего жука, используя перманентные маркеры!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Ты можешь покрасить голову и ноги в черный или добавить пятна или полосы другого цвета.
 
-Here are some examples:
+Вот некоторые примеры:
 
-![screenshot](images/bug-decorated.png)
+![снимок экрана](images/bug-decorated.png)
 
 --- /task ---
 
