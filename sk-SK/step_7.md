@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D tlač a ozdobte svoj dizajn
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Ak máte prístup k 3D tlačiarni, môžete svoju chybu vytlačiť a potom ju vyzdobiť.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Vykreslite svoj model a potom kliknite na **Vygenerovať STL**. Pamätajte, kam uložíte súbor STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Svoju chybu vytlačte v 3D.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Môžete tlačiť pomocou hlavnej farby vašej chyby alebo môžete použiť číre alebo biele vlákno.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Dokončite svoju chybu pomocou permanentných popisovacích pier.
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Mohli by ste zafarbiť hlavu a nohy čierne alebo pridať škvrny alebo pruhy v inej farbe.
 
-Here are some examples:
+Tu je niekoľko príkladov:
 
-![screenshot](images/bug-decorated.png)
+![snímka obrazovky](images/bug-decorated.png)
 
 --- /task ---
 
