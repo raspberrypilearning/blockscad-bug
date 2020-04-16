@@ -1,64 +1,64 @@
-## Create legs
+## Stwórz nogi
 
-Now the bug needs six legs!
+Teraz żuk potrzebuje aż sześciu nóg!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Najpierw umieść parę nóg pośrodku tułowia owada.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Kliknij `+` u góry bloku `union`, aby dodać kolejną sekcję. Dodaj rozciągniętą `sferę` aby stworzyć parę nóg.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![zrzut ekranu](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Jeśli chcesz, możesz wyłączyć tułów żuka, aby zobaczyć, jak powstają nogi.
 
-![screenshot](images/bug-legs-disable.png)
+![zrzut ekranu](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Następnie ponownie włącz tułów, aby kontynuować pracę nad żukiem.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Teraz dodaj kolejną parę nóg.
 
-Your bug needs to look like this:
+Dodaj kolejną `skalowaną` `sferę` z tymi samymi ustawieniami. Następnie `obróć(ang. rotate)` o `30` stopni wzdłuż osi Z, tak aby nogi wystawały pod kątem.
 
-![screenshot](images/bug-finished.png)
+![zrzut ekranu](images/bug-legs-2-annotated.png)
+
+Teraz twój żuk ma dwie środkowe nogi oraz po jednej przedniej i tylnej nodze!
+
+--- /task ---
+
+--- task ---
+
+Czy możesz dodać trzecią parę nóg, aby żuk miał trzy całe pary nóg?
+
+Twój owad musi wyglądać następująco:
+
+![zrzut ekranu](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Musisz dodać trzecią `skalowaną` `sferę`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Rotate`{:class="blockscadtransforms"} w przeciwnym kierunku do drugiej `sfery`. W okręgu jest 360 stopni.
 
-Here are the blocks you need:
+Oto bloki, których potrzebujesz:
 
-![screenshot](images/bug-legs-blocks.png)
+![zrzut ekranu](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Oto kod, którego potrzebujesz:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![zrzut ekranu](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
