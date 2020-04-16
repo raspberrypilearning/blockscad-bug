@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D列印和裝飾你的設計
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+如果你可以使用3D印表機，那麼現在可以列印你的昆蟲，並對其進行裝飾。
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+渲染你的模型，然後點擊 **Generate STL**。 請記住你在哪裡儲存STL檔案。
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D列印你的昆蟲。
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+您可以使用昆蟲的主要顏色進行列印，也可以使用透明或白色的列印用長絲。
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+使用永久性麥克筆完成你的昆蟲！
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+你可以將頭部和腳部畫成黑色，或者添加其他顏色的斑點或條紋。
 
-Here are some examples:
+這裡有些範例：
 
-![screenshot](images/bug-decorated.png)
+![截圖](images/bug-decorated.png)
 
 --- /task ---
 
