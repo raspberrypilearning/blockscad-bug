@@ -1,64 +1,64 @@
-## Create legs
+## Δημιούργησε πόδια
 
-Now the bug needs six legs!
+Τώρα το έντομο χρειάζεται έξι πόδια!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Τοποθέτησε πρώτα ένα ζευγάρι πόδια στο μέσο του σώματος του εντόμου.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Κάνε κλικ στο `+` στο επάνω μέρος του μπλοκ `ένωση` για να προσθέσεις άλλη μια ενότητα. Πρόσθεσε μια τεντωμένη `σφαίρα` για να δημιουργήσεις ένα ζευγάρι ποδιών.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![στιγμιότυπο οθόνης](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Αν θέλεις, μπορείς να απενεργοποιήσεις το σώμα του εντόμου για να δεις πως γίνονται τα πόδια.
 
-![screenshot](images/bug-legs-disable.png)
+![στιγμιότυπο οθόνης](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Στη συνέχεια, ενεργοποίησε ξανά το σώμα για να συνεχίσεις να εργάζεσαι στο έντομό σου.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Τώρα πρόσθεσε ένα άλλο ζευγάρι των ποδιών.
 
-Your bug needs to look like this:
+Πρόσθεσε μια άλλη `κλιμακωτή` `σφαίρα` με τις ίδιες ρυθμίσεις. Στη συνέχεια, `περίστρεψέ` την κατά `30` μοίρες κατά μήκος του άξονα Ζ, έτσι ώστε τα πόδια να εξέλθουν υπό γωνία.
 
-![screenshot](images/bug-finished.png)
+![στιγμιότυπο οθόνης](images/bug-legs-2-annotated.png)
+
+Τώρα το έντομο έχει δύο μεσαία πόδια και ένα μπροστινό και πίσω πόδι έκαστο!
+
+--- /task ---
+
+--- task ---
+
+Μπορείς να προσθέσεις ένα τρίτο ζεύγος ποδιών έτσι ώστε το έντομο να έχει τρία πλήρη σύνολα ζευγών ποδιών;
+
+Το έντομό σου πρέπει να φαίνεται ως εξής:
+
+![στιγμιότυπο οθόνης](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Θα πρέπει να προσθέσεις μια τρίτο `κλιμακωτή` `σφαίρα`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Περίστρεψέ`{:class="blockscadtransforms"} την προς την αντίθετη κατεύθυνση από τη δεύτερη `σφαίρα`. Υπάρχουν 360 μοίρες σε έναν κύκλο.
 
-Here are the blocks you need:
+Εδώ είναι τα μπλοκ που χρειάζεσαι:
 
-![screenshot](images/bug-legs-blocks.png)
+![στιγμιότυπο οθόνης](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Εδώ είναι ο κώδικας που χρειάζεσαι:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![στιγμιότυπο οθόνης](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
