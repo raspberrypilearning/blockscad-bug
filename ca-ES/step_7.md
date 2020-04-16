@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Imprimeix en 3D i decora el teu disseny
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Si tens accés a una impressora 3D, pots imprimir la cuca i després decorar-la.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderitza el model i fes clic a **Generate STL**. Recorda on has desat el fitxer STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Imprimeix en 3D la teva cuca.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Pots imprimir utilitzant el color principal de la teva cuca, o pots emprar un filament transparent o blanc.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Acaba la teva cuca mitjançant retoladors permanents!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Pots acolorir el cap i les cames de negre o afegir taques o ratlles d’un altre color.
 
-Here are some examples:
+Aquests són alguns exemples:
 
-![screenshot](images/bug-decorated.png)
+![captura de pantalla](images/bug-decorated.png)
 
 --- /task ---
 
