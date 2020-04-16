@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## 課題：独自のバグを設計する
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+BlocksCADの新しい知識を使用して、独自のバグを設計する時が来ました！
 
-Tips:
+チップ：
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ ほとんどの3Dプリンターは、1色でのみ印刷できます。 BlocksCADで色を使用して希望の外観を設計し、印刷後にパーマネントマーカーペンで詳細を追加できます。
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ バグのどの部分も細くしすぎないようにしてください。そうしないと簡単に壊れてしまいます。
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ 3Dプリンターは空中で印刷できないため、3D印刷時に下に隙間がある部品を追加しないでください。 （サポートを使用してモデルの一部を保持するために印刷することは可能ですが、これにより印刷がより複雑になります。）
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ バグの大きさを考えてください。 大きくしすぎると、多くのフィラメントを印刷して使用するのに時間がかかります。
 
 --- /challenge ---
 
