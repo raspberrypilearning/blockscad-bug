@@ -1,64 +1,64 @@
-## Create legs
+## Criar pernas
 
-Now the bug needs six legs!
+Agora o inseto precisa de seis pernas!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Primeiro, coloca um par de pernas no meio do corpo do inseto.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Clique no `+` na parte superior do bloco `union` para acrescentar outra seção. Acrescenta uma esfera `esticada` para criar um par de pernas.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![captura de ecrã](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Se quiseres, podes desativar o corpo do inseto para ver como as pernas são feitas.
 
-![screenshot](images/bug-legs-disable.png)
+![captura de ecrã](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+A seguir, ativa o corpo novamente para continuar a trabalhar no teu inseto.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Agora adiciona-lhe outro par de pernas.
 
-Your bug needs to look like this:
+Adiciona outra `esfera` `à escala` com as mesmas configurações. Depois, `gira` `30` graus no eixo Z, para que as pernas fiquem inclinadas.
 
-![screenshot](images/bug-finished.png)
+![captura de ecrã](images/bug-legs-2-annotated.png)
+
+Agora, o teu inseto tem duas pernas do meio, uma da frente e outra de trás!
+
+--- /task ---
+
+--- task ---
+
+Consegues acrescentar um terceiro par de pernas para que o bug tenha três conjuntos completos de pares de pernas?
+
+O teu inseto tem que ter o seguinte aspeto:
+
+![captura de ecrã](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Tens que acrescentar uma terceira `esfera` `à escala`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Rotate`{: class = "blockscadtransforms"} na direção oposta à segunda da `esfera`. Um círculo tem 360 graus.
 
-Here are the blocks you need:
+Aqui estão os blocos de que precisas:
 
-![screenshot](images/bug-legs-blocks.png)
+![captura de ecrã](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Aqui está o código de que precisas:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![captura de ecrã](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
