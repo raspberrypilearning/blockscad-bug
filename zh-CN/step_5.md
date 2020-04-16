@@ -1,64 +1,64 @@
-## Create legs
+## 创建腿
 
-Now the bug needs six legs!
+现在，该错误需要六条腿！
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+首先将一条腿放在虫子的身体中间。
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+点击 `+` 处的顶部 `工会` 块添加另一部分。 添加一个拉伸的 `球体` 以创建一对支腿。
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![截图](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+如果愿意，可以禁用bug主体，以查看腿的制作方式。
 
-![screenshot](images/bug-legs-disable.png)
+![截屏](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+然后再次启用主体以继续处理您的错误。
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+现在添加另一条腿。
 
-Your bug needs to look like this:
+使用相同的设置添加另一个 `缩放的` `球体`。 然后将其 `沿Z轴旋转` `` 使腿部倾斜伸出。
 
-![screenshot](images/bug-finished.png)
+![截屏](images/bug-legs-2-annotated.png)
+
+现在，您的虫子有两个中腿，一个前腿和一个后腿！
+
+--- /task ---
+
+--- task ---
+
+您可以添加第三对支脚，以便该错误具有三对完整的支脚对吗？
+
+您的错误需要如下所示：
+
+![截屏](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+您需要添加第三个 `缩放的` `球体`。
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`沿与第二 <code>球体`相反的方向旋转</code>{：class =“ blockscadtransforms”}。 一圈有360度。
 
-Here are the blocks you need:
+以下是你需要的代码块：
 
-![screenshot](images/bug-legs-blocks.png)
+![截屏](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+这是您需要的代码：
 
-![screenshot](images/bug-legs-3-annotated.png)
+![截屏](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
