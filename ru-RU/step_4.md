@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Добавь голову к своему жуку
 
-Now create a head for the bug.
+Теперь создай голову для жука.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Добавь меньшую сферу `sphere` в качестве головы жука. Прямо сейчас ты не можешь видеть эту новую сферу, потому что она скрыта внутри тела.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Также добавь блок `scale` (масштабирование) к новой сфере `sphere`, чтобы придать форму голове.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Затем добавь блок `union`{:class="blockscadsetops"} (объединение), чтобы объединить голову и тело.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![снимок экрана](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Если ты хочешь увидеть новую сферу `sphere`, тогда временно отключить тело, щелкнув правой кнопкой мыши на блок `scale`{:class="blockscadtransforms"} и выбери **Disable block**. Затем этот блок и те, которые находятся внутри него, будут выделены серым цветом и тело не появляется, когда ты нажимаешь **Render**.
 
-  ![screenshot](images/bug-head.png)
+![снимок экрана](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Снова щелкни правой кнопкой мыши на блок и выберите **Enable block**, чтобы включить тело.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+Перенеси голову вдоль оси Y с помощью `Translate`, чтобы она торчала из тела.
+
+  ![снимок экрана](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Если ты хочешь четко видеть различия форм, измени цвет головы.
+
+![снимок экрана](images/bug-head-black.png)
+
+Ты также можешь поэкспериментировать с различными сочетаниями цветов, чтобы украсить своего напечатанного жука перманентными маркерами.
+
+--- /task --- --- task ---
+
+Можешь ли ты изменить цвет тела твоей модели жука? Ты можешь изменить его на цвет нити, которой ты собираешься печатать, или на цвет перманентного маркера, которым ты хочешь его закрасить.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Это блок, который тебе нужен.
 
-![screenshot](images/bug-colour-block.png)
+![снимок экрана](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Вот пример с зеленым телом:
 
-![screenshot](images/bug-body-colour.png)
+![снимок экрана](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
