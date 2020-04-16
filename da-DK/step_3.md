@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Flad kroppen af kroppen
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Flad nu kroppen ned for at gøre din bug mere realistisk. En model med en flad base er også lettere at 3D-udskrive!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+For at gøre dette kan du blot fjerne en cuboid fra din model ved hjælp af `forskellen`{: class = "blockscadsetops"} -blokken.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+For at starte skal du oprette en cuboid for at dække bugens nederste halvdel (den del, der sidder under 0 på Z-aksen).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Cuboid skal være `centreret` og 10 mm høj (langs Z-aksen).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Tilføj en `oversæt` blok for at bevæge kuboidet -5 mm langs Z-aksen (ned).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+For at gøre det let at adskille cuboid og din bugs krop adskilt, skal du tilføje en `farve` blok for at gøre cuboid til en anden farve.
 
-![screenshot](images/bug-body-cuboid.png)
+![skærmbillede](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Cuboid er større end bugens krop. Dette betyder, at du kan tilføje fejlen uden at skulle gøre cuboid større senere.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Brug en `forskel`{: class = "blockscadsetops"} -blok for at fjerne cuboid fra kroppen.
 
-![screenshot](images/bug-difference.png)
+![skærmbillede](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Nu har din bugs krop en flad base!
 
-Drag your model around in the viewer to see it from different angles.
+Træk din model rundt i seeren for at se den fra forskellige vinkler.
 
 --- /task ---
 
