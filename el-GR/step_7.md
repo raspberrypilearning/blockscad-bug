@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Τρισδιάστατη εκτύπωση και διακόσμηση του σχεδίου σου
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Εάν έχεις πρόσβαση σε έναν τρισδιάστατο εκτυπωτή, μπορείς να εκτυπώσεις το έντομό σου και στη συνέχεια να το διακοσμήσεις.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Εκτύπωσε το μοντέλο σου και μετά κάνε κλικ στο **Δημιουργία STL**. Θυμήσου πού αποθήκευσες το αρχείο STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Τρισδιάστατη εκτύπωση του εντόμου σου.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Μπορείς να εκτυπώσεις χρησιμοποιώντας το κύριο χρώμα του εντόμου σου, ή μπορείς να χρησιμοποιήσεις καθαρό ή λευκό νήμα.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Τελείωσε το έντομό σου χρησιμοποιώντας μόνιμους μαρκαδόρους!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Θα μπορούσες να χρωματίσεις το κεφάλι και τα πόδια με μαύρο χρώμα ή να προσθέσεις στίγματα ή λωρίδες με άλλο χρώμα.
 
-Here are some examples:
+Ορίστε μερικά παραδείγματα:
 
-![screenshot](images/bug-decorated.png)
+![στιγμιότυπο οθόνης](images/bug-decorated.png)
 
 --- /task ---
 
