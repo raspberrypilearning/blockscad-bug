@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## चुनौती: अपनी बग डिज़ाइन करें
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+अब यह ब्लॉकस्कैड के अपने नए ज्ञान का उपयोग करके अपने स्वयं के बग को डिजाइन करने का समय है!
 
-Tips:
+सुझाव:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ अधिकांश 3 डी प्रिंटर केवल एक रंग में प्रिंट कर सकते हैं। आप अपने इच्छित लुक को डिजाइन करने के लिए ब्लॉकस्कैड में रंगों का उपयोग कर सकते हैं और फिर मुद्रण के बाद स्थायी मार्कर पेन के साथ विवरण जोड़ सकते हैं।
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ अपने बग के किसी भी हिस्से को बहुत पतला न करें, या यह आसानी से टूट जाएगा।
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ 3D प्रिंट होने पर उन हिस्सों को जोड़ने से बचें जिनके नीचे अंतराल है, क्योंकि 3D प्रिंटर मध्य-हवा में प्रिंट नहीं कर सकते हैं। (आपके मॉडल के कुछ हिस्सों को पकड़ने के लिए समर्थन का उपयोग करके प्रिंट करना संभव है, लेकिन इससे प्रिंटिंग अधिक जटिल हो जाती है।)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ इस बारे में सोचें कि आपका बग कितना बड़ा होगा। यदि आप इसे बहुत बड़ा बनाते हैं, तो बहुत सारे फिलामेंट को प्रिंट करने और उपयोग करने में लंबा समय लगेगा।
 
 --- /challenge ---
 
