@@ -1,58 +1,58 @@
-## Introduction
+## Introdução
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+Neste projeto, vais usar o BlocksCAD para projetar um inseto 3D usando formas geométricas.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Se tiveres acesso a uma impressora 3D, poderás imprimir o inseto que criares. Após a impressão do inseto, vais poder adicionar detalhes usando canetas permanentes.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Vais também poder usar os truques que aprendeste para projetar o teu próprio inseto ou outra criatura usando formas geométricas.
 
-The bugs make great rewards for debugging!
+Os insetos são excelentes recompensas para a resolução de erros!
 
-### What you will make
+### O que vais fazer
 
-The finished bug looks like this:
+O inseto final tem este aspeto:
 
-![screenshot](images/bug-complete.png)
+![captura de ecrã](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Se tiveres acesso a uma impressora 3D, poderás imprimir o teu inseto e decorá-lo.
 
-![Complete project](images/bug-showcase.png)
+![Projeto concluído](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+A maioria das impressoras 3D só pode imprimir com uma cor, para que você possas adicionar-lhe detalhes usa marcadores permanentes e torna o teu bug ainda melhor.
 
 --- collapse ---
 ---
-title: What you will need
+title: Do que é que vais precisar
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Uma impressora 3D e filamento da cor à tua escolha
++ Canetas permanentes de várias cores - as cores metálicas funcionam bem
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Este projeto pode ser concluído num navegador de internet usando o BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: O que é que vais aprender
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modelagem 3D com formas geométricas (esferas)
++ Usar `escala` para esticar formas geométricas
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informações adicionais para educadores
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Se tem necessidade de imprimir este projeto, por favor, utilize a [versão para impressão](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){: target = "_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Faça o download do código do projeto terminado em [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
