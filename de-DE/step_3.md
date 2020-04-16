@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Die Basis des Körpers abflachen
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Glätte jetzt die Basis des Körpers, um deinen Käfer realistischer zu machen. Ein Modell mit einer flachen Basis ist auch einfacher in 3D zu drucken!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Dazu kannst du einfach einen Quader aus deinem Modell entfernen, indem du den `Differenz`{:class="blockscadsetops"} Block verwendest.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Erstelle zunächst einen Quader, der die untere Hälfte des Käfers abdeckt (der Teil, der auf der Z-Achse unter 0 liegt).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Der Quader sollte `zentriert` und 10 mm hoch sein (entlang der Z-Achse).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Füge einen `verschieben` Block hinzu, um den Quader -5mm entlang der Z-Achse (nach unten) zu bewegen.
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Füge einen `farbe` Block hinzu, um dem Quader eine andere Farbe zu geben, damit kannst du den Körper deines Käfers und den Quader leichter voneinander unterscheiden.
 
-![screenshot](images/bug-body-cuboid.png)
+![Screenshot](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Der Quader ist größer als der Körper des Käfers. Das bedeutet, dass du den Käfer noch ergänzen kannst, ohne den Quader später vergrößern zu müssen.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Verwende einen `Differenz`{:class="blockscadsetops"} Block, um den Quader aus dem Körper zu entfernen.
 
-![screenshot](images/bug-difference.png)
+![Screenshot](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Jetzt hat der Körper deines Käfers eine flache Basis!
 
-Drag your model around in the viewer to see it from different angles.
+Ziehe dein Modell im Betrachter umher, um es aus verschiedenen Blickwinkeln zu sehen.
 
 --- /task ---
 
