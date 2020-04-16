@@ -1,26 +1,26 @@
-## 3D print and decorate your design
+## 3D ispis i ukrašavanje vašeg dizajna
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Ako imate pristup 3D pisaču, sada možete ispisati bug, a zatim ga ukrasiti.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Napravite svoj model, a zatim pritisnite **Stvori STL**. Sjetite se gdje spremate STL datoteku.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D ispis vašeg buga.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Možete ispisati glavnom bojom boje ili možete koristiti bistru ili bijelu nit.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Dovršite svoju pogrešku pomoću trajnih olovki za označavanje!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Glavu i noge možete obojiti u crnu ili dodati mrlje ili pruge u drugoj boji.
 
-Here are some examples:
+Evo nekoliko primjera:
 
 ![screenshot](images/bug-decorated.png)
 
