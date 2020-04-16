@@ -1,58 +1,58 @@
-## Introduction
+## Вступ
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+У цьому проекті ви будете використовувати BlocksCAD для створення 3D-помилки або комахи за допомогою геометричних фігур.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Якщо у вас є доступ до 3D-принтера, ви можете надрукувати розроблену ваду помилку. Після друку вашої помилки ви можете додавати деталі, використовуючи постійні фломастери.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Ви також зможете використовувати навички, які ви навчилися проектувати власну помилку чи іншу істоту, використовуючи геометричні фігури.
 
-The bugs make great rewards for debugging!
+Помилки приносять велику винагороду за налагодження!
 
-### What you will make
+### Що ти зробиш
 
-The finished bug looks like this:
+Готовий помилка виглядає приблизно так:
 
-![screenshot](images/bug-complete.png)
+![знімок екрана](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Якщо у вас є доступ до 3D-принтера, ви можете надрукувати помилку, а потім прикрасити її.
 
-![Complete project](images/bug-showcase.png)
+![Завершений проєкт](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Більшість 3D-принтерів можуть друкувати лише одним кольором, тому ви можете додавати деталі, використовуючи постійні маркери, щоб ваша помилка виглядала ще краще.
 
 --- collapse ---
 ---
-title: What you will need
+title: Що вам знадобиться
 ---
 
-### Hardware
+### Обладнання
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D-принтер і нитка в кольорі на ваш вибір
++ Кольорові перманентні фломастери в різноманітних кольорах - металеві кольори добре працюють
 
-### Software
+### Програмне забезпечення
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Цей проект можна виконати у веб-браузері за допомогою BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чого ти навчишся
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D-моделювання з геометричними фігурами (сфери)
++ Використовуючи `масштаб` , щоб розтягнути geometic форми
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додаткова інформація для викладачів
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {: target="_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Завантажте готовий код проекту на [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
