@@ -1,44 +1,44 @@
-## Give your bug a body
+## Дајте свом бубу тело
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Отворите уређивач БлоцксЦАД у веб прегледачу [блоцкцад3д.цом/едитор/](https://www.blockscad3d.com/editor/){: таргет = "_ бланк"}
 
 --- /task ---
 
-Now create the body of your bug.
+Сада направите тело своје бубе.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Почните са `сфере` са радијусу од `10` (јединица овде милиметара):
 
-![screenshot](images/bug-body-sphere.png)
+![снимак екрана](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Кликните на гумб **Рендер** да бисте видјели резултат.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Савет: боју приказаног модела можете променити кликом на обојени квадрат.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Сада развуците сферу дуж своје осе И да бисте створили издужено тело за бубу.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Блок `скале`{: цласс = "блоцксцадтрансформс"} омогућава вам да истежете или разрежете објекте дуж осе Кс, И и З. Подесите вредност И на `1,2` како бисте развукли сферу дуж оси И.
 
-![screenshot](images/bug-body-y.png)
+![слика екрана](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Кликните поново **Рендер** и проверите да ли је сфера развучена у елипсоид. Погледајте свој модел из различитих углова како бисте могли видети како се променио.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Савет: сваки пут када промените код, морате да кликнете на **Рендер** да бисте видели резултате.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Сада исецкајте елипсоид мало дуж оси з како бисте направили равну бугу.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Постављање вредности оси испод `1` чини објекат мањи дуж те осе. Зато промените вредност З у блоку `скале`{: цласс = "блоцксцадтрансформс"} у `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![слика екрана](images/bug-body-z.png)
 
 --- /task ---
 
