@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Izziv: oblikuj svojega lastnega hrošča
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Zdaj je čas, da izdelaš lastnega hrošča in pri tem uporabiš svoje novo znanje o BlocksCAD-u!
 
-Tips:
+Namigi:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Večina 3D-tiskalnikov lahko tiska samo v eni barvi. Barve lahko uporabiš v programu BlocksCAD za oblikovanje želenega videza in nato po tiskanju dodaš podrobnosti s trajnimi flomastri.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Posamezni deli hrošča naj ne bodo pretanki, saj se sicer lahko zlomi.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Izogibajte se dodajanju delov, pod katerimi so vrzeli, ko jih 3D natisnemo, saj 3D tiskalniki ne morejo tiskati v zraku. (Možno je tiskati s podporami, ki držijo dele modela, vendar to otežuje tiskanje.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Pomisli, kako velik bo tvoj hrošč. Če ga narediš prevelikega, bo tiskanje trajalo veliko časa in porabilo veliko nitke.
 
 --- /challenge ---
 
