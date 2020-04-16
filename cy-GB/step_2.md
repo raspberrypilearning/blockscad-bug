@@ -1,44 +1,44 @@
-## Give your bug a body
+## Rhowch gorff i'ch byg
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Agorwch olygydd BlocksCAD mewn porwr gwe [bloccad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Nawr crëwch gorff eich nam.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Dechreuwch gyda `sffêr` gyda radiws o `10` (milimetrau yw'r uned yma):
 
-![screenshot](images/bug-body-sphere.png)
+![sgrinlun](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Cliciwch ar y botwm **Render** i weld y canlyniad.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Awgrym: gallwch newid lliw y model wedi'i rendro trwy glicio ar y sgwâr lliw.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Nawr ymestyn y sffêr ar hyd ei echel Y i greu corff hirgul ar gyfer y nam.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+Mae'r bloc `scale`{: class = "blockcadtransforms"} yn caniatáu ichi ymestyn neu sboncio gwrthrychau ar hyd yr echelinau X, Y, a Z. Gosodwch y gwerth Y i `1.2` i ymestyn y sffêr ar hyd yr echel Y.
 
-![screenshot](images/bug-body-y.png)
+![sgrinlun](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Cliciwch **Render** eto a gwiriwch fod y sffêr wedi'i ymestyn i eliptsoid. Edrychwch ar eich model o wahanol onglau fel y gallwch weld sut mae wedi newid.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Awgrym: bob tro y byddwch chi'n newid y cod, mae angen i chi glicio **Rendr** i weld y canlyniadau.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Nawr sbonciwch yr ellipsoid ychydig ar hyd yr echelin-z i wneud nam mwy gwastad.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Mae gosod gwerth echelin o dan `1` gwneud y gwrthrych yn llai ar hyd yr echel honno. Felly newidiwch y gwerth Z yn y bloc `scale`{: class = "blockcadtransforms"} i `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![sgrinlun](images/bug-body-z.png)
 
 --- /task ---
 
