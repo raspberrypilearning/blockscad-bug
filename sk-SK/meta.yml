@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3D chyba
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: Navrhnite hmyz s 3D potlačiteľnou chybou s programom BlocksCAD
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: Give your bug a body
+    title: Dajte svojmu telu chybu
   - 
-    title: Flatten the base of the body
+    title: Zrovnajte spodnú časť tela
   - 
-    title: Add a head to your bug
+    title: Pridajte hlavu k svojej chybe
   - 
-    title: Create legs
+    title: Vytvorte nohy
   - 
-    title: Design your own bug
+    title: Navrhnite si svoju vlastnú chybu
   - 
-    title: 3D print and decorate your design
+    title: 3D tlač a ozdobte svoj dizajn
