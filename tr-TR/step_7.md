@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3D baskı ve tasarımınızı süsleyin
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Bir 3D yazıcıya erişiminiz varsa, şimdi hatanızı yazdırabilir ve daha sonra dekore edebilirsiniz.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Modelinizi oluşturun ve ardından **STL**Oluştur'u tıklayın. STL dosyasını nereye kaydettiğinizi unutmayın.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D hata yazdırın.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Böceğinizin ana rengini kullanarak yazdırabilirsiniz veya açık veya beyaz filament kullanabilirsiniz.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Kalıcı marker kalemleri kullanarak hatanızı bitirin!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Baş ve bacakları siyah renklendirebilir veya başka bir renkte lekeler veya şeritler ekleyebilirsiniz.
 
-Here are some examples:
+İşte bazı örnekler:
 
-![screenshot](images/bug-decorated.png)
+![ekran görüntüsü](images/bug-decorated.png)
 
 --- /task ---
 
