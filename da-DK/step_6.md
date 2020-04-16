@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Udfordring: design din egen bug
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Nu er det tid til at designe din egen bug ved hjælp af din nye viden om BlocksCAD!
 
 Tips:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ De fleste 3D-printere kan kun udskrive i en farve. Du kan bruge farver i BlocksCAD til at designe det ønskede udseende og derefter tilføje detaljer med permanente markørpenne efter udskrivning.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Gør ikke nogen del af din bug for slank, ellers bryder den let.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Undgå at tilføje dele, der har huller under dem, når de er 3D-trykt, fordi 3D-printere ikke kan udskrive i luften. (Det er muligt at udskrive ved hjælp af understøttelser til at holde dele af din model op, men det gør udskrivning mere kompliceret.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Tænk på, hvor stor din fejl bliver. Hvis du gør det for stort, tager det lang tid at udskrive og bruge en masse filament.
 
 --- /challenge ---
 
