@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Maak de basis van het lichaam plat
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Maak nu de basis van het lichaam plat om je kever realistischer te maken. Een model met een platte basis is ook makkelijker om 3D te printen!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Om dit te doen, kun je eenvoudig een blok uit jouw model verwijderen met het blok `difference (verschil)`{:class="blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Maak om te beginnen een balk om de onderste helft van de kever te bedekken (het deel dat onder de 0 op de Z-as zit).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+De balk moet `centered` en 10 mm hoog zijn (langs de Z-as).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Voeg een `translate` blok toe om de balk -5 mm langs de Z-as (naar beneden) te verplaatsen.
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Om het gemakkelijk te maken om de kubus en het lichaam van je insect uit elkaar te houden, voeg je een blok van `color` toe om de kubus een andere kleur te geven.
 
-![screenshot](images/bug-body-cuboid.png)
+![schermafbeelding](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+De balk is groter dan het lichaam van de kever. Dit betekent dat je het aan de kever kunt toevoegen zonder dat je de balk later groter hoeft te maken.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Gebruik een `difference`{:class="blockscadsetops"} blok om de balk van het lichaam te verwijderen.
 
-![screenshot](images/bug-difference.png)
+![schermafbeelding](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Nu heeft het lichaam van je insect een platte basis!
 
-Drag your model around in the viewer to see it from different angles.
+Sleep je model rond in het scherm om het vanuit verschillende hoeken te bekijken.
 
 --- /task ---
 
