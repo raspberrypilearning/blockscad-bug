@@ -1,64 +1,64 @@
-## Create legs
+## Vytvorte nohy
 
-Now the bug needs six legs!
+Teraz chyba potrebuje šesť nôh!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Najprv do stredu tela bugu vložte pár nôh.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Kliknutím na `+` v hornej časti bloku `únie` pridáte ďalšiu sekciu. Pridanie napnutú `guľu` vytvoriť dvojicu ramien.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![snímka obrazovky](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Ak chcete, môžete zakázať telo chyby a zistiť, ako sa vytvárajú nohy.
 
-![screenshot](images/bug-legs-disable.png)
+![snímka obrazovky](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Potom umožnite telu pokračovať v práci na chybe.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Teraz pridajte ďalšiu nohu.
 
-Your bug needs to look like this:
+Pridať ďalšie `zmenšený` `guľa` s rovnakým nastavením. Potom `otočte` o `30` smerom dolu pozdĺž osi Z, aby nohy stúpali pod uhlom.
 
-![screenshot](images/bug-finished.png)
+![snímka obrazovky](images/bug-legs-2-annotated.png)
+
+Teraz má vaša chyba dve stredné nohy a každú prednú a zadnú nohu.
+
+--- /task ---
+
+--- task ---
+
+Môžete pridať tretí pár nôh, aby chyba mala tri kompletné sady párov nôh?
+
+Vaša chyba musí vyzerať takto:
+
+![snímka obrazovky](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Musíte pridať tretiu `mierku` `gule`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Otočte`{: class = "blockscadtransforms"} v opačnom smere ako druhá `guľa`. V kruhu je 360 stupňov.
 
-Here are the blocks you need:
+Tu sú bloky, ktoré potrebujete:
 
-![screenshot](images/bug-legs-blocks.png)
+![snímka obrazovky](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Tu je kód, ktorý potrebujete:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![snímka obrazovky](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
