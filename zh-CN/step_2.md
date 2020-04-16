@@ -1,44 +1,44 @@
-## Give your bug a body
+## 给你的虫子一个身体
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+在Web浏览器中打开BlocksCAD编辑器 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){：target =“ _ blank”}
 
 --- /task ---
 
-Now create the body of your bug.
+现在创建您的错误的主体。
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+从半径为 `10` 的 `球体` 开始（这里的单位是毫米）：
 
-![screenshot](images/bug-body-sphere.png)
+![截屏](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+单击 **Render** 按钮以查看结果。
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+提示：您可以通过单击彩色正方形来更改渲染模型的颜色。
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+现在，沿球的Y轴拉伸球体，以为虫子创建细长体。
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`比例`{：class =“ blockscadtransforms”}块使您可以沿X，Y和Z轴拉伸或挤压对象。 将Y值设置为 `1.2` 以沿Y轴拉伸球体。
 
-![screenshot](images/bug-body-y.png)
+![截屏](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+再次单击“ **渲染** ，然后检查球体是否已拉伸为椭圆体。 从不同角度查看模型，以便了解其变化。
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+提示：每次更改代码时，都需要单击 **Render** 以查看结果。
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+现在，沿z轴稍微挤压椭圆形，以制作出更扁平的虫子。
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+将轴值设置为低于 `1` 可使对象沿该轴变小。 因此，将 `比例`{：class =“ blockscadtransforms”}块中的Z值更改为 `0.8`。
 
-![screenshot](images/bug-body-z.png)
+![截屏](images/bug-body-z.png)
 
 --- /task ---
 
