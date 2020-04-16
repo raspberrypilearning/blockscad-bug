@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Provocare: proiectați-vă propriul bug
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Acum este timpul să vă proiectați propriul bug folosind noile cunoștințe despre BlocksCAD!
 
-Tips:
+Sfaturi:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare. Puteți utiliza culori în BlocksCAD pentru a proiecta aspectul dorit și apoi adăugați detalii cu pixuri cu marker permanent după imprimare.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Nu faceți nici o parte din eroarea dvs. prea subțire, sau se va rupe ușor.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Evitați să adăugați părți care au goluri sub ele atunci când sunt tipărite 3D, deoarece imprimantele 3D nu pot tipări în aer. (Este posibil să imprimați folosind suporturi pentru a reține părți ale modelului dvs., dar acest lucru face ca imprimarea să fie mai complicată.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Gândește-te cât de mare va fi eroarea ta. Dacă îl faceți prea mare, atunci veți avea nevoie de mult timp pentru a imprima și utiliza multă filamentă.
 
 --- /challenge ---
 
