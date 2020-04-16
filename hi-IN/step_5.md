@@ -1,64 +1,64 @@
-## Create legs
+## पैर बनाएँ
 
-Now the bug needs six legs!
+अब बग को छह पैर चाहिए!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+पहले बग के शरीर के बीच में एक जोड़ी पैर रखें।
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+किसी अन्य अनुभाग को जोड़ने के लिए `यूनियन` ब्लॉक के शीर्ष पर `+` पर क्लिक करें। पैरों की एक जोड़ी बनाने के लिए एक फैला हुआ `गोला` जोड़ें।
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![स्क्रीनशॉट](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+यदि आप चाहें, तो आप बग के शरीर को यह देखने के लिए अक्षम कर सकते हैं कि पैर कैसे बने हैं।
 
-![screenshot](images/bug-legs-disable.png)
+![स्क्रीनशॉट](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+फिर अपने बग पर काम करना जारी रखने के लिए शरीर को फिर से सक्षम करें।
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+अब एक और जोड़ी पैर जोड़ लें।
 
-Your bug needs to look like this:
+उसी सेटिंग के साथ एक और `स्केल्ड` `गोला` जोड़ें। फिर `` घुमाएं `30` से ज़ेड एक्सिस के साथ नीचे करें ताकि पैर एक कोण पर चिपके रहें।
 
-![screenshot](images/bug-finished.png)
+![स्क्रीनशॉट](images/bug-legs-2-annotated.png)
+
+अब आपके बग में दो मिडिल लेग और एक फ्रंट लेग और बैक लेग प्रत्येक है!
+
+--- /task ---
+
+--- task ---
+
+क्या आप पैर की एक तीसरी जोड़ी जोड़ सकते हैं ताकि बग में पैर जोड़े के तीन पूर्ण सेट हों?
+
+आपके बग को इस तरह देखना होगा:
+
+![स्क्रीनशॉट](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+आपको एक तीसरा `स्केल्ड` `क्षेत्र`जोड़ने की आवश्यकता है।
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`घुमाएँ`{: class = "blockcadtransforms"} यह दूसरी `गोले`के विपरीत दिशा में। एक सर्कल में 360 डिग्री होती हैं।
 
-Here are the blocks you need:
+इन ब्लॉक्स की आपको आवश्यकता होगी:
 
-![screenshot](images/bug-legs-blocks.png)
+![स्क्रीनशॉट](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+यहाँ आपके लिए आवश्यक कोड है:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![स्क्रीनशॉट](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
