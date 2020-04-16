@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Hatanıza bir kafa ekleyin
 
-Now create a head for the bug.
+Şimdi böcek için bir kafa oluşturun.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Böceğin başı olarak daha küçük bir `küre` ekleyin. Şu anda bu yeni küreyi göremezsiniz, çünkü vücudun içinde gizlidir.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Ayrıca, kafayı şekillendirmek için yeni `küreye` `ölçekli` blok ekleyin.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Ardından, başlığı ve gövdeyi birleştirmek için `birleşim`{: class = "blockscadsetops"} bloğu ekleyin.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![ekran görüntüsü](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Yeni `küre`görmek istiyorsanız, `ölçekli`{: class = "blockscadtransforms"} bloğuna sağ tıklayıp **Blok**devre dışı bırak'ı seçerek gövdeyi geçici olarak devre dışı bırakın. Sonra bu blok ve içindeki bloklar grileşir ve **Render**tıkladığınızda gövde görünmez.
 
-  ![screenshot](images/bug-head.png)
+![ekran görüntüsü](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Bloğu tekrar sağ tıklayın ve gövdeyi etkinleştirmek için **Blok** etkinleştir'i seçin.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Çevir` Y boyunca kafası gövdesinin taşacak biçimde ekseni.
+
+  ![ekran görüntüsü](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Farklı şekilleri net bir şekilde görmek istiyorsanız, kafanın rengini değiştirin.
+
+![ekran görüntüsü](images/bug-head-black.png)
+
+Basılı hatanızı kalıcı işaretçilerle süslemek için farklı renk kombinasyonlarını da deneyebilirsiniz.
+
+--- /task --- --- task ---
+
+Böcek modelinizin gövdesinin rengini değiştirebilir misiniz? Yazdırmak istediğiniz filamanın rengine veya renklendirmek istediğiniz kalıcı işaretçinin rengine değiştirebilirsiniz.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+İhtiyacınız olan blok bu.
 
-![screenshot](images/bug-colour-block.png)
+![ekran görüntüsü](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Yeşil gövdeli bir örnek:
 
-![screenshot](images/bug-body-colour.png)
+![ekran görüntüsü](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
