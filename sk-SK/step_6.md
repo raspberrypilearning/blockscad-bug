@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Výzva: navrhnite si vlastnú chybu
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Teraz je čas navrhnúť si vlastnú chybu pomocou nových poznatkov o BlocksCAD!
 
-Tips:
+Tipy:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Väčšina 3D tlačiarní môže tlačiť iba v jednej farbe. Farby v aplikácii BlocksCAD môžete použiť na navrhnutie požadovaného vzhľadu a po vytlačení pridať podrobnosti pomocou permanentných popisovacích pier.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Nenechajte žiadnu časť svojej chyby príliš štíhlu, inak sa ľahko zlomí.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Vyhnite sa pridávaniu častí, ktoré majú medzery pod nimi, keď sú tlačené v 3D, pretože 3D tlačiarne nemôžu tlačiť vo vzduchu. (Je možné tlačiť pomocou podpier, aby zadržali časti vášho modelu, ale to komplikuje tlač.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Zamyslite sa nad tým, aká veľká bude vaša chyba. Ak ho urobíte príliš veľkým, bude trvať dlho, kým sa vytlačí a použije veľa vlákna.
 
 --- /challenge ---
 
