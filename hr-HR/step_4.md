@@ -1,46 +1,46 @@
-## Add a head to your bug
+## Dodajte glavu svom bugu
 
-Now create a head for the bug.
+Sada stvorite glavu za bug.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Dodajte manju `sferu` kao glavu buba. Trenutno ne možete vidjeti ovu novu sferu jer je skrivena u tijelu.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Također dodajte `razmjera` blok za novi `kugle` oblikovati glavu.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Zatim dodajte blok `union`{: class = "blockscadsetops"} da biste kombinirali glavu i tijelo.
 
-![screenshot](images/bug-head-hidden.png)
+![snimka zaslona](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
+Ako želite vidjeti novu `sferu`, tada privremeno onemogućite tijelo klikom desne tipke miša na njegov `ljestvici`{: class = "blockscadtransforms"} blok i odabirom **Onemogući blok**. Tada se ovaj blok i oni unutar njega iscrtavaju, a tijelo se ne pojavljuje kada kliknete na **Render**.
 
 ![screenshot](images/bug-disable.png)
 
-Right-click on the block again and choose **Enable block** to enable the body.
+Desnom tipkom miša ponovo kliknite na blok i odaberite **Omogući blok** da biste omogućili tijelo.
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+`Prevedite` glavu duž osi Y tako da izlazi iz tijela.
 
   ![screenshot](images/bug-head.png)
 
 --- /task --- --- task ---
 
-If you want to clearly see the different shapes, change the colour of the head.
+Ako želite jasno vidjeti različite oblike, promijenite boju glave.
 
 ![screenshot](images/bug-head-black.png)
 
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Možete i eksperimentirati s različitim kombinacijama boja za ukrašavanje ispisane bube trajnim markerima.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+Možete li promijeniti boju karoserije svog modela bugova? Možete je promijeniti u boju niti s kojom želite ispisati ili u boju trajnog markera s kojim želite obojiti.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Ovo je blok koji vam treba.
 
 ![screenshot](images/bug-colour-block.png)
 
@@ -48,7 +48,7 @@ This is the block you need.
 
 --- hint ---
 
-Here's an example with a green body:
+Evo primjera sa zelenim tijelom:
 
 ![screenshot](images/bug-body-colour.png)
 
