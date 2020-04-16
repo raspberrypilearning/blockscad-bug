@@ -1,58 +1,58 @@
-## Introduction
+## Introducció
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+En aquest projecte, faràs servir BlocksCAD per dissenyar una cuca en 3D o un insecte fent servir formes geomètriques.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Si tens accés a una impressora 3D, pots imprimir la cuca que dissenyis. Un cop impresa, pots afegir detalls mitjançant retoladors permanents.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+També pots utilitzar les habilitats que has après per dissenyar la teva cuca o una altra criatura mitjançant formes geomètriques.
 
-The bugs make great rewards for debugging!
+En programació, "bugs" fa referència a errors en comptes d'insectes!
 
-### What you will make
+### Què faràs
 
-The finished bug looks like this:
+La cuca acabada hauria de tenir aquest aspecte:
 
-![screenshot](images/bug-complete.png)
+![captura de pantalla](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Si tens accés a una impressora 3D, pots imprimir la teva cuca i després decorar-la.
 
-![Complete project](images/bug-showcase.png)
+![Projecte acabat](images/bug-showcase.png)
 
 Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
 
 --- collapse ---
 ---
-title: What you will need
+títol: què necessitaràs
 ---
 
-### Hardware
+### Maquinari
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ Una impressora 3D i filament en el color que escollis
++ Pinta amb retoladors permanents de diversos colors: els colors metàl·lics funcionen bé
 
-### Software
+### Programari
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Aquest projecte es pot completar en un navegador web mitjançant BlocksCAD [blockcad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+títol: Què aprendràs
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Modelització 3D amb formes geomètriques (esferes)
++ Utilitzant `escala` per estirar formes geomètriques
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+títol: Informació addicional per educadors
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Baixa el codi del projecte acabat de [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
