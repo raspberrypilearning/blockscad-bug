@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Aplana la base del cos
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Ara aplana la base del cos per fer la teva cuca més realista. Un model amb base plana també és més fàcil d'imprimir en 3D.
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Per fer-ho, simplement pots eliminar un cuboide del teu model mitjançant el block `difference`{:class="blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Per començar, crea un cuboide per cobrir la meitat inferior de la cuca (la part que se situa per sota de 0 a l’eix Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+El cuboide hauria d’estar `centrat` i tenir 10 mm d’alçada (al llarg de l’eix Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Afegeix un bloc `translate` per moure el cuboide -5mm per l’eix Z (cap avall).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Perquè sigui més fàcil distingir el cuboide i el cos de la cuca, afegeix un bloc `color` per fer que el cuboide tingui un color diferent.
 
-![screenshot](images/bug-body-cuboid.png)
+![captura de pantalla](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+El cuboide és més gran que el cos de la cuca. Això vol dir que pots afegir-lo a la cuca sense haver de fer-lo més gran més endavant.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Utilitza un bloc `difference`{:class="blockscadsetops"} per eliminar el cuboide del cos.
 
-![screenshot](images/bug-difference.png)
+![captura de pantalla](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Ara el cos de la teva cuca té una base plana!
 
-Drag your model around in the viewer to see it from different angles.
+Arrossega el model al visor per veure-ho des de diferents angles.
 
 --- /task ---
 
