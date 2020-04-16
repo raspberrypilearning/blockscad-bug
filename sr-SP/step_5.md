@@ -1,64 +1,64 @@
-## Create legs
+## Створите ноге
 
-Now the bug needs six legs!
+Сада је буби потребно шест ногу!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Прво ставите пар ногу у сред тела бубе.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Кликните на `+` на врху блока `унион` да бисте додали још један одељак. Додајте испружену `сферу` да бисте створили пар ногу.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![слика екрана](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Ако желите, можете да онемогућите тело бубице и видите како су направљене ноге.
 
-![screenshot](images/bug-legs-disable.png)
+![слика екрана](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Затим поново омогућите телу да настави да ради на својој грешци.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Сада додајте још један пар ногу.
 
-Your bug needs to look like this:
+Додајте још `сферу` `сфере` са истим подешавањима. Затим `закрените` за `30` удаљите се дуж оси З тако да се ноге испружују под углом.
 
-![screenshot](images/bug-finished.png)
+![слика екрана](images/bug-legs-2-annotated.png)
+
+Сада ваша буба има две средње ноге и по једну предњу и задњу ногу!
+
+--- /task ---
+
+--- task ---
+
+Можете ли додати трећи пар ногу тако да бубица има три комплетна пара ногу?
+
+Ваш буг треба да изгледа овако:
+
+![слика екрана](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Морате додати трећу `сферу` `сферу`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Закрените`{: цласс = "блоцкцадтрансформс"} у супротном смеру од друге `сфере`. У кругу је 360 степени.
 
-Here are the blocks you need:
+Ево блокова кода који су ти потребни:
 
-![screenshot](images/bug-legs-blocks.png)
+![слика екрана](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Ево шифре која вам је потребна:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![слика екрана](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
