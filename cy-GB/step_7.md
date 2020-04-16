@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Argraffu 3D ac addurno'ch dyluniad
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Os oes gennych argraffydd 3D, gallwch nawr argraffu eich nam ac yna ei addurno.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Rhowch eich model ac yna cliciwch **Generate STL**. Cofiwch ble rydych chi'n cadw'r ffeil STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D argraffu eich nam.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Fe allech chi argraffu gan ddefnyddio prif liw eich nam, neu fe allech chi ddefnyddio ffilament clir neu wyn.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Gorffennwch eich nam gan ddefnyddio corlannau marciwr parhaol!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Fe allech chi liwio'r pen a'r coesau mewn du, neu ychwanegu smotiau neu streipiau mewn lliw arall.
 
-Here are some examples:
+Dyma rai enghreifftiau:
 
-![screenshot](images/bug-decorated.png)
+![sgrinlun](images/bug-decorated.png)
 
 --- /task ---
 
