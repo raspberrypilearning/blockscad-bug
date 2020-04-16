@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3D 昆蟲
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: 使用BlocksCAD設計一個3D列印的昆蟲
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: Give your bug a body
+    title: 給你的昆蟲一個身體
   - 
-    title: Flatten the base of the body
+    title: 攤平身體
   - 
-    title: Add a head to your bug
+    title: 為您的昆蟲添加一個頭
   - 
-    title: Create legs
+    title: 創造腳
   - 
-    title: Design your own bug
+    title: 設計屬於你自己的昆蟲
   - 
-    title: 3D print and decorate your design
+    title: 3D列印和裝飾你的設計
