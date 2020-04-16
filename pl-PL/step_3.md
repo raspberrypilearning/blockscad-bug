@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Spłaszcz podstawę tułowia
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Teraz spłaszcz podstawę tułowia, aby twój żuk był bardziej realistyczny. Model z płaską podstawą jest również łatwiejszy do wydrukowania w 3D!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Aby to zrobić, możesz po prostu usunąć prostopadłościan ze swojego modelu, używając bloku `różnica(ang. difference)`{:class="blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Aby rozpocząć, stwórz prostopadłościan, aby zakryć dolną połowę owada (część, która znajduje się poniżej 0 na osi Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Prostopadłościan powinien mieć być `wyśrodkowany(ang. centered)` i wysoki na 10 mm (wzdłuż osi Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Dodaj blok `przenieś(ang. translate)` blok, aby przesunąć prostopadłościan -5 mm wzdłuż osi Z (w dół).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Aby ułatwić odróżnienie prostopadłościanu i ciała robaka od siebie, dodaj blok `kolor(ang. color)`, aby prostopadłościan miał inny kolor.
 
-![screenshot](images/bug-body-cuboid.png)
+![zrzut ekranu](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Prostopadłościan jest większy niż ciało owada. Oznacza to, że możesz dodawać do żuka bez konieczności późniejszego powiększania prostopadłościanu.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Użyj bloku `difference`{:class="blockscadsetops"}, aby usunąć przestrzeń zajmowaną przez prostopadłościan z ciała żuka.
 
-![screenshot](images/bug-difference.png)
+![zrzut ekranu](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Teraz ciało twojego owada ma płaską podstawę!
 
-Drag your model around in the viewer to see it from different angles.
+Przeciągnij model w przeglądarce, aby zobaczyć go pod różnymi kątami.
 
 --- /task ---
 
