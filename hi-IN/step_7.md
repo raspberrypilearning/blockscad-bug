@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3 डी प्रिंट और अपने डिजाइन को सजाने
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+यदि आपके पास 3 डी प्रिंटर तक पहुंच है, तो आप अब अपने बग को प्रिंट कर सकते हैं और फिर इसे सजा सकते हैं।
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+अपना मॉडल रेंडर करें और फिर **जनरेट STL**क्लिक करें। याद रखें कि आप एसटीएल फ़ाइल को कहाँ सहेजते हैं।
 
 --- /task --- --- task ---
 
-3D print your bug.
+3 डी अपने बग प्रिंट।
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+आप अपने बग के मुख्य रंग का उपयोग करके प्रिंट कर सकते हैं, या आप स्पष्ट या सफेद फिलामेंट का उपयोग कर सकते हैं।
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+स्थायी मार्कर पेन का उपयोग करके अपने बग को समाप्त करें!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+आप सिर और पैरों को काले रंग में रंग सकते हैं, या दूसरे रंग में धब्बे या धारियाँ जोड़ सकते हैं।
 
-Here are some examples:
+यहाँ कुछ उदाहरण हैं:
 
-![screenshot](images/bug-decorated.png)
+![स्क्रीनशॉट](images/bug-decorated.png)
 
 --- /task ---
 
