@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## Aplatizați baza corpului
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Acum aplatizați baza corpului pentru a vă face eroarea mai realistă. Un model cu o bază plană este, de asemenea, mai ușor de imprimat 3D!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Pentru a face acest lucru, puteți elimina pur și simplu un cuboid din modelul dvs. folosind `diferența`{: class = "blockcadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Pentru a începe, creați un cuboid care să acopere jumătatea de jos a erorii (partea care se află sub 0 pe axa Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+Cuboidul trebuie să fie `centrat pe` și 10 mm înălțime (de-a lungul axei Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Adăugați un bloc de `traducere` pentru a muta cuboidul -5 mm de-a lungul axei Z (în jos).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Pentru a face mai ușor să distingeți cuboidul și corpul erorii dvs., adăugați un bloc de `culori` pentru a face cuboida o culoare diferită.
 
-![screenshot](images/bug-body-cuboid.png)
+![captură de ecran](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+Cuboidul este mai mare decât corpul erorii. Acest lucru înseamnă că puteți adăuga la eroare fără a fi nevoie să faceți mai târziu cuboidul.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Utilizați un `diferență`{: class = "blockcadsetops"} pentru a elimina cuboidul din corp.
 
-![screenshot](images/bug-difference.png)
+![captură de ecran](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+Acum corpul dvs. de erori are o bază plană!
 
-Drag your model around in the viewer to see it from different angles.
+Trageți modelul în jurul vizualizatorului pentru a-l vedea din unghiuri diferite.
 
 --- /task ---
 
