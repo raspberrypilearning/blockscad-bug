@@ -1,58 +1,58 @@
-## Introduction
+## Giriş
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+Bu projede, geometrik şekiller kullanarak bir 3D böcek veya böcek tasarlamak için BlocksCAD'i kullanacaksınız.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+3D yazıcıya erişiminiz varsa, tasarladığınız hatayı yazdırabilirsiniz. Hatanız yazdırıldıktan sonra, kalıcı marker kalemleri kullanarak ayrıntılar ekleyebilirsiniz.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Geometrik şekiller kullanarak kendi hatanızı veya diğer yaratıklarınızı tasarlamak için öğrendiğiniz becerileri de kullanabileceksiniz.
 
-The bugs make great rewards for debugging!
+Hata ayıklama için büyük ödüller yapar!
 
-### What you will make
+### Ne yapacaksınız
 
-The finished bug looks like this:
+Bitmiş hata şöyle görünür:
 
-![screenshot](images/bug-complete.png)
+![ekran görüntüsü](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Bir 3D yazıcıya erişiminiz varsa, hatanızı yazdırabilir ve daha sonra dekore edebilirsiniz.
 
-![Complete project](images/bug-showcase.png)
+![Tamamlanmış proje](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+Çoğu 3D yazıcı yalnızca bir renkte yazdırabilir, böylece hatanızın daha da iyi görünmesi için kalıcı işaretçiler kullanarak ayrıntılar ekleyebilirsiniz.
 
 --- collapse ---
 ---
-title: What you will need
+title: Nelere ihtiyacınız var
 ---
 
-### Hardware
+### Donanım
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D yazıcı ve istediğiniz renkte filament
++ Çeşitli renklerde renkli kalıcı marker kalemler - metalik renkler iyi çalışır
 
-### Software
+### Yazılım
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Bu proje bir web tarayıcısında BlocksCAD [kullanılarak tamamlanabilir blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ne öğreneceksiniz
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ Geometrik şekillerle (küreler) 3D modelleme
++ Geometrik şekilleri uzatmak için `ölçek` kullanma
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Eğitimciler için ek bilgiler
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) 'ü kullanın {: target = "_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Tamamlanan proje kodunu [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)adresinden indirin.
 
 --- /collapse ---
