@@ -1,26 +1,26 @@
-## 3D print and decorate your design
+## Imprima em 3D e decore seu design
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Se você tiver acesso a uma impressora 3D, poderá imprimir o bug e decorá-lo.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Renderize seu modelo e clique em **Generate STL**. Lembre-se de onde você salva o arquivo STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+Imprima em 3D o seu bug.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Você pode imprimir usando a cor principal do seu bug ou usar filamento claro ou branco.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Termine seu bug usando canetas permanentes!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Você pode colorir a cabeça e as pernas de preto ou adicionar pontos ou listras de outra cor.
 
-Here are some examples:
+aqui estão alguns exemplos:
 
 ![screenshot](images/bug-decorated.png)
 
