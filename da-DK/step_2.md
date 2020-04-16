@@ -1,44 +1,44 @@
-## Give your bug a body
+## Giv din bug en krop
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Åbn BlocksCAD-editoren i en webbrowser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Opret nu kroppen på din bug.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Start med en `sfære` med en radius på `10` (enheden her er millimeter):
 
-![screenshot](images/bug-body-sphere.png)
+![skærmbillede](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Klik på **Render** knappen for at se resultatet.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Tip: du kan ændre farven på den gengivne model ved at klikke på det farvede firkant.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Stræk nu kuglen langs dens Y-akse for at skabe en langstrakt krop til bugten.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`skalaen`{: class = "blockscadtransforms"} -blokken giver dig mulighed for at strække eller squash objekter langs X-, Y- og Z-akserne. Indstil Y-værdien til `1,2` at strække kuglen langs Y-aksen.
 
-![screenshot](images/bug-body-y.png)
+![skærmbillede](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Klik på **Render** igen, og kontroller, at kuglen er strækket ind i en ellipsoid. Se på din model fra forskellige vinkler, så du kan se, hvordan den har ændret sig.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Tip: hver gang du foretager en ændring af koden, skal du klikke på **Render** at se resultaterne.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Drej nu ellipsoiden lidt langs z-aksen for at lave en fladere bug.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Indstilling af en akseværdi under `1` gør objektet mindre langs den akse. Så ændre Z-værdien i `skala`{: class = "blockscadtransforms"} -blok til `0,8`.
 
-![screenshot](images/bug-body-z.png)
+![skærmbillede](images/bug-body-z.png)
 
 --- /task ---
 
