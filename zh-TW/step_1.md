@@ -1,58 +1,58 @@
-## Introduction
+## 介紹
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+在此專案中，你將使用BlocksCAD搭配幾何圖形來設計一隻3D昆蟲。
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+如果你能夠使用一台3D印表機，你就可以列印出你設計的昆蟲。 一但你的昆蟲列印完成，你就可以使用永久性的麥克筆在昆蟲上添加細節。
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+你也可以利用你所學到的技能搭配幾何圖形，來設計屬於你自己的昆蟲或其他生物。
 
-The bugs make great rewards for debugging!
+這些昆蟲為除錯帶來巨大的回報！
 
-### What you will make
+### 你將會做出
 
-The finished bug looks like this:
+完成的昆蟲看起來會像：
 
-![screenshot](images/bug-complete.png)
+![截圖](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+如果你能夠使用一台3D印表機，你就可以列印出你設計的昆蟲。
 
-![Complete project](images/bug-showcase.png)
+![完成專案](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+大多數3D印表機只能印出一種顏色，因此你可以使用永久性的馬克筆添加細節，以使昆蟲看起來更好。
 
 --- collapse ---
 ---
-title: What you will need
+title: 你將會需要
 ---
 
-### Hardware
+### 硬體
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ 3D印表機和你選擇的顏色的列印用長絲
++ 多種顏色的彩色永久性麥克筆-金屬色效果很好
 
-### Software
+### 軟體
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ 該專案可以透過 Web瀏覽器中使用BlocksCAD來完成 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+標題: 你將會學到
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 具有幾何形狀（球體）的3D模型建立
++ 使用 `scale` 延展幾何形狀
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+標題: 給教師的其它資訊
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+如果你需要列印此專案內容，請使用 [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}。
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+從 [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)下載完成的專案程式碼。
 
 --- /collapse ---
