@@ -1,58 +1,58 @@
-## Introduction
+## Introduktion
 
-In this project, you will use BlocksCAD to design a 3D bug or insect using geometric shapes.
+I dette projekt vil du bruge BlocksCAD til at designe en 3D-bug eller insekt ved hjælp af geometriske former.
 
-If you have access to a 3D printer, you can print the bug you design. Once your bug is printed, you can add details using permanent marker pens.
+Hvis du har adgang til en 3D-printer, kan du udskrive den fejl, du designer. Når din bug er udskrevet, kan du tilføje detaljer ved hjælp af permanente markørpenne.
 
-You'll also be able to use the skills you have learned to design your own bug or other creature using geometric shapes.
+Du vil også kunne bruge de færdigheder, du har lært til at designe din egen bug eller anden væsen ved hjælp af geometriske former.
 
-The bugs make great rewards for debugging!
+Bugs giver store fordele for debugging!
 
-### What you will make
+### Hvad du vil lave
 
-The finished bug looks like this:
+Den færdige fejl ser sådan ud:
 
-![screenshot](images/bug-complete.png)
+![skærmbillede](images/bug-complete.png)
 
-If you have access to a 3D printer, you can print your bug and then decorate it.
+Hvis du har adgang til en 3D-printer, kan du udskrive din fejl og derefter dekorere den.
 
-![Complete project](images/bug-showcase.png)
+![Komplet projekt](images/bug-showcase.png)
 
-Most 3D printers can only print in one colour, so you can add details using permanent markers to make your bug look even better.
+De fleste 3D-printere kan kun udskrive i en farve, så du kan tilføje detaljer ved hjælp af permanente markører for at få din bug til at se endnu bedre ud.
 
 --- collapse ---
 ---
-title: What you will need
+titel: Du får brug for følgende
 ---
 
 ### Hardware
 
-+ A 3D printer, and filament in a colour of your choice
-+ Coloured permanent marker pens in a range of colours — metallic colours work well
++ En 3D-printer og glødetråd i en farve efter eget valg
++ Farvede permanente markørpenne i en række farver - metalliske farver fungerer godt
 
 ### Software
 
-+ This project can be completed in a web browser using BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
++ Dette projekt kan afsluttes i en webbrowser ved hjælp af BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+titel: Du kommer til at lære følgende
 ---
 
-+ 3D modelling with geometric shapes (spheres)
-+ Using `scale` to stretch geometic shapes
++ 3D-modellering med geometriske former (kugler)
++ Brug `skala` til at strække geometiske figurer
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+titel: Yderligere oplysninger til undervisere
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Hvis du har brug for at udskrive dette projekt, skal du bruge den [ printervenlige version ](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {: Target = "_ blank"}.
 
-Download the finished project code at [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download den færdige projektkode på [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
