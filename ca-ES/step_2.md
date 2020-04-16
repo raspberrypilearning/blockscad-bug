@@ -10,35 +10,35 @@ Ara crea el cos de la teva cuca.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Comença amb un bloc `sphere (esfera)` de radi `10` (la unitat aquí és en mil·límetres):
 
-![screenshot](images/bug-body-sphere.png)
+![captura de pantalla](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Fes clic al botó **Render** per veure el resultat.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Consell: pots canviar el color del model generat fent clic al quadrat de colors.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Ara estira l'esfera al llarg del seu eix Y per crear un cos allargat per a la cuca.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+El bloc `scale`{:class="blockscadtransforms"} permet estirar o comprimir objectes al llarg dels eixos X, Y i Z. Defineix el valor Y a `1,2` per estirar l’esfera al llarg de l’eix Y.
 
-![screenshot](images/bug-body-y.png)
+![captura de pantalla](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Fes clic **Render** de nou i comprova que l'esfera s'ha estirat en un el·lipsoide. Mira el teu model des de diferents angles perquè puguis veure com ha canviat.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Consell: cada vegada que es realitza un canvi en el codi, s'ha de fer clic a **Render** per veure els resultats.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Ara allisa l’el·lipsoide una mica al llarg de l’eix z per fer una cuca més planera.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Establir un valor d'eix inferior a `1` fa que l'objecte sigui més petit al llarg d'aquest eix. Per tant, canvia el valor Z en el bloc `scale`{:class="blockcadtransforms"} a `0,8`.
 
-![screenshot](images/bug-body-z.png)
+![captura de pantalla](images/bug-body-z.png)
 
 --- /task ---
 
