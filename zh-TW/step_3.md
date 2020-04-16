@@ -1,34 +1,34 @@
-## Flatten the base of the body
+## 拉平身體的底部
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+現在，拉平身體的底部，使你的昆蟲更加逼真。 具有平坦底座的模型也更易於3D列印！
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+為此，您可以使用 `difference`{:class="blockscadsetops"} 區塊從模型中刪除長方體。
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+首先，建立一個長方體以覆蓋昆蟲的下半部分（在Z軸上，位於0以下的部分）。
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+長方體應該是 `centered` 至10mm高（沿著Z軸）。
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+添加一個 `translate` 區塊以沿著Z軸（向下）移動長方體-5mm。
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+為了易於區分長方體和昆蟲的身體，請添加一個 `color` 區塊以使長方體成為不同的顏色。
 
-![screenshot](images/bug-body-cuboid.png)
+![截圖](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+此長方體大於昆蟲的身體。 這意味著您可以加入昆蟲，而無需稍後再增大長方體。
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+使用一個 `difference`{:class="blockscadsetops"} 區塊從身體上移除長方體。
 
-![screenshot](images/bug-difference.png)
+![截圖](images/bug-difference.png)
 
-Now your bug's body has a flat base!
+現在，您的昆蟲的身體有一個平坦的底座了！
 
-Drag your model around in the viewer to see it from different angles.
+在查看器中四處拖動模型以從不同角度查看模型。
 
 --- /task ---
 
