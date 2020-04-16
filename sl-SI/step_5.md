@@ -1,64 +1,64 @@
-## Create legs
+## Ustvari noge
 
-Now the bug needs six legs!
+Zdaj hrošč potrebuje šest nog!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Najprej postavi par nog na sredino hroščevega telesa.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Klikni `+` na vrhu bloka `unija`, da dodaš še en razdelek. Dodaj raztegnjeno `kroglo`, da ustvariš par nog.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![posnetek zaslona](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Če želiš, lahko skriješ telo hrošča in si ogledaš, kako so narejene noge.
 
-![screenshot](images/bug-legs-disable.png)
+![posnetek zaslona](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Nato spet omogočiš prikaz telesu, da lahko nadaljuš pri oblikovanju svojega hrošča.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Dodaj še en par nog.
 
-Your bug needs to look like this:
+Dodajte še eno `raztegnjeno` `kroglo` z enakimi nastavitvami. Nato jih `obrni` za `30` navzdol osi Z, tako da se noge držijo pod kotom.
 
-![screenshot](images/bug-finished.png)
+![posnetek zaslona](images/bug-legs-2-annotated.png)
+
+Zdaj ima vaš hrošč dve srednji nogi in po eno sprednjo ter zadnjo nogo!
+
+--- /task ---
+
+--- task ---
+
+Ali lahko dodaš tretji par nog, tako da ima hrošč tri popolne sklope parov nog?
+
+Vaš hrošč mora izgledati tako:
+
+![posnetek zaslona](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Dodati moraš še tretjo `pomanjšano` `kroglo`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Obrni`{: class = "blockcadtransforms"} jo v nasprotni smeri od druge `krogle`. Krog ima 360 stopinj.
 
-Here are the blocks you need:
+To so potrebni bloki:
 
-![screenshot](images/bug-legs-blocks.png)
+![posnetek zaslona](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Tukaj je koda, ki jo potrebuješ:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![posnetek zaslona](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
