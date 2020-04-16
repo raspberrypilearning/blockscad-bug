@@ -1,44 +1,44 @@
-## Give your bug a body
+## תן לגוף שלך
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+פתח את עורך BlocksCAD בדפדפן אינטרנט [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+כעת צור את גוף הבאג שלך.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+התחל עם `כדור` עם רדיוס של `10` (היחיד כאן הוא מילימטרים):
 
-![screenshot](images/bug-body-sphere.png)
+![צילום מסך](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+לחץ על **Render** כפתור כדי לראות את התוצאה.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+טיפ: ניתן לשנות את צבע הדגם המוצג על ידי לחיצה על הריבוע הצבעוני.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+עכשיו מתיחו את הכדור לאורך ציר ה- Y שלו ליצירת גוף מוארך לחיידק.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+`בקנה מידה`{: class = "blockscadtransforms"} לחסום מאפשר לך למתוח או חפצים סקווש לאורך X, Y, Z וגרזנים. הגדר את ערך Y ל- `1.2` כדי למתוח את הכדור לאורך ציר Y.
 
-![screenshot](images/bug-body-y.png)
+![צילום מסך](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+לחץ שוב על **Render** ובדוק שהכדור נמתח לאליפסואיד. התבונן במודל שלך מזוויות שונות כדי שתוכל לראות כיצד הוא השתנה.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+טיפ: בכל פעם שאתה מבצע שינוי בקוד, עליך ללחוץ על **Render** כדי לראות את התוצאות.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+מעכו את האליפסואיד מעט לאורך ציר ה- Z בכדי ליצור באג מחמיא יותר.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+קביעת ערך ציר מתחת ל `1` הופכת את האובייקט לקטן יותר לאורך אותו ציר. אז שנה את ערך Z בסולם `בסולם`{: class = "blockscadtransforms"} לחסימה ל `0.8`.
 
-![screenshot](images/bug-body-z.png)
+![צילום מסך](images/bug-body-z.png)
 
 --- /task ---
 
