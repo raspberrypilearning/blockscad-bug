@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Πρόσθεσε ένα κεφάλι στο έντομό σου
 
-Now create a head for the bug.
+Τώρα δημιούργησε ένα κεφάλι για το έντομο.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Πρόσθεσε μια μικρότερη `σφαίρα` ως κεφάλι του εντόμου. Δεν μπορείς να δεις αυτή τη στιγμή τη νέα σφαίρα, επειδή είναι κρυμμένη μέσα στο σώμα.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Επίσης πρόσθεσε ένα μπλοκ `κλίμακας` στη νέα `σφαίρα` για να διαμορφώσεις το κεφάλι.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Στη συνέχεια πρόσθεσε ένα μπλοκ `ένωσης`{:class="blockscadsetops"} για να συνδυάσεις το κεφάλι και το σώμα.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![στιγμιότυπο οθόνης](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Αν θέλεις να δεις τη νέα `σφαίρα`, απενεργοποίησε προσωρινά το σώμα κάνοντας δεξί κλικ στο μπλοκ της `κλίμακας`{:class=«blockscadtransforms»} και επέλεξε **Απενεργοποίηση μπλοκ**. Στη συνέχεια, αυτό το μπλοκ και εκείνα μέσα του γίνονται γκρίζα, και το σώμα δεν εμφανίζεται όταν κάνεις κλικ στο **Απόδοση**.
 
-  ![screenshot](images/bug-head.png)
+![στιγμιότυπο οθόνης](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Κάνε δεξί κλικ στο μπλοκ ξανά και επέλεξε **Ενεργοποίηση μπλοκ** για να ενεργοποιήσεις το σώμα.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Μετακίνησε` το κεφάλι κατά μήκος του άξονα Υ έτσι ώστε να ξεφύγει από το σώμα.
+
+  ![στιγμιότυπο οθόνης](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Εάν θέλεις να δεις ξεκάθαρα τα διαφορετικά σχήματα, άλλαξε το χρώμα του κεφαλιού.
+
+![στιγμιότυπο οθόνης](images/bug-head-black.png)
+
+Μπορείς επίσης να πειραματιστείς με διαφορετικούς συνδυασμούς χρωμάτων για τη διακόσμηση του τυπωμένου εντόμου με μόνιμους μαρκαδόρους.
+
+--- /task --- --- task ---
+
+Μπορείς να αλλάξεις το χρώμα του σώματος του μοντέλου του εντόμου σου; Μπορείς να το αλλάξεις στο χρώμα του νήματος με το οποίο θέλεις να εκτυπώσεις ή στο χρώμα του μόνιμου μαρκαδόρου με τον οποίο θέλεις να το χρωματίσεις.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Αυτό είναι το μπλοκ που χρειάζεσαι.
 
-![screenshot](images/bug-colour-block.png)
+![στιγμιότυπο οθόνης](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Ακολουθεί ένα παράδειγμα με ένα πράσινο σώμα:
 
-![screenshot](images/bug-body-colour.png)
+![στιγμιότυπο οθόνης](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
