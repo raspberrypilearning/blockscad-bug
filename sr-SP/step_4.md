@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Додајте главу свом бугу
 
-Now create a head for the bug.
+Сада направите главу за грешку.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Додајте мањи `сферу` као главу буба. Тренутно не можете да видите ову нову сферу, јер је скривена у телу.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Такође додају `сцале` блок са новим `сфере` обликује главу.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Затим додајте блок `унион`{: цласс = "блоцксцадсетопс"} да бисте комбиновали главу и тело.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![слика екрана](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Ако желите да видите нови `сферу`, а затим привремено онемогућити тело десним кликом на свом `скали`{: цласс = "блоцксцадтрансформс"} блок, уз коришћење **Дисабле блок**. Тада се овај блок и они унутар њега исцртавају, а тело се не појављује када кликнете на **Рендер**.
 
-  ![screenshot](images/bug-head.png)
+![слика екрана](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Десним тастером миша кликните на блок и изаберите **Омогући блок** да бисте омогућили тело.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Преведите` главу дуж осе И тако да излази из тела.
+
+  ![слика екрана](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Ако желите да јасно видите различите облике, промените боју главе.
+
+![слика екрана](images/bug-head-black.png)
+
+Такође можете експериментирати са различитим комбинацијама боја за украшавање ваше штампане грешке трајним маркерима.
+
+--- /task --- --- task ---
+
+Можете ли променити боју каросерије свог модела бугова? Можете је променити у боју нити са којом желите да штампате или у боју трајног маркера са којим желите да је обојите.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Ово је блок који вам треба.
 
-![screenshot](images/bug-colour-block.png)
+![слика екрана](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Ево примера са зеленим телом:
 
-![screenshot](images/bug-body-colour.png)
+![слика екрана](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
