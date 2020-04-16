@@ -8,7 +8,7 @@ First put a pair of legs in the middle of the bug's body.
 
 Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![captura de pantalla](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
@@ -16,7 +16,7 @@ Click the `+` at the top of the `union` block to add another section. Add a stre
 
 If you like, you can disable the body of the bug to see how the legs are made.
 
-![screenshot](images/bug-legs-disable.png)
+![captura de pantalla](images/bug-legs-disable.png)
 
 Then enable the body again to continue working on your bug.
 
@@ -28,7 +28,7 @@ Now add another pair of legs.
 
 Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
 
-![screenshot](images/bug-legs-2-annotated.png)
+![captura de pantalla](images/bug-legs-2-annotated.png)
 
 Now your bug has two middle legs and one front leg and back leg each!
 
@@ -40,7 +40,7 @@ Can you add a third pair of legs so that the bug has three complete sets of leg 
 
 Your bug needs to look like this:
 
-![screenshot](images/bug-finished.png)
+![captura de pantalla](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
@@ -50,7 +50,7 @@ You need to add a third `scaled` `sphere`.
 
 Here are the blocks you need:
 
-![screenshot](images/bug-legs-blocks.png)
+![captura de pantalla](images/bug-legs-blocks.png)
 
 --- /hint ---
 
@@ -58,7 +58,7 @@ Here are the blocks you need:
 
 Here's the code you need:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![captura de pantalla](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
