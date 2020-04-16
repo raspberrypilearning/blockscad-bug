@@ -1,56 +1,56 @@
-## Add a head to your bug
+## अपने बग में एक सिर जोड़ें
 
-Now create a head for the bug.
+अब बग के लिए एक सिर बनाएं।
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+बग के सिर के रूप में एक छोटा `गोला` जोड़ें। अभी आप इस नए क्षेत्र को नहीं देख सकते, क्योंकि यह शरीर के अंदर छिपा हुआ है।
 
-Also add a `scale` block to the new `sphere` to shape the head.
+सिर को आकार देने के लिए नए `गोले` `स्केल` ब्लॉक भी जोड़ें।
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+फिर सिर और शरीर को मिलाने के लिए एक `संघ`{: वर्ग = "ब्लॉकसैडसेट्स"} ब्लॉक जोड़ें।
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![स्क्रीनशॉट](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+यदि आप नया `क्षेत्र`देखना चाहते हैं, तो अस्थायी रूप से शरीर को उसके `पैमाने`{: class = "blockcadtransforms"} ब्लॉक पर राइट-क्लिक करके **डिसेबल ब्लॉक**चयन करके अक्षम करें। फिर यह ब्लॉक और इसके अंदर के लोगों को बाहर निकाला जाता है, और **रेंडर**क्लिक करने पर बॉडी दिखाई नहीं देती है।
 
-  ![screenshot](images/bug-head.png)
+![स्क्रीनशॉट](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+फिर से ब्लॉक पर राइट-क्लिक करें और बॉडी को इनेबल करने के लिए **इनेबल ब्लॉक** को चुनें।
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`अनुवाद` Y साथ सिर इतना अक्ष है कि यह शरीर से बाहर चिपक जाता है।
+
+  ![स्क्रीनशॉट](images/bug-head.png)
+
+--- /task --- --- task ---
+
+यदि आप स्पष्ट रूप से विभिन्न आकृतियों को देखना चाहते हैं, तो सिर का रंग बदल दें।
+
+![स्क्रीनशॉट](images/bug-head-black.png)
+
+आप स्थायी मार्कर के साथ अपने मुद्रित बग को सजाने के लिए विभिन्न रंगों के संयोजन के साथ भी प्रयोग कर सकते हैं।
+
+--- /task --- --- task ---
+
+क्या आप अपने बग मॉडल के शरीर का रंग बदल सकते हैं? आप इसे उस फिलामेंट के रंग में बदल सकते हैं जिसे आप प्रिंट करना चाहते हैं, या उस स्थायी मार्कर के रंग से जिसे आप इसके साथ रंगना चाहते हैं।
 
 --- hints --- --- hint ---
 
-This is the block you need.
+यह वह ब्लॉक है जिसकी आपको आवश्यकता है।
 
-![screenshot](images/bug-colour-block.png)
+![स्क्रीनशॉट](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+यहाँ एक हरे रंग के शरीर के साथ एक उदाहरण दिया गया है:
 
-![screenshot](images/bug-body-colour.png)
+![स्क्रीनशॉट](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
