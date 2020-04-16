@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## Imprimare 3D și decorați designul
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Dacă aveți acces la o imprimantă 3D, puteți acum să imprimați eroarea dvs. și apoi să o decorați.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Reduceți modelul și apoi faceți clic pe **Generați STL**. Amintiți-vă unde ați salvat fișierul STL.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3D imprimă-ți eroarea.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Puteți imprima folosind culoarea principală a erorii dvs. sau puteți utiliza filament clar sau alb.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Termină-ți eroarea folosind pixuri pentru marker permanent!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Puteți colora capul și picioarele în negru sau puteți adăuga pete sau dungi în altă culoare.
 
-Here are some examples:
+Aici sunt cateva exemple:
 
-![screenshot](images/bug-decorated.png)
+![captură de ecran](images/bug-decorated.png)
 
 --- /task ---
 
