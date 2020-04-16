@@ -1,36 +1,36 @@
-## Flatten the base of the body
+## Achatar a base do corpo
 
-Now flatten the base of the body to make your bug more realistic. A model with a flat base is also easier to 3D print!
+Agora alise a base do corpo para tornar seu bug mais realista. Um modelo com base plana também é mais fácil para imprimir em 3D!
 
-To do this, you can simply remove a cuboid from your model using the `difference`{:class="blockscadsetops"} block.
+Para fazer isso, você pode simplesmente remover um cuboide do seu modelo usando o bloco `diferença`{: class = "blockscadsetops"}.
 
 --- task ---
 
-To start, create a cuboid to cover the bottom half of the bug (the part that sits below 0 on the Z axis).
+Para começar, crie um cubóide para cobrir a metade inferior do bug (a parte que fica abaixo de 0 no eixo Z).
 
-The cuboid should be `centered` and 10mm tall (along the Z axis).
+O cubóide deve ter `centrado de` e 10 mm de altura (ao longo do eixo Z).
 
-Add a `translate` block to move the cuboid -5mm along the Z axis (down).
+Adicionar um `traduzir` bloco para mover o -5mm cubóide ao longo do eixo Z (para baixo).
 
-To make it easy to tell the cuboid and your bug's body apart, add a `color` block to make the cuboid a different colour.
+Para facilitar a separação do cubóide e do corpo do inseto, adicione um bloco de `cor` para tornar o cubóide de uma cor diferente.
 
 ![screenshot](images/bug-body-cuboid.png)
 
-The cuboid is bigger than the bug's body. This means you can add to the bug without needing to make the cuboid bigger later.
+O cubóide é maior que o corpo do inseto. Isso significa que você pode adicionar ao bug sem precisar aumentar o cubóide posteriormente.
 
 --- /task ---
 
 --- task ---
 
-Use a `difference`{:class="blockscadsetops"} block to remove the cuboid from the body.
+Use um bloco `{`: class = "blockscadsetops"} de diferença  para remover o cubóide do corpo. </p>
 
-![screenshot](images/bug-difference.png)
+<p spaces-before="0"><img src="images/bug-difference.png" alt="screenshot" /></p>
 
-Now your bug's body has a flat base!
+<p spaces-before="0">Agora o corpo do seu inseto tem uma base plana!</p>
 
-Drag your model around in the viewer to see it from different angles.
+<p spaces-before="0">Arraste seu modelo no visualizador para vê-lo de diferentes ângulos. </p>
 
---- /task ---
+<p spaces-before="0">--- /task ---</p>
 
 
 
