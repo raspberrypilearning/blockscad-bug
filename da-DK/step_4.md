@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Føj et hoved til din fejl
 
-Now create a head for the bug.
+Opret nu et hoved til fejlen.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Tilføj en mindre `sfære` som bugens hoved. Lige nu kan du ikke se denne nye sfære, fordi den er skjult inde i kroppen.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Tilføj også en `skala` blok til den nye `sfære` at forme hovedet.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Tilføj derefter en `union`{: class = "blockscadsetops"} -blok for at kombinere hoved og krop.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![skærmbillede](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Hvis du vil se den nye `sfære`, skal du midlertidigt deaktivere kroppen ved at højreklikke på dens `skala`{: class = "blockscadtransforms"} -blok og vælge **Deaktiver blok**. Derefter gråes denne blok og dem deri ind, og kroppen vises ikke, når du klikker på **Render**.
 
-  ![screenshot](images/bug-head.png)
+![skærmbillede](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Højreklik på blokken igen og vælg **Aktivér blok** at aktivere kroppen.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Oversæt` hovedet langs Y-aksen, så det stikker ud af kroppen.
+
+  ![skærmbillede](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Hvis du klart vil se de forskellige former, skal du ændre farven på hovedet.
+
+![skærmbillede](images/bug-head-black.png)
+
+Du kan også eksperimentere med forskellige farvekombinationer til dekoration af din trykte fejl med permanente markører.
+
+--- /task --- --- task ---
+
+Kan du ændre farven på kroppen på din bugmodel? Du kan ændre den til farven på glødetråden, du vil udskrive med, eller til farven på den permanente markør, du vil farve den med.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Dette er den blok, du har brug for.
 
-![screenshot](images/bug-colour-block.png)
+![skærmbillede](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Her er et eksempel med en grøn krop:
 
-![screenshot](images/bug-body-colour.png)
+![skærmbillede](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
