@@ -1,42 +1,42 @@
-## Give your bug a body
+## Dê um corpo ao seu bug
 
 --- task ---
 
-Open the BlocksCAD editor in a web browser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
+Abra o editor BlocksCAD em um navegador da web [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
 
 --- /task ---
 
-Now create the body of your bug.
+Agora crie o corpo do seu bug.
 
 --- task ---
 
-Start with a `sphere` with a radius of `10` (the unit here is millimetres):
+Comece com uma esfera `` com um raio de `10` (a unidade aqui é milímetros):
 
-![screenshot](images/bug-body-sphere.png)
+![captura de tela](images/bug-body-sphere.png)
 
-Click on the **Render** button to see the result.
+Clique no botão **Render** para ver o resultado.
 
-Tip: you can change the colour of the rendered model by clicking on the coloured square.
+Dica: você pode alterar a cor do modelo renderizado clicando no quadrado colorido.
 
 --- /task --- --- task ---
 
-Now stretch the sphere along its Y axis to create an elongated body for the bug.
+Agora estique a esfera ao longo do seu eixo Y para criar um corpo alongado para o erro.
 
-The `scale`{:class="blockscadtransforms"} block allows you to stretch or squash objects along the X, Y, and Z axes. Set the Y value to `1.2` to stretch the sphere along the Y axis.
+O bloco `escala`{: class = "blockscadtransforms"} permite esticar ou esmagar objetos ao longo dos eixos X, Y e Z. Defina o valor Y como `1,2` para esticar a esfera ao longo do eixo Y.
 
 ![screenshot](images/bug-body-y.png)
 
-Click **Render** again and check that the sphere has been stretched into an ellipsoid. Look at your model from different angles so you can see how it has changed.
+Clique em **Render** novamente e verifique se a esfera foi esticada em um elipsóide. Olhe para o seu modelo de diferentes ângulos para poder ver como ele mudou.
 
 --- /task ---
 
-Tip: every time you make a change to the code, you need to click **Render** to see the results.
+Dica: sempre que você fizer uma alteração no código, clique em **Render** para ver os resultados.
 
 --- task ---
 
-Now squash the ellipsoid a bit along the z-axis to make a flatter bug.
+Agora esmague o elipsóide um pouco ao longo do eixo z para criar um erro mais plano.
 
-Setting an axis value below `1` makes the object smaller along that axis. So change the Z value in the `scale`{:class="blockscadtransforms"} block to `0.8`.
+Definir um valor de eixo abaixo de `1` diminui o objeto ao longo desse eixo. Portanto, altere o valor Z no bloco `escala`{: class = "blockscadtransforms"} para `0,8`.
 
 ![screenshot](images/bug-body-z.png)
 
