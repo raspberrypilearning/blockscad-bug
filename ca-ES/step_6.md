@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Repte: dissenya la teva pròpia cuca
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Ara és hora de dissenyar la teva pròpia cuca utilitzant els teus nous coneixements de BlocksCAD!
 
-Tips:
+Consells:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ La majoria d’impressores 3D només poden imprimir en un sol color. Pots utilitzar colors a BlocksCAD per dissenyar l'aspecte que vulguis i un cop feta la impressió, afegir detalls amb retoladors permanents.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ No facis que cap part de la teva cuca sigui massa prima, ja que es trencarà fàcilment.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Evita afegir parts que tinguin forats per sota d'elles quan s'imprimeixin en 3D, perquè les impressores 3D no poden imprimir al mig de l'aire. (És possible imprimir mitjançant suports per aguantar parts del model, però això fa que la impressió sigui més complicada.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Pensa en com de gran serà la teva cuca. Si la fas massa gran, trigaràs molt de temps a imprimir-la i empraràs molt de filament.
 
 --- /challenge ---
 
