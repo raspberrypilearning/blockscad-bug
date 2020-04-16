@@ -10,13 +10,13 @@ Also add a `scale` block to the new `sphere` to shape the head.
 
 Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
 
-![screenshot](images/bug-head-hidden.png)
+![captura de pantalla](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
 If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
 
-![screenshot](images/bug-disable.png)
+![captura de pantalla](images/bug-disable.png)
 
 Right-click on the block again and choose **Enable block** to enable the body.
 
@@ -24,13 +24,13 @@ Right-click on the block again and choose **Enable block** to enable the body.
 
 `Translate` the head along the Y axis so that it sticks out of the body.
 
-  ![screenshot](images/bug-head.png)
+  ![captura de pantalla](images/bug-head.png)
 
 --- /task --- --- task ---
 
 If you want to clearly see the different shapes, change the colour of the head.
 
-![screenshot](images/bug-head-black.png)
+![captura de pantalla](images/bug-head-black.png)
 
 You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
 
@@ -42,7 +42,7 @@ Can you change the colour of the body of your bug model? You could change it to 
 
 This is the block you need.
 
-![screenshot](images/bug-colour-block.png)
+![captura de pantalla](images/bug-colour-block.png)
 
 --- /hint ---
 
@@ -50,7 +50,7 @@ This is the block you need.
 
 Here's an example with a green body:
 
-![screenshot](images/bug-body-colour.png)
+![captura de pantalla](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
