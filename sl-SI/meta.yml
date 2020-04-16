@@ -1,23 +1,23 @@
 ---
-title: 3D bug
+title: 3D hrošč
 hero_image: images/banner.png
-description: Design a 3D-printable bug insect with BlocksCAD
+description: Z BlocksCAD oblikuj 3D žuželko, ki jo je mogoče natisniti s 3D tiskalnikom
 version: 1
 listed: true
 copyedit: true
 last_tested: "2019-03-21"
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Give your bug a body
+    title: Hrošču daj telo
   - 
-    title: Flatten the base of the body
+    title: Splošči dno telesa
   - 
-    title: Add a head to your bug
+    title: Hrošču dodaj glavo
   - 
-    title: Create legs
+    title: Ustvari noge
   - 
-    title: Design your own bug
+    title: Oblikuj lastnega hrošča
   - 
-    title: 3D print and decorate your design
+    title: 3D natisni hrošča in in ga dekoriraj
