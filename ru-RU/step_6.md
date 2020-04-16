@@ -1,18 +1,18 @@
-## Challenge: design your own bug
+## Задача: создай своего собственного жука
 
 --- challenge ---
 
-Now it's time to design your own bug using your new knowledge of BlocksCAD!
+Теперь пришло время создать собственного жука, используя новые знания о BlocksCAD!
 
-Tips:
+Подсказки:
 
-+ Most 3D printers can only print in one colour. You can use colours in BlocksCAD to design the look you want and then add details with permanent marker pens after printing.
++ Большинство 3D-принтеров могут печатать только в одном цвете. Ты можешь использовать цвета в BlocksCAD, чтобы придать дизайну нужный вид, а затем добавить детали с помощью перманентных маркеров после печати.
 
-+ Don't make any part of your bug too slim, or it will break easily.
++ Не делай какую-либо часть твоего жука слишком тонкой, иначе он легко сломается.
 
-+ Avoid add parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (It is possible to print using supports to hold up parts of your model, but this makes printing more complicated.)
++ Избегайте добавления деталей, которые имеют зазоры под ними при 3D-печати, потому что 3D-принтеры не могут печатать в воздухе. (Можно печатать, используя подставки для удержания частей вашей модели, но это усложняет печать.)
 
-+ Think about how big your bug will be. If you make it too big, then it will take a long time to print and use a lot of filament.
++ Подумай, насколько большой будет твой жук. Если ты сделаешь его слишком большим, то на печать и использование большого количества нити потребуется много времени.
 
 --- /challenge ---
 
