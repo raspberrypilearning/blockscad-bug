@@ -1,56 +1,56 @@
-## Add a head to your bug
+## Adiciona uma cabeça ao teu inseto
 
-Now create a head for the bug.
+Agora cria uma cabeça para o inseto.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Adiciona uma `esfera` mais pequena para servir de cabeça ao inseto. Neste momento, não podes ver esta nova esfera, porque está escondida dentro do corpo.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Para além disso, adiciona um bloco `escala` à nova `esfera` para moldar a cabeça.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Depois, adiciona um bloco `union`{: class = "blockscadsetops"} para juntar a cabeça com o corpo.
 
-![screenshot](images/bug-head-hidden.png)
-
---- /task --- --- task ---
-
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
-
-![screenshot](images/bug-disable.png)
-
-Right-click on the block again and choose **Enable block** to enable the body.
+![captura de ecrã](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+Se quiseres ver a nova `esfera`, desativa temporariamente o corpo clicando com o botão direito no seu bloco `scale`{: class = "blockscadtransforms"} e seleciona **Disable bloco**. Esse bloco e os que estão dentro dele ficam acinzentados e o corpo não aparece quando clicas em **Render**.
 
-  ![screenshot](images/bug-head.png)
+![captura de ecrã](images/bug-disable.png)
 
---- /task --- --- task ---
-
-If you want to clearly see the different shapes, change the colour of the head.
-
-![screenshot](images/bug-head-black.png)
-
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+Clica com o botão direito do rato no bloco novamente e escolhe **Ativar bloco** para voltar a ver o corpo.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+`Translate` a cabeça ao longo do eixo Y, para que fique fora do corpo.
+
+  ![captura de ecrã](images/bug-head.png)
+
+--- /task --- --- task ---
+
+Se quiseres ver claramente as diferentes formas, altera a cor da cabeça.
+
+![captura de ecrã](images/bug-head-black.png)
+
+Também podes experimentar diferentes combinações de cores para decorar o teu inseto impresso com marcadores permanentes.
+
+--- /task --- --- task ---
+
+Consegues mudar a cor do corpo do teu modelo de inseto? Tu podias fazer com que a cor escolhida coincida com a do filamento que vais utilizar para imprimir ou com a cor do marcador permanente que vai utilizar para o colorir.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Este é o bloco que que vais precisar.
 
-![screenshot](images/bug-colour-block.png)
+![captura de ecrã](images/bug-colour-block.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's an example with a green body:
+Aqui está um exemplo com um corpo verde:
 
-![screenshot](images/bug-body-colour.png)
+![captura de ecrã](images/bug-body-colour.png)
 
 --- /hint --- --- /hints --- --- /task ---
 
