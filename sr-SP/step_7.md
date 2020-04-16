@@ -1,28 +1,28 @@
-## 3D print and decorate your design
+## 3Д штампање и украшавање вашег дизајна
 
-If you have access to a 3D printer, you can now print your bug and then decorate it.
+Ако имате приступ 3Д штампачу, сада можете да штампате своју грешку и затим је украсите.
 
 --- task ---
 
-Render your model and then click **Generate STL**. Remember where you save the STL file.
+Направите свој модел, а затим кликните на **Генерирај СТЛ**. Запамтите где сте сачували СТЛ датотеку.
 
 --- /task --- --- task ---
 
-3D print your bug.
+3Д штампање грешке.
 
-You could print using the main colour of your bug, or you could use clear or white filament.
+Можете да штампате користећи главну боју своје грешке или можете користити бистро или бело филомент.
 
 --- /task ---
 
 --- task ---
 
-Finish your bug using permanent marker pens!
+Завршите своју грешку користећи трајне оловке за обележавање!
 
-You could colour the head and legs in black, or add spots or stripes in another colour.
+Можете обојити главу и ноге у црну боју, или додати мрље или пруге у другој боји.
 
-Here are some examples:
+Ево неколико примера:
 
-![screenshot](images/bug-decorated.png)
+![слика екрана](images/bug-decorated.png)
 
 --- /task ---
 
