@@ -1,64 +1,64 @@
-## Create legs
+## Creu coesau
 
-Now the bug needs six legs!
+Nawr mae angen chwe choes ar y byg!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Yn gyntaf rhowch bâr o goesau yng nghanol corff y byg.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Cliciwch y `+` ar frig bloc `undeb` i ychwanegu adran arall. Ychwanegu ymestyn `sffêr` i greu pâr o goesau.
 
-![screenshot](images/bug-legs-middle-annotated.png)
+![sgrinlun](images/bug-legs-middle-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Os dymunwch, gallwch analluogi corff y byg i weld sut mae'r coesau'n cael eu gwneud.
 
-![screenshot](images/bug-legs-disable.png)
+![sgrinlun](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
-
---- /task ---
-
---- task ---
-
-Now add another pair of legs.
-
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
-
-![screenshot](images/bug-legs-2-annotated.png)
-
-Now your bug has two middle legs and one front leg and back leg each!
+Yna galluogwch y corff eto i barhau i weithio ar eich nam.
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+Nawr ychwanegwch bâr arall o goesau.
 
-Your bug needs to look like this:
+Ychwanegwch un arall `raddfa` `sffêr` gyda'r un lleoliadau. Yna `cylchdroi` mae'n `` degress ar hyd yr echel Z fel bod y coesau'n glynu allan ar ongl.
 
-![screenshot](images/bug-finished.png)
+![sgrinlun](images/bug-legs-2-annotated.png)
+
+Nawr mae gan eich nam ddwy goes ganol ac un goes flaen a choes gefn yr un!
+
+--- /task ---
+
+--- task ---
+
+A allwch chi ychwanegu trydydd pâr o goesau fel bod gan y byg dair set gyflawn o barau coesau?
+
+Mae angen i'ch byg edrych fel hyn:
+
+![sgrinlun](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Mae angen i chi ychwanegu traean `graddfa` `sffêr`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Cylchdroi`{: class = "bloccadcadiadau"} i'r cyfeiriad arall i'r ail `sffêr`. Mae 360 gradd mewn cylch.
 
-Here are the blocks you need:
+Dyma'r blociau côd rwyt ti eu hangen:
 
-![screenshot](images/bug-legs-blocks.png)
+![sgrinlun](images/bug-legs-blocks.png)
 
 --- /hint ---
 
 --- hint ---
 
-Here's the code you need:
+Dyma'r cod sydd ei angen arnoch chi:
 
-![screenshot](images/bug-legs-3-annotated.png)
+![sgrinlun](images/bug-legs-3-annotated.png)
 
 --- /hint ---
 
