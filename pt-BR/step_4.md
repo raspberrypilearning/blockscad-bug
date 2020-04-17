@@ -1,4 +1,4 @@
-## Adicione uma cabeça ao seu bug
+## Adicione uma cabeça ao seu inseto
 
 Agora crie uma cabeça para o bug.
 
