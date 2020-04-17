@@ -10,7 +10,7 @@ Consejos:
 
 + No hagas ninguna parte de tu insecto demasiado delgada o se romperá fácilmente.
 
-+ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Es posible imprimir usando soportes para sostener partes de tu modelo, pero esto hace que la impresión sea más complicada)
++ Evita añadir partes que tengan espacios debajo de ellas cuando se imprimen en 3D, porque las impresoras 3D no pueden imprimir en el aire. (Es posible imprimir usando soportes para sostener partes de tu modelo, pero esto hace que la impresión sea más complicada)
 
 + Piensa cómo de grande quieres que sea tu insecto. Si lo haces demasiado grande, llevará mucho tiempo de impresión y usará mucho filamento.
 
