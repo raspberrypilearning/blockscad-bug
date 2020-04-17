@@ -36,7 +36,7 @@ També pots experimentar amb diferents combinacions de colors per decorar la cuc
 
 --- /task --- --- task ---
 
-Pots canviar el color del cos del teu model de cuca? Pots canviar-lo pel color del filament amb què vols imprimir o pel color del marcador permanent amb el qual vols acolorir-lo.
+Pots canviar el color del cos del teu model de cuca? Pots canviar-lo pel color del filament amb què vols imprimir o pel color del marcador permanent amb el qual el vols pintar.
 
 --- hints --- --- hint ---
 
