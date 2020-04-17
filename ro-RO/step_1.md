@@ -18,7 +18,7 @@ Dacă ai acces la o imprimantă 3D, îți poți imprima insecta și apoi o poți
 
 ![Proiect complet](images/bug-showcase.png)
 
-Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare, astfel încât să poți adăuga detalii folosind markere permanente pentru ca insecta ta să pară și mai bună.
+Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare, astfel încât să poți adăuga detalii folosind markere permanente pentru ca insecta ta să arate și mai bine.
 
 --- collapse ---
 ---
@@ -42,19 +42,17 @@ title: Ce vei învăța
 ---
 
 + Modelare 3D cu forme geometrice (sfere)
-+ Folosind scala</code> pentru a întinde formele geometrice</li>
-</ul>
++ Folosind `scala`pentru a întinde formele geometrice
 
-<p spaces-before="0">--- /collapse ---</p>
+--- /collapse ---
 
-<p spaces-before="0">--- collapse ---</p>
+--- collapse ---
+---
+title: Informații suplimentare pentru educatori
+---
 
-<hr />
+Dacă trebuie să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-<h2 spaces-before="0">title: Informații suplimentare pentru educatori</h2>
+Descarcă codul proiectului finalizat de pe [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
-<p spaces-before="0">Dacă trebuie să printezi acest proiect, folosește <a href="https://projects.raspberrypi.org/en/projects/blockscad-bug/print">versiunea printabilă</a>{:target="_blank"}.</p>
-
-<p spaces-before="0">Descarcă codul proiectului finalizat de pe <a href="http://rpf.io/p/en/blockscad-bug-get">rpf.io/p/en/blockscad-bug-get</a>.</p>
-
-<p spaces-before="0">--- /collapse ---</p>
+--- /collapse ---
