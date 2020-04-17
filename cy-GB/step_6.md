@@ -10,7 +10,7 @@ Awgrymiadau:
 
 + Peidiwch â gwneud unrhyw ran o'ch nam yn rhy fain, neu bydd yn torri'n hawdd.
 
-+ Ceisiwch osgoi ychwanegu rhannau sydd â bylchau oddi tanynt pan fyddant wedi'u hargraffu 3D, oherwydd ni all argraffwyr 3D argraffu yng nghanol yr awyr. (Mae'n bosib argraffu gan ddefnyddio cynhalwyr i ddal rhannau o'ch model, ond mae hyn yn gwneud argraffu yn fwy cymhleth.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Mae'n bosib argraffu gan ddefnyddio cynhalwyr i ddal rhannau o'ch model, ond mae hyn yn gwneud argraffu yn fwy cymhleth.)
 
 + Meddyliwch pa mor fawr fydd eich nam. Os ydych chi'n ei wneud yn rhy fawr, yna bydd yn cymryd amser hir i argraffu a defnyddio llawer o ffilament.
 
