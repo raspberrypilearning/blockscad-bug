@@ -1,46 +1,46 @@
-## Adăugați un cap la eroare
+## Adaugă un cap la insecta ta
 
-Acum creați un cap pentru eroare.
+Acum, creează un cap pentru insecta ta.
 
 --- task ---
 
-Adăugați o mai mică `sferă` ca cap al erorii. Momentan nu puteți vedea această sferă nouă, deoarece este ascunsă în interiorul corpului.
+Adaugă o `sferă mai mică ` drept capul insectei. Chiar acum nu poți vedea această nouă sferă, pentru că este ascunsă în interiorul corpului.
 
-Adăugați, de asemenea, un bloc de `scară` la noua `sferă` pentru a modela capul.
+Adaugă și un bloc `scale` la noua `sferă` pentru a forma capul.
 
-Apoi adăugați un bloc `union`{: class = "blockcadsetops"} pentru a combina capul și corpul.
+Apoi adaugă un bloc `union`{:class="blockscadsetops"} pentru a combina capul și corpul.
 
 ![captură de ecran](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-Dacă doriți să vedeți noua `sferă`, atunci dezactivați temporar corpul făcând clic dreapta pe blocul său `scara`{: class = "blockcadtransforms"} și alegând **Dezactivați blocul**. Apoi, acest bloc și cele din interior sunt lăsate la culoare și corpul nu apare atunci când faceți clic pe **Render**.
+Dacă vrei să vezi noul bloc `sferă`, atunci dezactivează temporar corpul dând click dreapta pe blocul `scale`{:class="blockscadtransforms"} și alegând **Disable block**. Acest bloc și cele din interior sunt acum gri, iar corpul nu apare atunci când dai click pe **Render**.
 
 ![captură de ecran](images/bug-disable.png)
 
-Faceți clic dreapta pe bloc din nou și alegeți **Activați blocul** pentru a activa corpul.
+Dă click dreapta din nou pe bloc și alege **Enable block** pentru a activa corpul.
 
 --- /task --- --- task ---
 
-`Traduceți` capul de-a lungul axei Y, astfel încât să rămână afară din corp.
+Fă o acțiune de `Translate` pentru cap de-a lungul axei Y, astfel încât să rămână afară din corp.
 
   ![captură de ecran](images/bug-head.png)
 
 --- /task --- --- task ---
 
-Dacă doriți să vedeți clar diferitele forme, schimbați culoarea capului.
+Dacă vrei să vezi în mod clar diferitele forme, schimbă culoarea capului.
 
 ![captură de ecran](images/bug-head-black.png)
 
-Puteți experimenta, de asemenea, diferite combinații de culori pentru decorarea erorii tipărite cu markere permanente.
+De asemenea, poți experimenta cu diferite combinații de culori pentru a decora insecta printată cu markere colorate.
 
 --- /task --- --- task ---
 
-Puteți schimba culoarea corpului modelului dvs. de erori? Puteți schimba culoarea filamentului cu care doriți să imprimați sau culoarea markerului permanent cu care doriți să o colorați.
+Poți schimba culoarea corpului insectei? Ai putea să-l schimbi în culoarea filamentului cu care vrei să o tipărești, sau până la culoarea marker-ului cu care vrei să îl colorezi.
 
 --- hints --- --- hint ---
 
-Acesta este blocul de care aveți nevoie.
+Acesta este blocul de care ai nevoie.
 
 ![captură de ecran](images/bug-colour-block.png)
 
