@@ -10,7 +10,7 @@ Suggerimenti:
 
 + Non rendere nessuna parte del tuo insetto troppo sottile, o si romperà facilmente.
 
-+ Evitare di aggiungere parti che presentano degli spazi sottostanti quando vengono stampate in 3D, poiché le stampanti 3D non possono stampare a mezz'aria. (È possibile stampare utilizzando i supporti per sostenere parti del modello, ma ciò rende la stampa più complicata.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (È possibile stampare utilizzando i supporti per sostenere parti del modello, ma ciò rende la stampa più complicata.)
 
 + Pensa a quanto sarà grande il tuo insetto. Se lo rendi troppo grande, ci vorrà molto tempo per stampare e userai molto filamento.
 
