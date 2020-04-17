@@ -4,7 +4,7 @@ Acum, creează un cap pentru insecta ta.
 
 --- task ---
 
-Adaugă o `sferă mai mică ` drept capul insectei. Chiar acum nu poți vedea această nouă sferă, pentru că este ascunsă în interiorul corpului.
+Adaugă o `sferă` mai mică drept capul insectei. Chiar acum nu poți vedea această nouă sferă, pentru că este ascunsă în interiorul corpului.
 
 Adaugă și un bloc `scale` la noua `sferă` pentru a forma capul.
 
