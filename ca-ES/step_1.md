@@ -42,7 +42,7 @@ títol: Què aprendràs
 ---
 
 + Modelització 3D amb formes geomètriques (esferes)
-+ Utilitzant `escala` per estirar formes geomètriques
++ Utilitzant `scale` (escala) per estirar formes geomètriques
 
 --- /collapse ---
 
