@@ -38,7 +38,7 @@
 
 버그에게 6개의 다리가 모두 있도록 세 번째 다리 쌍을 추가 할 수 있나요?
 
-버그는 다음과 같아야 합니다:
+당신의 버그는 다음과 같아야 합니다:
 
 ![스크린샷](images/bug-finished.png)
 
@@ -46,7 +46,7 @@
 
 세 번째 늘어난 `sphere`(구)를 추가해야 합니다.
 
-두번째 `sphere`와는 반대 방향으로 `Rotate`{:class="blockscadtransforms"}(회전)하세요. 원 안에는 360 도가 있습니다.
+두번째 `sphere`와는 반대 방향으로 `Rotate`{:class="blockscadtransforms"}(회전)하세요. 원의 각도는 360도 입니다.
 
 필요한 코드 블록은 다음과 같습니다:
 
