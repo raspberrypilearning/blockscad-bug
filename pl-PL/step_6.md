@@ -10,7 +10,7 @@ Wskazówki:
 
 + Nie rób, żadnej część twojego owada była zbyt wąskiej, bo łatwo się ułamie.
 
-+ Unikaj dodawania części, które mają przerwy poniżej, gdy są drukowane w 3D. Ponieważ drukarki 3D nie mogą drukować w powietrzu. (Możliwe jest drukowanie za pomocą podpór do podtrzymywania części modelu, ale to utrudnia drukowanie).
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Możliwe jest drukowanie za pomocą podpór do podtrzymywania części modelu, ale to utrudnia drukowanie).
 
 + Pomyśl o tym, jak duży będzie twój owad. Jeśli zrobisz go za dużego, wydrukowanie go użyje dużej ilości filamentu i zajmie dużo czasu.
 
