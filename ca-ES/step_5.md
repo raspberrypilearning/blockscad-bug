@@ -6,7 +6,7 @@ Ara la cuca necessita sis potes!
 
 Primer, posa un parell de potes al mig del cos de la cuca.
 
-Fes clic al botó `+` de la part superior del bloc `union` per afegir una altra secció. Afegeix una `esfera` estirada per crear un parell de potes.
+Fes clic al botó `+` de la part superior del bloc `union` per afegir una altra secció. Afegeix una `sphere` estirada per crear un parell de potes.
 
 ![captura de pantalla](images/bug-legs-middle-annotated.png)
 
@@ -26,7 +26,7 @@ A continuació, activa el cos de nou per continuar treballant amb la teva cuca.
 
 Ara afegeix un altre parell de potes.
 
-Afegeix una altra `esfera` `escalada` amb els mateixos paràmetres. A continuació, `rotate (gira)` en `30` graus al llarg de l'eix Z de manera que les potes s'enganxin formant un angle.
+Afegeix una altra `scaled` `sphere` (esfera escalada) amb els mateixos paràmetres. A continuació, `rotate` (gira'l) en `30` graus al llarg de l'eix Z de manera que les potes s'enganxin formant un angle.
 
 ![captura de pantalla](images/bug-legs-2-annotated.png)
 
@@ -44,7 +44,7 @@ La teva cuca ha de ser així:
 
 --- hints --- --- hint ---
 
-Cal afegir una tercera `esfera` `escalada`.
+Cal afegir una tercera `scaled` `sphere` (esfera escalada).
 
 Aplica `Rotate`{:class="blockscadtransforms"} en la direcció oposada a la segona `sphere`. Hi ha 360 graus en un cercle.
 
