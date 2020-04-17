@@ -42,7 +42,7 @@ title: Ce vei învăța
 ---
 
 + Modelare 3D cu forme geometrice (sfere)
-+ Folosind `scala`pentru a întinde formele geometrice
++ Folosind `scale`pentru a întinde formele geometrice
 
 --- /collapse ---
 
