@@ -10,7 +10,7 @@ Tips:
 
 + Gør ikke nogen del af din bug for slank, ellers bryder den let.
 
-+ Undgå at tilføje dele, der har huller under dem, når de er 3D-trykt, fordi 3D-printere ikke kan udskrive i luften. (Det er muligt at udskrive ved hjælp af understøttelser til at holde dele af din model op, men det gør udskrivning mere kompliceret.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Det er muligt at udskrive ved hjælp af understøttelser til at holde dele af din model op, men det gør udskrivning mere kompliceret.)
 
 + Tænk på, hvor stor din fejl bliver. Hvis du gør det for stort, tager det lang tid at udskrive og bruge en masse filament.
 
