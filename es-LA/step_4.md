@@ -1,46 +1,46 @@
-## Add a head to your bug
+## Añade una cabeza a tu insecto
 
-Now create a head for the bug.
+Ahora crea una cabeza para el insecto.
 
 --- task ---
 
-Add a smaller `sphere` as the bug's head. Right now you can't see this new sphere, because it's hidden inside the body.
+Añade una `esfera` más pequeña para que sea la cabeza del insecto. Ahora no puedes ver esta nueva esfera, porque está oculta dentro del cuerpo.
 
-Also add a `scale` block to the new `sphere` to shape the head.
+Añade también un bloque `escala` a la nueva `esfera` para dar forma a la cabeza.
 
-Then add a `union`{:class="blockscadsetops"} block to combine the head and body.
+Luego añade un bloque `union`{:class="blockscadsetops"} para unir la cabeza y el cuerpo.
 
 ![captura de pantalla](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-If you want to see the new `sphere`, then temporarily disable the body by right-clicking on its `scale`{:class="blockscadtransforms"} block and choosing **Disable block**. Then this block and the ones inside it are greyed out, and the body does not appear when you click **Render**.
+Si deseas ver la nueva `esfera`, deshabilita temporalmente el cuerpo haciendo clic con el botón derecho en su bloque `escala`{:class="blockscadtransforms"} y selecciona **Desactivar bloque**. Así que este bloque y los que están dentro de él aparecerán en gris, y el cuerpo no se verá cuando hagas clic en **Hacer**.
 
 ![captura de pantalla](images/bug-disable.png)
 
-Right-click on the block again and choose **Enable block** to enable the body.
+Haz clic derecho en el bloque nuevamente y selecciona **Activar bloque** para habilitar el cuerpo.
 
 --- /task --- --- task ---
 
-`Translate` the head along the Y axis so that it sticks out of the body.
+`Traslada` la cabeza a lo largo del eje Y para que sobresalga del cuerpo.
 
   ![captura de pantalla](images/bug-head.png)
 
 --- /task --- --- task ---
 
-If you want to clearly see the different shapes, change the colour of the head.
+Si deseas ver claramente las diferentes formas, cambia el color de la cabeza.
 
 ![captura de pantalla](images/bug-head-black.png)
 
-You can also experiment with different colour combinations for decorating your printed bug with permanent markers.
+También puedes experimentar con diferentes combinaciones de colores para decorar tu insecto con marcadores permanentes una vez impreso.
 
 --- /task --- --- task ---
 
-Can you change the colour of the body of your bug model? You could change it to the colour of the filament you want to print with, or to the colour of the permanent marker you want to colour it with.
+¿Puedes cambiar el color del cuerpo de tu modelo de insecto? Puedes cambiarlo al color del filamento con el que deseas imprimir, o al color del marcador permanente con el que deseas colorearlo.
 
 --- hints --- --- hint ---
 
-This is the block you need.
+Este es el bloque que necesitas.
 
 ![captura de pantalla](images/bug-colour-block.png)
 
@@ -48,7 +48,7 @@ This is the block you need.
 
 --- hint ---
 
-Here's an example with a green body:
+Aquí hay un ejemplo con un cuerpo verde:
 
 ![captura de pantalla](images/bug-body-colour.png)
 
