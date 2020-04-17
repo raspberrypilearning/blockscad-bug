@@ -1,24 +1,24 @@
-## Imprimare 3D și decorați designul
+## Imprimă 3D și personalizează-ți design-ul tău
 
-Dacă aveți acces la o imprimantă 3D, puteți acum să imprimați eroarea dvs. și apoi să o decorați.
+Dacă ai acces la o imprimantă 3D, îți poți imprima insecta și apoi o poți decora.
 
 --- task ---
 
-Reduceți modelul și apoi faceți clic pe **Generați STL**. Amintiți-vă unde ați salvat fișierul STL.
+Redă modelul tău și apoi dă click pe **Generate STL**. Amintește-ți unde ai salvat fișierul STL.
 
 --- /task --- --- task ---
 
-3D imprimă-ți eroarea.
+Imprimă-ți în 3D insecta.
 
-Puteți imprima folosind culoarea principală a erorii dvs. sau puteți utiliza filament clar sau alb.
+Ai putea imprima folosind culoarea principală a insectei tale, sau ai putea folosi filamente transparente sau albe.
 
 --- /task ---
 
 --- task ---
 
-Termină-ți eroarea folosind pixuri pentru marker permanent!
+Termină-ți insecta folosind markere permanente în diverse culori!
 
-Puteți colora capul și picioarele în negru sau puteți adăuga pete sau dungi în altă culoare.
+Ai putea colora capul li picioarele în negru, sau să adaugi pete sau dungi în altă culoare.
 
 Aici sunt cateva exemple:
 
