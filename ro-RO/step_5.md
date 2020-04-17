@@ -1,4 +1,4 @@
-## Creați picioare
+## Creează picioarele
 
 Acum, insecta ta are nevoie de șase picioare!
 
