@@ -10,7 +10,7 @@ Acum creează corpul insectei tale.
 
 --- task ---
 
-Începe cu o `sferă` cu o rază de `10` (unitatea de aici are milimetri):
+Începe cu o `sferă` cu o rază de `10` (unitatea de aici este milimetrul):
 
 ![captură de ecran](images/bug-body-sphere.png)
 
