@@ -28,11 +28,11 @@ title: Lo que necesitarás
 ### Hardware
 
 + Una impresora 3D y filamento del color que elijas
-+ Rotuladores permanentes de colores en una gama de colores: los colores metálicos funcionan bien
++ Rotuladores permanentes de varios colores: los colores metálicos funcionan bien
 
 ### Software
 
-+ Este proyecto se puede completar en un navegador web usando BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
++ Este proyecto se puede completar en un navegador web usando BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
@@ -42,7 +42,7 @@ title: Lo que vas a aprender
 ---
 
 + Modelado 3D con formas geométricas (esferas)
-+ Usando `scale` para estirar formas geométricas
++ El uso de `escala` para alargar formas geométricas
 
 --- /collapse ---
 
