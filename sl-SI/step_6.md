@@ -10,7 +10,7 @@ Namigi:
 
 + Posamezni deli hrošča naj ne bodo pretanki, saj se sicer lahko zlomi.
 
-+ Izogibajte se dodajanju delov, pod katerimi so vrzeli, ko jih 3D natisnemo, saj 3D tiskalniki ne morejo tiskati v zraku. (Možno je tiskati s podporami, ki držijo dele modela, vendar to otežuje tiskanje.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Možno je tiskati s podporami, ki držijo dele modela, vendar to otežuje tiskanje.)
 
 + Pomisli, kako velik bo tvoj hrošč. Če ga narediš prevelikega, bo tiskanje trajalo veliko časa in porabilo veliko nitke.
 
