@@ -18,9 +18,9 @@ Ai putea imprima folosind culoarea principală a insectei tale, sau ai putea fol
 
 Termină-ți insecta folosind markere permanente în diverse culori!
 
-Ai putea colora capul li picioarele în negru, sau să adaugi pete sau dungi în altă culoare.
+Ai putea colora capul și picioarele în negru, sau să adaugi pete sau dungi în altă culoare.
 
-Aici sunt cateva exemple:
+Aici sunt câteva exemple:
 
 ![captură de ecran](images/bug-decorated.png)
 
