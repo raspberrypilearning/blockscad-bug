@@ -10,7 +10,7 @@ Tipy:
 
 + Nenechajte žiadnu časť svojej chyby príliš štíhlu, inak sa ľahko zlomí.
 
-+ Vyhnite sa pridávaniu častí, ktoré majú medzery pod nimi, keď sú tlačené v 3D, pretože 3D tlačiarne nemôžu tlačiť vo vzduchu. (Je možné tlačiť pomocou podpier, aby zadržali časti vášho modelu, ale to komplikuje tlač.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Je možné tlačiť pomocou podpier, aby zadržali časti vášho modelu, ale to komplikuje tlač.)
 
 + Zamyslite sa nad tým, aká veľká bude vaša chyba. Ak ho urobíte príliš veľkým, bude trvať dlho, kým sa vytlačí a použije veľa vlákna.
 
