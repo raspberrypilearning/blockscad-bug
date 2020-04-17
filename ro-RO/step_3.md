@@ -1,34 +1,34 @@
-## Aplatizați baza corpului
+## Aplatizează baza corpului
 
-Acum aplatizați baza corpului pentru a vă face eroarea mai realistă. Un model cu o bază plană este, de asemenea, mai ușor de imprimat 3D!
+Acum, aplatizează baza corpului pentru a-ți face insecta mai realistă. Un model cu o bază plată este de asemenea mai ușor de imprimat 3D!
 
-Pentru a face acest lucru, puteți elimina pur și simplu un cuboid din modelul dvs. folosind `diferența`{: class = "blockcadsetops"}.
+Pentru a face acest lucru, poți pur și simplu să elimini un cuboid din model folosind blocul `difference`{:class="blockscadsetops"}.
 
 --- task ---
 
-Pentru a începe, creați un cuboid care să acopere jumătatea de jos a erorii (partea care se află sub 0 pe axa Z).
+Pentru a începe, creează un cuboid pentru a acoperi jumătatea inferioară a insectei (partea care stă sub 0 pe axa Z).
 
-Cuboidul trebuie să fie `centrat pe` și 10 mm înălțime (de-a lungul axei Z).
+Cuboidul ar trebui să fie `centrat` și cu o înălțime de 10 mm (de-a lungul axei Z).
 
-Adăugați un bloc de `traducere` pentru a muta cuboidul -5 mm de-a lungul axei Z (în jos).
+Adaugă un bloc `translate` pentru a muta cuboidul -5mm de-a lungul axei Z (jos).
 
-Pentru a face mai ușor să distingeți cuboidul și corpul erorii dvs., adăugați un bloc de `culori` pentru a face cuboida o culoare diferită.
+Pentru ca să distingi mai ușor cuboidul de corpul insecttei tale, adaugă un bloc `color` pentru a face cuboidul să aibă o culoare diferită.
 
 ![captură de ecran](images/bug-body-cuboid.png)
 
-Cuboidul este mai mare decât corpul erorii. Acest lucru înseamnă că puteți adăuga la eroare fără a fi nevoie să faceți mai târziu cuboidul.
+Cuboidul este mai mare decât corpul insectei. Asta înseamnă că poți adăuga la insectă fără a fi nevoie să faci cuboidul mai mare mai târziu.
 
 --- /task ---
 
 --- task ---
 
-Utilizați un `diferență`{: class = "blockcadsetops"} pentru a elimina cuboidul din corp.
+Folosește un bloc `difference`{:class="blockscadsetops"} pentru a elimina cuboidul din corp.
 
 ![captură de ecran](images/bug-difference.png)
 
-Acum corpul dvs. de erori are o bază plană!
+Corpul insectei are acum o bază plată!
 
-Trageți modelul în jurul vizualizatorului pentru a-l vedea din unghiuri diferite.
+Trage modelul din jurul vizualizatorului pentru a-l vedea din unghiuri diferite.
 
 --- /task ---
 
