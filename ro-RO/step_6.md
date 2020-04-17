@@ -1,18 +1,18 @@
-## Provocare: proiectați-vă propriul bug
+## Provocare: proiectează-ți propria insectă
 
 --- challenge ---
 
-Acum este timpul să vă proiectați propriul bug folosind noile cunoștințe despre BlocksCAD!
+Acum este timpul să-ți proiectezi propria insectă folosind noile tale cunoștințe de BlocksCAD!
 
 Sfaturi:
 
-+ Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare. Puteți utiliza culori în BlocksCAD pentru a proiecta aspectul dorit și apoi adăugați detalii cu pixuri cu marker permanent după imprimare.
++ Majoritatea imprimantelor 3D pot imprima doar într-o singură culoare. Poți folosi culori în BlocksCAD pentru a proiecta aspectul pe care îl dorești și apoi să adaugi detalii cu markere colorate după imprimare.
 
-+ Nu faceți nici o parte din eroarea dvs. prea subțire, sau se va rupe ușor.
++ Nu face nicio parte din insectă prea slabă, sau se va rupe ușor.
 
-+ Evitați să adăugați părți care au goluri sub ele atunci când sunt tipărite 3D, deoarece imprimantele 3D nu pot tipări în aer. (Este posibil să imprimați folosind suporturi pentru a reține părți ale modelului dvs., dar acest lucru face ca imprimarea să fie mai complicată.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Este posibil să imprimi folosind suporturi pentru a susține părți ale modelului tău, dar acest lucru face imprimarea mai complicată.)
 
-+ Gândește-te cât de mare va fi eroarea ta. Dacă îl faceți prea mare, atunci veți avea nevoie de mult timp pentru a imprima și utiliza multă filamentă.
++ Gândește-te cât de mare va fi insecta ta. Dacă o faci prea mare, atunci va dura mult timp să o printezi şi vei folosi mult filament.
 
 --- /challenge ---
 
