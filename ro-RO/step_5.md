@@ -1,12 +1,12 @@
 ## Creați picioare
 
-Acum bug-ul are nevoie de șase picioare!
+Acum, insecta ta are nevoie de șase picioare!
 
 --- task ---
 
-Mai întâi puneți o pereche de picioare în mijlocul corpului erorii.
+Mai întâi, pune o pereche de picioare în mijlocul corpului insectei.
 
-Faceți clic pe `+` în partea de sus a blocului `union` pentru a adăuga o altă secțiune. Adăugați o `sferă întinsă` pentru a crea o pereche de picioare.
+Dă click pe `+` în partea de sus a blocului `union` pentru a adăuga o altă secțiune. Adaugă o `sferă` întinsă pentru a crea o pereche de picioare.
 
 ![captură de ecran](images/bug-legs-middle-annotated.png)
 
@@ -14,39 +14,39 @@ Faceți clic pe `+` în partea de sus a blocului `union` pentru a adăuga o alt�
 
 --- task ---
 
-Dacă doriți, puteți dezactiva corpul erorii pentru a vedea cum sunt făcute picioarele.
+Dacă vrei, poți dezactiva corpul insectei pentru a vedea cum sunt făcute picioarele.
 
 ![captură de ecran](images/bug-legs-disable.png)
 
-Apoi, permiteți din nou corpului să continue să lucreze la eroarea dvs.
+Apoi, activează din nou corpul pentru a continua să lucrezi la insectă.
 
 --- /task ---
 
 --- task ---
 
-Acum adaugă o altă pereche de picioare.
+Acum, adaugă o altă pereche de picioare.
 
-Adăugați o altă `scalate` `sferă` cu aceleași setări. Apoi `rotiți-l` cu `30` degresați de-a lungul axei Z, astfel încât picioarele să se lipească în unghi.
+Adaugă încă o `sferă` de tip `scaled` cu aceleași setări. Apoi, `rotește-o` cu `30` grade de-a lungul axei Z, astfel încât picioarele să rămână la un unghi.
 
 ![captură de ecran](images/bug-legs-2-annotated.png)
 
-Acum bug-ul tău are două picioare de mijloc și câte un picior din față și cel din spate fiecare!
+Acum, insecta ta are două picioare în mijloc și câte un picior în față și în spate!
 
 --- /task ---
 
 --- task ---
 
-Puteți adăuga o a treia pereche de picioare, astfel încât eroarea să aibă trei seturi complete de perechi de picioare?
+Poți adăuga o a treia pereche de picioare astfel încât insecta ta să aibă trei seturi complete de perechi de picioare?
 
-Eroarea dvs. trebuie să arate astfel:
+Insecta ta trebuie să arate astfel:
 
 ![captură de ecran](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-Trebuie să adăugați un al treilea `scalate` `sferă`.
+Trebuie să adaugi o a treia `sferă` de tip `scaled`.
 
-`Rotire`{: class = "blockscadtransforms"} l în direcția opusă celei de a doua `sfera`. Există 360 de grade într-un cerc.
+`Rotește-o`{:class="blockscadtransforms"} în direcția opusă celei de-a doua `sfere`. Există 360 de grade într-un cerc.
 
 Iată care sunt blocurile de care ai nevoie:
 
@@ -56,7 +56,7 @@ Iată care sunt blocurile de care ai nevoie:
 
 --- hint ---
 
-Iată codul de care aveți nevoie:
+Iată codul de care ai nevoie:
 
 ![captură de ecran](images/bug-legs-3-annotated.png)
 
