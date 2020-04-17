@@ -10,7 +10,7 @@ Tips:
 
 + Maak geen onderdeel van je kever te dun, anders zal het gemakkelijk breken.
 
-+ Voeg geen delen toe met gaten eronder wanneer ze in 3D worden geprint, omdat 3D-printers niet in de lucht kunnen printen. (Het is mogelijk om met behulp van support te printen om zo delen van je model te ondersteunen, maar dit maakt het printen ingewikkelder.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Het is mogelijk om met behulp van support te printen om zo delen van je model te ondersteunen, maar dit maakt het printen ingewikkelder.)
 
 + Bedenk hoe groot jouw kever zal zijn. Als je het te groot maakt, duurt het lang om te printen en zal het veel filament gebruiken.
 
