@@ -4,9 +4,9 @@ Ara crea un cap per a la cuca.
 
 --- task ---
 
-Afegeix una petita `esfera` perquè sigui el cap de la cuca. Ara mateix no es pot veure aquesta nova esfera, perquè està amagada dins del cos.
+Afegeix una petita `sphere` (esfera) perquè sigui el cap de la cuca. Ara mateix no es pot veure aquesta nova esfera, perquè està amagada dins del cos.
 
-També afegeix un bloc `scale` a la nova `esfera` per donar forma al cap.
+També afegeix un bloc `scale` (escala) a la nova `sphere` (esfera) per donar forma al cap.
 
 A continuació, afegeix un bloc `union`{:class="blockscadsetops"} per combinar el cap amb el cos.
 
@@ -14,7 +14,7 @@ A continuació, afegeix un bloc `union`{:class="blockscadsetops"} per combinar e
 
 --- /task --- --- task ---
 
-Si vols veure la nova `esfera`, a continuació, desactiva temporalment el cos fent clic dret al bloc `scale`{:class="blockscadtransforms"} i escollint **Disable block**. Aleshores, aquest bloc i els que hi ha al seu interior es veuen grisos i el cos no apareix quan fas clic a **Render**.
+Si vols veure la nova `sphere`, a continuació, desactiva temporalment el cos fent clic dret al bloc `scale`{:class="blockscadtransforms"} i escollint **Disable block**. Aleshores, aquest bloc i els que hi ha al seu interior es veuen grisos i el cos no apareix quan fas clic a **Render**.
 
 ![captura de pantalla](images/bug-disable.png)
 
