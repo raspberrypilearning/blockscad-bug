@@ -10,7 +10,7 @@ Savjet:
 
 + Ne čini ni jedan dio bube previše tankim ili će se lako slomiti.
 
-+ Izbjegavajte dodavanje dijelova koji imaju praznine ispod njih kada su 3D ispisani jer 3D pisači ne mogu ispisivati u zraku. (Moguće je ispisati pomoću nosača za držanje dijelova vašeg modela, ali to čini ispis složenijim.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Moguće je ispisati pomoću nosača za držanje dijelova vašeg modela, ali to čini ispis složenijim.)
 
 + Razmislite koliko će vam velika biti buba Ako ga napravite previše, tada će trebati puno vremena za ispis i uporabu puno niti.
 
