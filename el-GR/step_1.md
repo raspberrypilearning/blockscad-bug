@@ -53,6 +53,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/blockscad-bug/print)"{:target="_blank"}.
 
-Ο τελικός κώδικας τους έργου είναι διαθέσιμος προς λήψη από την διεύθυνση [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Ο τελικός κώδικας του έργου είναι διαθέσιμος για λήψη από τη διεύθυνση [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
