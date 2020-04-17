@@ -10,7 +10,7 @@
 
 + 不要让您的bug的任何部分变得太细，否则它很容易损坏。
 
-+ 在进行3D打印时，避免添加在其下面有空隙的零件，因为3D打印机无法在空中打印。 （可以使用支撑件来支撑模型的某些部分进行打印，但这会使打印更加复杂。）
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. （可以使用支撑件来支撑模型的某些部分进行打印，但这会使打印更加复杂。）
 
 + 考虑一下您的错误有多大。 如果将其设置得太大，则打印和使用大量的灯丝将花费很长时间。
 
