@@ -10,7 +10,7 @@
 
 + Hatanın herhangi bir parçasını çok ince yapmayın, aksi takdirde kolayca kırılır.
 
-+ 3B yazıcılar havada yazdırılamadığından, 3B yazdırıldıklarında altlarında boşluklar olan parçalar eklemekten kaçının. (Modelinizin bir kısmını tutmak için destekleri kullanarak yazdırmak mümkündür, ancak bu yazdırmayı daha karmaşık hale getirir.)
++ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (Modelinizin bir kısmını tutmak için destekleri kullanarak yazdırmak mümkündür, ancak bu yazdırmayı daha karmaşık hale getirir.)
 
 + Hatanızın ne kadar büyük olacağını düşünün. Çok büyük yaparsanız, çok fazla filament yazdırmak ve kullanmak uzun zaman alacaktır.
 
