@@ -8,7 +8,7 @@ Per fer-ho, simplement pots eliminar un cuboide del teu model mitjançant el blo
 
 Per començar, crea un cuboide per cobrir la meitat inferior de la cuca (la part que se situa per sota de 0 a l’eix Z).
 
-El cuboide hauria d’estar `centrat` i tenir 10 mm d’alçada (al llarg de l’eix Z).
+El cuboide hauria d’estar `centered` (centrat) i tenir 10 mm d’alçada (al llarg de l’eix Z).
 
 Afegeix un bloc `translate` per moure el cuboide -5mm per l’eix Z (cap avall).
 
