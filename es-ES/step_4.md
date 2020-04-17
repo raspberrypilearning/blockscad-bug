@@ -4,9 +4,9 @@ Ahora crea una cabeza para el insecto.
 
 --- task ---
 
-Añade una `esfera` más pequeña para que sea la cabeza del insecto. En este momento no puedes ver esta nueva esfera, porque está oculta dentro del cuerpo.
+Añade una `esfera` más pequeña para que sea la cabeza del insecto. Ahora no puedes ver esta nueva esfera, porque está oculta dentro del cuerpo.
 
-Añade también un bloque `scale` a la nueva `esfera` para dar forma a la cabeza.
+Añade también un bloque `escala` a la nueva `esfera` para dar forma a la cabeza.
 
 Luego añade un bloque `union`{:class="blockscadsetops"} para unir la cabeza y el cuerpo.
 
@@ -14,15 +14,15 @@ Luego añade un bloque `union`{:class="blockscadsetops"} para unir la cabeza y e
 
 --- /task --- --- task ---
 
-Si deseas ver la nueva `esfera`, deshabilita temporalmente el cuerpo haciendo clic con el botón derecho en su bloque `scale`{:class="blockscadtransforms"} y eligiendo **Disable block** (Deshabilitar bloque). Así este bloque y los que están dentro de él aparecerán en gris, y el cuerpo no se verá cuando haces clic en **Render**.
+Si deseas ver la nueva `esfera`, deshabilita temporalmente el cuerpo haciendo clic con el botón derecho en su bloque `escala`{:class="blockscadtransforms"} y selecciona **Desactivar bloque**. Así este bloque y los que están dentro de él aparecerán en gris, y el cuerpo no se verá cuando haces clic en **Hacer**.
 
 ![captura de pantalla](images/bug-disable.png)
 
-Haz clic derecho en el bloque nuevamente y elige **Enable block** (habilitar bloque) para habilitar el cuerpo.
+Haz clic derecho en el bloque nuevamente y selecciona **Activar bloque** para habilitar el cuerpo.
 
 --- /task --- --- task ---
 
-`Translate` (traslada) la cabeza a lo largo del eje Y para que sobresalga del cuerpo.
+`Traslada` la cabeza a lo largo del eje Y para que sobresalga del cuerpo.
 
   ![captura de pantalla](images/bug-head.png)
 
