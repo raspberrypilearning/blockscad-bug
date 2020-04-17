@@ -1,12 +1,12 @@
-## Create legs
+## Crea las patas
 
-Now the bug needs six legs!
+¡Ahora el insecto necesita seis patas!
 
 --- task ---
 
-First put a pair of legs in the middle of the bug's body.
+Primero pon un par de patas en el medio del cuerpo del insecto.
 
-Click the `+` at the top of the `union` block to add another section. Add a stretched `sphere` to create a pair of legs.
+Haz clic en `+` en la parte superior del bloque `union` para añadir otra sección. Añade una `esfera` alargada para crear un par de patas.
 
 ![captura de pantalla](images/bug-legs-middle-annotated.png)
 
@@ -14,41 +14,41 @@ Click the `+` at the top of the `union` block to add another section. Add a stre
 
 --- task ---
 
-If you like, you can disable the body of the bug to see how the legs are made.
+Si lo deseas, puedes desactivar el cuerpo del insecto para ver cómo se hacen las patas.
 
 ![captura de pantalla](images/bug-legs-disable.png)
 
-Then enable the body again to continue working on your bug.
+Luego habilita el cuerpo nuevamente para continuar trabajando en tu insecto.
 
 --- /task ---
 
 --- task ---
 
-Now add another pair of legs.
+Ahora añade otro par de patas.
 
-Add another `scaled` `sphere` with the same settings. Then `rotate` it by `30` degress along the Z axis so the legs stick out at an angle.
+Añade otro bloque `escala` y `esfera` con la misma configuración. Luego `gíralo` `30` grados a lo largo del eje Z para que las patas sobresalgan en ángulo.
 
 ![captura de pantalla](images/bug-legs-2-annotated.png)
 
-Now your bug has two middle legs and one front leg and back leg each!
+¡Ahora tu insecto tiene dos patas centrales y una sola pata delantera y otra trasera!
 
 --- /task ---
 
 --- task ---
 
-Can you add a third pair of legs so that the bug has three complete sets of leg pairs?
+¿Puedes agregar un tercer par de patas para que el insecto tenga tres juegos completos de pares de patas?
 
-Your bug needs to look like this:
+Tu insecto debe verse así:
 
 ![captura de pantalla](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-You need to add a third `scaled` `sphere`.
+Necesitas añadir un tercer bloque `escala` y `esfera`.
 
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
+`Gíralo`{:class="blockscadtransforms"} en la dirección opuesta a la segunda `esfera`. Hay 360 grados en un círculo.
 
-Here are the blocks you need:
+Aquí están los bloques que necesitas:
 
 ![captura de pantalla](images/bug-legs-blocks.png)
 
@@ -56,7 +56,7 @@ Here are the blocks you need:
 
 --- hint ---
 
-Here's the code you need:
+Aquí está el código que necesitas:
 
 ![captura de pantalla](images/bug-legs-3-annotated.png)
 
