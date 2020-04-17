@@ -26,7 +26,7 @@ Luego habilita el cuerpo nuevamente para continuar trabajando en tu insecto.
 
 Ahora añade otro par de patas.
 
-Añade otro bloque `scaled` `sphere` con la misma configuración. Luego `gíralo` `30` grados a lo largo del eje Z para que las patas sobresalgan en ángulo.
+Añade otro bloque `escala` y `esfera` con la misma configuración. Luego `gíralo` `30` grados a lo largo del eje Z para que las patas sobresalgan en ángulo.
 
 ![captura de pantalla](images/bug-legs-2-annotated.png)
 
@@ -44,7 +44,7 @@ Tu insecto debe verse así:
 
 --- hints --- --- hint ---
 
-Necesitas agregar un tercer bloque `scaled` `sphere`.
+Necesitas añadir un tercer bloque `escala` y `esfera`.
 
 `Gíralo`{:class="blockscadtransforms"} en la dirección opuesta a la segunda `esfera`. Hay 360 grados en un círculo.
 
