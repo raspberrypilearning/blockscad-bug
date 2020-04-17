@@ -26,7 +26,7 @@ Apoi, activează din nou corpul pentru a continua să lucrezi la insectă.
 
 Acum, adaugă o altă pereche de picioare.
 
-Adaugă încă o `sferă` de tip `scaled` cu aceleași setări. Apoi, `rotește-o` cu `30` grade de-a lungul axei Z, astfel încât picioarele să rămână la un unghi.
+Adaugă încă o `sferă` de tip `scaled` cu aceleași setări. Apoi, `rotește-o` cu `30` de grade de-a lungul axei Z, astfel încât picioarele să rămână la un unghi.
 
 ![captură de ecran](images/bug-legs-2-annotated.png)
 
