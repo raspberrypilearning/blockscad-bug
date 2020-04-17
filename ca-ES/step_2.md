@@ -10,11 +10,11 @@ Ara crea el cos de la teva cuca.
 
 --- task ---
 
-Comença amb un bloc `sphere (esfera)` de radi `10` (la unitat aquí és en mil·límetres):
+Comença amb un bloc `sphere` (esfera) de radi `10` (la unitat aquí és en mil·límetres):
 
 ![captura de pantalla](images/bug-body-sphere.png)
 
-Fes clic al botó **Render (Fer)** per veure el resultat.
+Fes clic al botó **Render** (Fer) per veure el resultat.
 
 Consell: pots canviar el color del model generat fent clic al quadrat de colors.
 
