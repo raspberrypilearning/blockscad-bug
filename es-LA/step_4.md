@@ -1,10 +1,10 @@
-## Añade una cabeza a tu insecto
+## Añade la cabeza a tu insecto
 
 Ahora crea una cabeza para el insecto.
 
 --- task ---
 
-Añade una `esfera` más pequeña para que sea la cabeza del insecto. Ahora no puedes ver esta nueva esfera, porque está oculta dentro del cuerpo.
+Añade una `esfera` más pequeña para que sea la cabeza del insecto. En este momento no puedes ver esta nueva esfera, porque está oculta dentro del cuerpo.
 
 Añade también un bloque `escala` a la nueva `esfera` para dar forma a la cabeza.
 
