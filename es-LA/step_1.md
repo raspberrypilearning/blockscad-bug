@@ -6,7 +6,7 @@ Si tienes acceso a una impresora 3D, podrás imprimir el insecto que diseñes. U
 
 También podrás usar las habilidades que has aprendido para diseñar tu propio insecto u otro animal usando formas geométricas.
 
-The bugs make great rewards for debugging!
+¡Los insectos son una gran recompensa por depurar código!
 
 ### Lo que harás
 
@@ -18,19 +18,19 @@ Si tienes acceso a una impresora 3D, podrás imprimir tu insecto y luego decorar
 
 ![Proyecto completo](images/bug-showcase.png)
 
-La mayoría de las impresoras 3D solo pueden imprimir en un color, por lo que puedes agregar detalles utilizando rotuladores permanentes para que tu insecto se vea aún mejor.
+La mayoría de las impresoras 3D solo pueden imprimir en un color, por lo que puedes agregar detalles utilizando marcadores permanentes para que tu insecto se vea aún mejor.
 
 --- collapse ---
 ---
 title: Lo que necesitarás
 ---
 
-### Hardware
+### Equipo
 
 + Una impresora 3D y filamento del color de tu preferencia
 + Marcadores permanentes de varios colores: los colores metálicos funcionan bien
 
-### Software
+### Programa
 
 + Este proyecto se puede completar en un navegador web usando BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
