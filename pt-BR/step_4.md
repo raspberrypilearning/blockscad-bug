@@ -18,11 +18,11 @@ Se você quiser ver a sua nova `esfera` desative temporariamente o corpo clicand
 
 ![screenshot](images/bug-disable.png)
 
-Clique com o botão direito do mouse no bloco novamente e escolha **Ativar bloco** para ativar o corpo.
+Clique com o botão direito do mouse no bloco novamente e escolha **Enable Block** para ativar o corpo novamente.
 
 --- /task --- --- task ---
 
-`Traduza` a cabeça ao longo do eixo Y, para que fique fora do corpo.
+Use o bloco `Translate` ao longo do eixo Y para que a cabeça fique fora do corpo.
 
   ![screenshot](images/bug-head.png)
 
@@ -32,11 +32,11 @@ Se você quiser ver claramente as diferentes formas, altere a cor da cabeça.
 
 ![screenshot](images/bug-head-black.png)
 
-Você também pode experimentar diferentes combinações de cores para decorar seu bug impresso com marcadores permanentes.
+Você também pode experimentar diferentes combinações de cores para decorar seu inseto após a impressão com marcadores permanentes.
 
 --- /task --- --- task ---
 
-Você pode mudar a cor do corpo do seu modelo de bug? Você pode alterá-lo para a cor do filamento com o qual deseja imprimir ou para a cor do marcador permanente com o qual deseja colorir.
+Você pode mudar a cor do corpo do seu inseto? Você pode alterá-lo para a cor do filamento com o qual deseja imprimir ou para a cor do marcador permanente com o qual deseja colorir.
 
 --- hints --- --- hint ---
 
@@ -48,7 +48,7 @@ Este é o bloco que você precisa.
 
 --- hint ---
 
-Aqui está um exemplo com um corpo verde:
+Aqui está um exemplo com o corpo verde:
 
 ![screenshot](images/bug-body-colour.png)
 
