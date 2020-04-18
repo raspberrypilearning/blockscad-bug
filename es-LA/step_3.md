@@ -1,6 +1,6 @@
 ## Aplana la base del cuerpo
 
-Ahora aplana la base del cuerpo para hacer que tu insecto sea más realista. ¡Un modelo con una base plana también es más fácil de imprimir en 3D!
+Ahora aplana la base del cuerpo para hacer que tu insecto sea vea más realista. ¡Un modelo con una base plana también es más fácil de imprimir en 3D!
 
 Para hacer esto, simplemente puedes eliminar un cuboide de tu modelo utilizando el bloque `diferencia`{:class="blockscadsetops"}.
 
