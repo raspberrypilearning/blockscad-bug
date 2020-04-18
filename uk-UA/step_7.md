@@ -22,7 +22,7 @@
 
 Ось кілька прикладів:
 
-![знімок екрану](images/bug-decorated.png)
+![знімок екрана](images/bug-decorated.png)
 
 --- /task ---
 
