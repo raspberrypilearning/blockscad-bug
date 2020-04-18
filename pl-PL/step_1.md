@@ -18,7 +18,7 @@ Jeśli masz dostęp do drukarki 3D, możesz wydrukować zaprojektowanego żuczka
 
 ![Skończony projekt](images/bug-showcase.png)
 
-Większość drukarek 3D może drukować tylko w jednym kolorze, dzięki czemu możesz dodawać szczegóły za pomocą trwałych markerów, aby Twój żuczek wyglądał jeszcze lepiej.
+Większość drukarek 3D może drukować tylko w jednym kolorze, dzięki czemu możesz dodawać szczegóły za pomocą markerów permanentnych, aby Twój żuczek wyglądał jeszcze lepiej.
 
 --- collapse ---
 ---
