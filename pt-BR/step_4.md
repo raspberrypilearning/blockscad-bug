@@ -1,20 +1,20 @@
 ## Adicione uma cabeça ao seu inseto
 
-Agora crie uma cabeça para o bug.
+Agora crie uma cabeça para o inseto.
 
 --- task ---
 
-Adicione uma esfera `menor` como a cabeça do bug. No momento, você não pode ver esta nova esfera, porque está escondida dentro do corpo.
+Adicione uma esfera menor com o bloco `sphere` como a cabeça do inseto. No momento, você não consegue ver esta nova esfera, porque está escondida dentro do corpo.
 
-Além disso, adicione um `escala` bloco para o novo `esfera` a moldar a cabeça.
+Além disso, adicione um bloco `scale` ao bloco `sphere` para moldar a cabeça.
 
-Em seguida, adicione um bloco `union`{: class = "blockscadsetops"} para combinar a cabeça e o corpo.
+Em seguida, adicione um bloco `union`{:class="blockscadsetops"} para juntar a cabeça ao corpo.
 
 ![screenshot](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-Se você quiser ver o novo `esfera`, em seguida, desativar temporariamente o corpo clicando com o botão direito no seu `escala`{: class = "blockscadtransforms"} bloco e escolhendo **Disable bloco**. Em seguida, esse bloco e os que estão dentro dele ficam acinzentados e o corpo não aparece quando você clica em **Render**.
+Se você quiser ver a sua nova `esfera` desative temporariamente o corpo clicando com o botão direito no bloco `scale`{:class="blockscadtransforms"} e selecione **Disable Block**. Em seguida, esse bloco e os que estão dentro dele ficam acinzentados e o corpo não irá aparecer quando você clicar em **Render**.
 
 ![screenshot](images/bug-disable.png)
 
