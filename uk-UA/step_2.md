@@ -2,7 +2,7 @@
 
 --- task ---
 
-Відкрийте редактор BlocksCAD у веб-браузері [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
+Відкрий редактор BlocksCAD у веббраузері [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
 
 --- /task ---
 
