@@ -1,12 +1,12 @@
 ## Criar pernas
 
-Agora o bug precisa de seis pernas!
+Agora o inseto precisa de seis pernas!
 
 --- task ---
 
 Primeiro, coloque um par de pernas no meio do corpo do inseto.
 
-Clique no `+` na parte superior do bloco `union` para adicionar outra seção. Adicione uma esfera `esticada` para criar um par de pernas.
+Clique no `+` na parte superior do bloco `union` para adicionar outra seção. Adicione uma `esfera(sphere)` esticada para criar um par de pernas.
 
 ![screenshot](images/bug-legs-middle-annotated.png)
 
@@ -14,11 +14,11 @@ Clique no `+` na parte superior do bloco `union` para adicionar outra seção. A
 
 --- task ---
 
-Se quiser, você pode desativar o corpo do bug para ver como as pernas são feitas.
+Se quiser, você pode desativar o corpo do inseto para ver como as pernas são feitas.
 
 ![screenshot](images/bug-legs-disable.png)
 
-Em seguida, habilite o corpo novamente para continuar trabalhando no seu bug.
+Em seguida, habilite o corpo novamente para continuar trabalhando no seu inseto.
 
 --- /task ---
 
@@ -26,7 +26,7 @@ Em seguida, habilite o corpo novamente para continuar trabalhando no seu bug.
 
 Agora adicione outro par de pernas.
 
-Adicionar outro `escalado` `esfera` com as mesmas configurações. Em seguida, `gire` por `30` degrada ao longo do eixo Z, para que as pernas fiquem inclinadas.
+Adicione outro conjunto de blocos `scale` e `sphere` com as mesmas configurações. Em seguida, `gire` por `30` degrada ao longo do eixo Z, para que as pernas fiquem inclinadas.
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
