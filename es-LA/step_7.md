@@ -8,7 +8,7 @@ Haz clic en Hacer para acabar tu modelo y luego haz clic en **Generar STL**. Rec
 
 --- /task --- --- task ---
 
-Imprime en 3D tu insecto.
+Imprime tu insecto en 3D.
 
 Puedes imprimir usando el color principal de tu insecto, o puedes usar filamento claro o blanco.
 
