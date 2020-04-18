@@ -30,23 +30,23 @@ Adicione outro conjunto de blocos `scale` e `sphere` com as mesmas configuraçõ
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
-Agora, o seu bug tem duas pernas do meio e uma da frente e de trás cada uma!
+Agora, o seu inseto tem o par de patas intermediárias uma pata dianteira de um lado e uma pata traseira do outro lado!
 
 --- /task ---
 
 --- task ---
 
-Você pode adicionar um terceiro par de pernas para que o bug tenha três conjuntos completos de pares de pernas?
+Você pode adicionar um terceiro par de patas para que o inseto tenha três patas de cada lado?
 
-Seu bug precisa ter a seguinte aparência:
+Seu inseto precisa ter a seguinte aparência:
 
 ![screenshot](images/bug-finished.png)
 
 --- hints --- --- hint ---
 
-Você precisa adicionar um terceiro `escalado` `esfera`.
+Você precisa adicionar um terceiro conjunto de blocos `scale` e `sphere`.
 
-`Gire`{: class = "blockscadtransforms"} na direção oposta à segunda `esfera`. Existem 360 graus em um círculo.
+Use o bloco `rotate`{:class="blockscadtransforms"} na direção oposta à segunda `esfera(sphere)`. Existem 360 graus em um círculo.
 
 Aqui estão os blocos que você precisa:
 
