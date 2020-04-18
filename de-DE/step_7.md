@@ -6,9 +6,9 @@ Wenn du Zugriff auf einen 3D-Drucker hast, kannst du deinen Käfer jetzt drucken
 
 Rendere dein Modell und klicke dann auf **Generieren STL**. Merke dir, wo du die STL-Datei speicherst.
 
---- /task --- --- task ---
+--- / task --- --- task ---
 
-3D drucke deinen Käfer.
+Drucke deinen Käfer in 3D.
 
 Du könntest mit der Hauptfarbe deines Käfers oder mit klarem oder weißem Filament drucken.
 
