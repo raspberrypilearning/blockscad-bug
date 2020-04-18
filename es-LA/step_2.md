@@ -1,4 +1,4 @@
-## Dale cuerpo a tu insecto
+## Dale un cuerpo a tu insecto
 
 --- task ---
 
