@@ -6,7 +6,7 @@
 
 Primero pon un par de patas en el medio del cuerpo del insecto.
 
-Haz clic en `+` en la parte superior del bloque `union` para añadir otra sección. Añade una `esfera` alargada para crear un par de patas.
+Haz clic en `+` en la parte superior del bloque `unión` para añadir otra sección. Añade una `esfera` alargada para crear un par de patas.
 
 ![captura de pantalla](images/bug-legs-middle-annotated.png)
 
@@ -36,7 +36,7 @@ Añade otro bloque `escala` y `esfera` con la misma configuración. Luego `gíra
 
 --- task ---
 
-¿Puedes agregar un tercer par de patas para que el insecto tenga tres juegos completos de pares de patas?
+¿Puedes agregar un tercer par de patas para que el insecto tenga tres juegos de pares de patas?
 
 Tu insecto debe verse así:
 
