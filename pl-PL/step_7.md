@@ -1,4 +1,4 @@
-## Wydrukuj 3D i udekoruj swój model
+## Wydrukuj w 3D i udekoruj swój model
 
 Jeśli masz dostęp do drukarki 3D, możesz wydrukować zaprojektowanego żuczka i udekorować go.
 
