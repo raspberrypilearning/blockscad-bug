@@ -12,7 +12,7 @@ Consejos:
 
 + Evita añadir partes que tengan espacios debajo de ellas cuando se imprimen en 3D porque las impresoras 3D no pueden imprimir en el aire. (Es posible imprimir usando soportes para sostener partes de tu modelo, pero esto hace que la impresión sea más complicada)
 
-+ Piensa qué tan grande quieres que sea tu insecto. Si lo haces demasiado grande, llevará mucho tiempo de impresión y usará mucho filamento.
++ Piensa qué tan grande quieres que sea tu insecto. Si lo haces demasiado grande, tardará mucho tiempo en imprimir y usará mucho filamento.
 
 --- /challenge ---
 
