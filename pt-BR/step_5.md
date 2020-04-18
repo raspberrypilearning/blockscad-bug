@@ -1,12 +1,12 @@
-## Criar pernas
+## Criar patas
 
-Agora o inseto precisa de seis pernas!
+Agora o inseto precisa de seis patas!
 
 --- task ---
 
 Primeiro, coloque um par de pernas no meio do corpo do inseto.
 
-Clique no `+` na parte superior do bloco `union` para adicionar outra seção. Adicione uma `esfera(sphere)` esticada para criar um par de pernas.
+Clique no `+` na parte superior do bloco `union` para adicionar outra seção. Adicione uma `esfera(sphere)` esticada para criar um par de patas.
 
 ![screenshot](images/bug-legs-middle-annotated.png)
 
@@ -24,9 +24,9 @@ Em seguida, habilite o corpo novamente para continuar trabalhando no seu inseto.
 
 --- task ---
 
-Agora adicione outro par de pernas.
+Agora adicione outro par de patas.
 
-Adicione outro conjunto de blocos `scale` e `sphere` com as mesmas configurações. Em seguida, `gire` por `30` degrada ao longo do eixo Z, para que as pernas fiquem inclinadas.
+Adicione outro conjunto de blocos `scale` e `sphere` com as mesmas configurações. Em seguida, adicione o bloco `rotate` com `30º` no eixo Z, para que as patas fiquem atrás das patas dianteiras.
 
 ![screenshot](images/bug-legs-2-annotated.png)
 
