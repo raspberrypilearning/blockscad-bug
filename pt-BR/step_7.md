@@ -18,11 +18,11 @@ Você pode imprimir usando a cor principal do seu inseto ou usar um filamento cl
 
 Finalize o seu inseto usando canetas permanentes!
 
-Você pode colorir a cabeça e as pernas de preto, adicionar pontos ou listras em outra cor.
+Você pode colorir a cabeça e as patas de preto, adicionar pontos ou listras em outra cor.
 
 Aqui estão alguns exemplos:
 
-![screenshot](images/bug-decorated.png)
+![captura de tela](images/bug-decorated.png)
 
 --- /task ---
 
