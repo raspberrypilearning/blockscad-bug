@@ -14,9 +14,9 @@
 
 ![لقطة للشاشة](images/bug-complete.png)
 
-إذا كان لديك طابعة ثلاثية الأبعاد، فيمكنك طباعة الدعسوقة الخاص بك ثم يمكنك تزيينها.
+إذا كان لديك طابعة ثلاثية الأبعاد، فيمكنك طباعة الدعسوقة الخاصة بك ثم يمكنك تزيينها.
 
-![المشروع كامل](images/bug-showcase.png)
+![المشروع الكامل](images/bug-showcase.png)
 
 يمكن لمعظم الطابعات ثلاثية الأبعاد الطباعة بواسطة لون واحد فقط، لذا يمكنك إضافة التفاصيل باستخدام الأقلام الدائمة لجعل الدعسوقة تبدو بشكلٍ أفضل.
 
@@ -51,8 +51,8 @@ title: ما الذي سوف تتعلمه
 title: معلومات إضافية للمعلمين
 ---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء أستخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-قم بتنزيل الكود البرمجي للمشروع النهائي على [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+قم بتنزيل الكود البرمجي للمشروع النهائي من [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
