@@ -10,7 +10,7 @@ Consells:
 
 + No facis que cap part de la teva cuca sigui massa prima, ja que es trencarà fàcilment.
 
-+ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. (És possible imprimir mitjançant suports per aguantar parts del model, però això fa que la impressió sigui més complicada.)
++ Evita afegir parts que tinguin forats per sota d'elles quan s'imprimeixin en 3D, perquè les impressores 3D no poden imprimir al mig de l'aire. (És possible imprimir mitjançant suports per aguantar parts del model, però això fa que la impressió sigui més complicada.)
 
 + Pensa en com de gran serà la teva cuca. Si la fas massa gran, trigaràs molt de temps a imprimir-la i empraràs molt de filament.
 
