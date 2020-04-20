@@ -1,0 +1,16 @@
+---
+title: 3D-жук
+hero_image: images/banner.png
+description: Спроєктуй за допомогою BlocksCAD жука для друку на 3D-принтері
+version: 1
+listed: true
+copyedit: true
+last_tested: "2019-03-21"
+steps:
+  - title: Вступ
+  - title: Створи тіло для свого жука
+  - title: Зроби плоску основу тіла
+  - title: Додай голову до свого жука
+  - title: Створи ніжки
+  - title: Спроєктуй власного жука
+  - title: Роздрукуй на 3D-принтері та прикрась свій витвір

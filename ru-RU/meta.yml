@@ -1,0 +1,16 @@
+---
+title: 3D жук
+hero_image: images/banner.png
+description: Создаем жука в BlocksCAD с возможностью его 3D-печати
+version: 1
+listed: true
+copyedit: true
+last_tested: "2019-03-21"
+steps:
+  - title: Введение
+  - title: Создай тело для своего жука
+  - title: Сделаем основание тела более плоским
+  - title: Добавь голову к своему жуку
+  - title: Создаем ноги
+  - title: Cоздай своего собственного жука
+  - title: Печатаем в 3D и украшаем внешний вид
