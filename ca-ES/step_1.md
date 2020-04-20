@@ -22,7 +22,7 @@ La majoria d’impressores 3D només poden imprimir en un sol color, de manera q
 
 --- collapse ---
 ---
-title: què necessitaràs
+title: Què necessitaràs
 ---
 
 ### Maquinari
