@@ -16,7 +16,7 @@ Je kunt printen met de hoofdkleur van je kever of je kunt helder of wit filament
 
 --- task ---
 
-Maak je kever af met permanent stiften!
+Maak je kever af met permanente stiften!
 
 Je kunt het hoofd en de benen zwart kleuren of vlekken of strepen in een andere kleur toevoegen.
 
