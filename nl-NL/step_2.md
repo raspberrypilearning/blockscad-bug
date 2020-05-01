@@ -20,9 +20,9 @@ Tip: je kunt de kleur van het gerendeerde model wijzigen door op het gekleurde v
 
 --- /task --- --- task ---
 
-Rek nu de bol langs zijn Y-as om een langwerpig lichaam voor de kever te creëren.
+Rek nu de bol uit langs zijn Y-as om een langwerpig lichaam voor de kever te creëren.
 
-Met het blok `scale `{:class="blockscadtransforms"} kun je objecten uitrekken of platdrukken langs de X-, Y- en Z-assen. Stel de Y-waarde in op `1.2` om de bol langs de Y-as uit te rekken.
+Met het blok `scale (schaal)`{:class="blockscadtransforms"} kun je objecten uitrekken of platdrukken langs de X-, Y- en Z-assen. Stel de Y-waarde in op `1.2` om de bol langs de Y-as uit te rekken.
 
 ![schermafbeelding](images/bug-body-y.png)
 
