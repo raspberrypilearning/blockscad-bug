@@ -51,7 +51,7 @@ title: Wat ga je leren
 title: Aanvullende informatie voor docenten
 ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {:target="_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
 Download de voltooide projectcode op [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
