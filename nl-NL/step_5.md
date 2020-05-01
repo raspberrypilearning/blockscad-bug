@@ -1,4 +1,4 @@
-## Maak benen
+## Maak poten
 
 Nu heeft de kever zes poten nodig!
 
@@ -14,7 +14,7 @@ Klik op de `+` bovenaan het blok `union` om nog een sectie toe te voegen. Voeg e
 
 --- task ---
 
-Als je wilt, kun je de body van de kever uitschakelen om te zien hoe de benen zijn gemaakt.
+Als je wilt, kun je het lichaam van de kever uitschakelen om te zien hoe de benen zijn gemaakt.
 
 ![schermafbeelding](images/bug-legs-disable.png)
 
@@ -26,11 +26,11 @@ Schakel het lichaam vervolgens opnieuw in om aan je kever te blijven werken.
 
 Voeg nu nog een paar poten toe.
 
-Voeg nog een `scale` `bol` met dezelfde instellingen toe. Draai vervolgens met `rotate` de benen `30` graden omlaag langs de Z-as zodat deze schuin uitsteken.
+Voeg nog een `scale` `sphere` met dezelfde instellingen toe. Draai vervolgens met `rotate (roteer)` de poten `30` graden omlaag langs de Z-as zodat deze schuin uitsteken.
 
 ![schermafbeelding](images/bug-legs-2-annotated.png)
 
-Nu heeft je insect twee middelste benen en een voor- en achterbeen!
+Nu heeft je insect twee middelste poten en een voor- en achterpoot!
 
 --- /task ---
 
