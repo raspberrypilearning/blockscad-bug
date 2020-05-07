@@ -1,22 +1,22 @@
 ## 3D baskı ve tasarımınızı süsleyin
 
-Bir 3D yazıcıya erişiminiz varsa, şimdi hatanızı yazdırabilir ve daha sonra dekore edebilirsiniz.
+Bir 3D yazıcıya erişiminiz varsa, şimdi hatanızı yazdırabilir ve daha sonra süsleyebilirsiniz.
 
 --- task ---
 
-Modelinizi oluşturun ve ardından **STL**Oluştur'u tıklayın. STL dosyasını nereye kaydettiğinizi unutmayın.
+Modelinizi oluşturun ve ardından **Generate STL**'i tıklayın. STL dosyasını nereye kaydettiğinizi unutmayın.
 
 --- /task --- --- task ---
 
-3D hata yazdırın.
+3D böceğinizi yazdırın.
 
-Böceğinizin ana rengini kullanarak yazdırabilirsiniz veya açık veya beyaz filament kullanabilirsiniz.
+Böceğinizin ana rengini kullanarak yazdırabileceğiniz gibi şeffaf veya beyaz filament de kullanabilirsiniz.
 
 --- /task ---
 
 --- task ---
 
-Kalıcı marker kalemleri kullanarak hatanızı bitirin!
+Keçeli kalemler kullanarak böceğinizi tamamlayın!
 
 Baş ve bacakları siyah renklendirebilir veya başka bir renkte lekeler veya şeritler ekleyebilirsiniz.
 
