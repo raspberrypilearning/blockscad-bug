@@ -1,7 +1,7 @@
 ---
-title: 3Dのバグ(虫)
+title: 3D のバグ (虫)
 hero_image: images/banner.png
-description: BlocksCADで3Dプリント可能なバグ(虫) を設計します
+description: BlocksCAD で 3D プリントできるバグ (虫) を設計 (せっけい) する
 version: 1
 listed: true
 copyedit: true
@@ -12,12 +12,12 @@ steps:
   - 
     title: 虫の体を作る
   - 
-    title: 体の底面を平らにする
+    title: 体の底面 (ていめん) を平らにする
   - 
     title: 虫に頭をつける
   - 
     title: 足を作る
   - 
-    title: 独自の虫を設計する
+    title: 自分だけの虫を作る
   - 
-    title: 3Dプリントしてから色付けをする
+    title: 3D プリントしてから色付けをする
