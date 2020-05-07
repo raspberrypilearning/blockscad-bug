@@ -1,12 +1,12 @@
 ## Bacak oluştur
 
-Şimdi böcek altı bacağı gerekiyor!
+Şimdi böceğe altı bacak gerekiyor!
 
 --- task ---
 
 Önce böceğin vücudunun ortasına bir çift bacak koyun.
 
-Başka bir bölüm eklemek için `birleşim` bloğunun üstündeki `+` tıklayın. Bir çift bacak oluşturmak için gerilmiş `küre` ekleyin.
+Başka bir bölüm eklemek için `union` bloğunun üstündeki `+` tıklayın. Bir çift bacak oluşturmak için gerilmiş `sphere` ekleyin.
 
 ![ekran görüntüsü](images/bug-legs-middle-annotated.png)
 
@@ -18,7 +18,7 @@ Başka bir bölüm eklemek için `birleşim` bloğunun üstündeki `+` tıklayı
 
 ![ekran görüntüsü](images/bug-legs-disable.png)
 
-Ardından hatanız üzerinde çalışmaya devam etmek için vücudu tekrar etkinleştirin.
+Ardından böceğin üzerinde çalışmaya devam etmek için vücudu tekrar etkinleştirin.
 
 --- /task ---
 
@@ -26,17 +26,17 @@ Ardından hatanız üzerinde çalışmaya devam etmek için vücudu tekrar etkin
 
 Şimdi başka bir çift bacak ekleyin.
 
-Aynı ayarlarla `ölçekli` `küre` ekleyin. Daha sonra `` Z ekseni boyunca `30` dereceye kadar </code> döndürün, böylece bacaklar bir açıyla yapışır.
+Aynı ayarlarla `scaled` `sphere` ekleyin. Daha sonra `rotate` kullanarak Z ekseni boyunca `30` derece döndürün, böylece bacaklar bir açıyla dışarı çıkmış olur.
 
 ![ekran görüntüsü](images/bug-legs-2-annotated.png)
 
-Şimdi böceğinizin iki orta bacağı ve bir ön bacağı ve arka bacağı vardır!
+Şimdi böceğinizin iki orta bacağı ve bir ön bacağı ve de arka bacağı var!
 
 --- /task ---
 
 --- task ---
 
-Üçüncü bir çift bacak ekleyebilir misiniz, böylece böceğin üç komple bacak çifti seti olacak mı?
+Böceğin üç komple bacak çifti seti olması için üçüncü bir çift bacak ekleyebilir misiniz?
 
 Böceğinizin şöyle görünmesi gerekir:
 
@@ -44,9 +44,9 @@ Böceğinizin şöyle görünmesi gerekir:
 
 --- hints --- --- hint ---
 
-Üçüncü bir `ölçekli` `küre`eklemeniz gerekir.
+Üçüncü bir `scaled` `sphere` eklemeniz gerekir.
 
-``{: class = "blockscadtransforms"} döndürün ve ikinci `kürenin`tersi yönde döndürün. Bir daire içinde 360 derece vardır.
+`Rotate`{: class = "blockscadtransforms"} kullanarak ikinci `sphere`'in tersi yönde döndürün. Bir daire içinde 360 derece vardır.
 
 İşte ihtiyacınız olan bloklar:
 
