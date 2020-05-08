@@ -56,7 +56,7 @@ Voici les blocs dont tu auras besoin :
 
 --- hint ---
 
-Voici le code que tu as besoin :
+Voici le code dont tu as besoin :
 
 ![capture d'écran](images/bug-legs-3-annotated.png)
 
