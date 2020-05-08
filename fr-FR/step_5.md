@@ -44,9 +44,9 @@ Ton insecte doit ressembler à ceci :
 
 --- Astuces ---- --- Astuce ----
 
-Tu dois ajouter une troisième `sphère` `à l'échelle`.
+Tu dois ajouter une troisième `sphère` `échelle`.
 
-`Faire tourner`{:class="blockscadtransforms"} dans la sens opposé à la deuxième `sphère`. Il y a 360 degrés dans un cercle.
+`Rotationr`{:class="blockscadtransforms"} dans la sens opposé à la deuxième `sphère`. Il y a 360 degrés dans un cercle.
 
 Voici les blocs dont tu auras besoin :
 
