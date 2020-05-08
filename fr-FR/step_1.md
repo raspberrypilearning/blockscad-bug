@@ -2,9 +2,9 @@
 
 Dans ce projet, tu utiliseras BlocksCAD pour concevoir un insecte 3D à l'aide de formes géométriques.
 
-Si tu as accès à une imprimante 3D, tu peux imprimer l'insecte que tu conçois. Une fois ton insecte imprimé, tu peux ajouter des détails à l'aide de stylos marqueurs indélébiles.
+Si tu as accès à une imprimante 3D, tu peux imprimer l'insecte que tu conçois. Une fois ton insecte imprimé, tu peux ajouter des détails à l'aide de marqueurs indélébiles.
 
-Tu pourras également utiliser les compétences que tu as apprises pour concevoir ton propre insecte ou autre créature en utilisant des formes géométriques.
+Tu pourras également utiliser ce que tu as appris pour concevoir ton propre insecte ou autre animal en utilisant des formes géométriques.
 
 Les insectes font de grandes récompenses pour le débogage !
 
