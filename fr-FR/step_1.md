@@ -18,17 +18,17 @@ Si tu peux utiliser une imprimante 3D, tu peux imprimer ton insecte et ensuite l
 
 ![Projet complet](images/bug-showcase.png)
 
-La plupart des imprimantes 3D ne peuvent imprimer qu'en une seule couleur, tu peux donc ajouter des détails à l'aide de marqueurs indélébiles pour rendre ton insecte encore meilleur.
+La plupart des imprimantes 3D ne peuvent imprimer qu'en une seule couleur. Pour enjoliver ton insecte, ajoutes des détails à l'aide de marqueurs indélébiles.
 
 --- collapse ---
 ---
-title: Ce que tu auras besoin
+title: Ce dont tu auras besoin
 ---
 
 ### Matériel informatique
 
-+ Une imprimante 3D et un filament dans la couleur de ton choix
-+ Des stylos marqueurs indélébiles de couleur dans une gamme de couleurs - les couleurs métalliques fonctionnent bien
++ Une imprimante 3D et un filament dans la couleur de ton choix.
++ Des marqueurs indélébiles dans une gamme de couleurs - les couleurs métalliques ont de beaux résultats.
 
 ### Logiciel
 
@@ -42,7 +42,7 @@ title: Ce que tu vas apprendre
 ---
 
 + Modélisation 3D avec des formes géométriques (sphères)
-+ Utilisation de `l'échelle` pour étirer les formes géométriques
++ Utilisation de `scale` pour étirer les formes géométriques
 
 --- /collapse ---
 
@@ -51,7 +51,7 @@ title: Ce que tu vas apprendre
 title: Informations supplémentaires pour les éducateurs
 ---
 
-Si vous besoin d'imprimer ce projet, utilisez la [version imprimable.](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Si vous besoin d'imprimer ce projet, utilisez la [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
 Téléchargez le code du projet terminé à [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
 
