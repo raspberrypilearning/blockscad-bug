@@ -30,7 +30,7 @@ Ajoute une autre `sphère` `l'échelle` avec les mêmes paramètres. Ensuite, `p
 
 ![capture d'écran](images/bug-legs-2-annotated.png)
 
-Ton insecte a maintenant deux pattes du milieu et une patte avant et une patte arrière chacune !
+Ton insecte a maintenant deux pattes du milieu et une patte avant et une patte arrière !
 
 --- /task ---
 
@@ -42,7 +42,7 @@ Ton insecte doit ressembler à ceci :
 
 ![capture d'écran](images/bug-finished.png)
 
---- hints --- --- hint ---
+--- Astuces ---- --- Astuce ----
 
 Tu dois ajouter une troisième `sphère` `à l'échelle`.
 
