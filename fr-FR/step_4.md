@@ -4,7 +4,7 @@ Crée maintenant une tête pour l'insecte.
 
 --- task ---
 
-Ajoute une petite `sphère` comme tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
+Ajoute une petite `sphère` en tant que tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
 
 Ajoute également un bloc `échelle` à la nouvelle `sphère` pour former la tête.
 
