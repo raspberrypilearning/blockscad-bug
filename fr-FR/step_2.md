@@ -20,7 +20,7 @@ Astuce : tu peux changer la couleur du modèle rendu en cliquant sur le carré c
 
 --- /task --- --- task ---
 
-Maintenant, étire la sphère le long de son axe Y pour créer un corps allongé pour l'insecte.
+Maintenant, étire la sphère le long de son axe Y pour allonger l'insecte.
 
 Le bloc `échelle`{:class="blockscadtransforms"} te permet d'étirer ou d'écraser des objets le long des axes X, Y et Z. Définis la valeur Y sur `1,2` pour étirer la sphère le long de l'axe Y.
 
