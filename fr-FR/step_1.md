@@ -6,7 +6,7 @@ Si tu as accès à une imprimante 3D, tu peux imprimer l'insecte que tu conçois
 
 Tu pourras également utiliser ce que tu as appris pour concevoir ton propre insecte ou autre animal en utilisant des formes géométriques.
 
-Les insectes font de grandes récompenses pour le débogage !
+Trouver des 'bugs' (insectes) pendant le débogage est très prisés !
 
 ### Ce que tu feras
 
@@ -14,7 +14,7 @@ L'insecte terminé ressemble à ceci :
 
 ![capture d'écran](images/bug-complete.png)
 
-Si tu as accès à une imprimante 3D, tu peux imprimer ton insecte et ensuite le décorer.
+Si tu peux utiliser une imprimante 3D, tu peux imprimer ton insecte et ensuite le décorer.
 
 ![Projet complet](images/bug-showcase.png)
 
