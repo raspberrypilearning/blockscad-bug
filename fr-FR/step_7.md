@@ -18,7 +18,7 @@ Tu peux imprimer en utilisant la couleur principale de ton insecte, ou tu peux u
 
 Termine ton insecte en utilisant des stylos marqueurs indélébiles !
 
-Tu peux colorer la tête et les pattes en noir, ou ajouter des taches ou des rayures dans une autre couleur.
+Tu peux colorer la tête et les pattes en noir, ou ajouter des tâches ou des rayures dans une autre couleur.
 
 Voici quelques exemples :
 
