@@ -1,4 +1,4 @@
-## Créer des pattes
+## Ajouter des pattes
 
 Maintenant, l'insecte a besoin de six pattes !
 
@@ -26,7 +26,7 @@ Ensuite, réactive le corps pour continuer à travailler sur ton insecte.
 
 Ajoute maintenant une autre paire de pattes.
 
-Ajoute une autre `sphère` `à l'échelle` avec les mêmes paramètres. Ensuite, `faire pivoter` de `30` degrés le long de l'axe Z de sorte que les pattes dépassent en biais.
+Ajoute une autre `sphère` `l'échelle` avec les mêmes paramètres. Ensuite, `pivoter` de `30` degrés le long de l'axe Z de sorte que les pattes dépassent en biais.
 
 ![capture d'écran](images/bug-legs-2-annotated.png)
 
