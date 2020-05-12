@@ -12,7 +12,7 @@ Küboid `centered` ve 10 mm yüksekliğinde olmalıdır (Z ekseni boyunca).
 
 Küboid -5mm Z ekseni boyunca (aşağı) hareket etmek için `translate` blok ekleyin.
 
-Küboid ve böceğinizin vücudunu ayırt etmeyi kolaylaştırmak için, küboidi farklı bir renk yapmak üzere `color` blok ekleyin.
+Küboid ve böceğinizin vücudunu ayırt etmeyi kolaylaştırmak için, küboidi farklı bir renk yapmak üzere `color` bloğunu ekleyin.
 
 ![ekran görüntüsü](images/bug-body-cuboid.png)
 
@@ -22,7 +22,7 @@ Küboid, böceğin vücudundan daha büyüktür. Bu, küboidi daha sonra büyüt
 
 --- task ---
 
-Küboidi vücuttan kaldırmak için `difference`{: class = "blockscadsetops"} bloğu kullanın.
+Küboidi vücuttan kaldırmak için `difference`{: class = "blockscadsetops"} bloğunu kullanın.
 
 ![ekran görüntüsü](images/bug-difference.png)
 
