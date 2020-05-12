@@ -18,7 +18,7 @@ Böceğinizin ana rengini kullanarak yazdırabileceğiniz gibi şeffaf veya beya
 
 Keçeli kalemler kullanarak böceğinizi tamamlayın!
 
-Baş ve bacakları siyah renklendirebilir veya başka bir renkte lekeler veya şeritler ekleyebilirsiniz.
+Başı ve bacakları siyah ile renklendirebilir veya başka bir renkte benekler veya şeritler ekleyebilirsiniz.
 
 İşte bazı örnekler:
 
