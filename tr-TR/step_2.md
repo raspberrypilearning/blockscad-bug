@@ -34,9 +34,9 @@ Böcek için uzun bir gövde oluşturmak için küreyi Y ekseni boyunca uzatın.
 
 --- task ---
 
-Şimdi daha düz bir hata yapmak için elipsoidi z ekseni boyunca biraz ezin.
+Şimdi daha düz bir böcek yapmak için elipsoidi z ekseni boyunca biraz ezin.
 
-Bir eksen değerinin `1` altına ayarlanması, nesneyi bu eksen boyunca küçültür. Bu yüzden `scale`{: class = "blockscadtransforms"} bloğundaki Z değerini `0.8` olarak değiştirin.
+Bir eksen değerinin `1`'in altına ayarlanması, nesneyi bu eksen boyunca küçültür. Bu yüzden `scale`{: class = "blockscadtransforms"} bloğundaki Z değerini `0.8` olarak değiştirin.
 
 ![ekran görüntüsü](images/bug-body-z.png)
 
