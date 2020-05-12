@@ -6,7 +6,7 @@ Bunu yapmak için, `difference`{: class = "blockscadsetops"} bloğunu kullanarak
 
 --- task ---
 
-Başlamak için, hatanın alt yarısını (Z ekseninde 0'ın altında oturan kısım) kapsayacak şekilde bir küboid oluşturun.
+Başlamak için, böceğin alt yarısını (Z ekseninde 0'ın altında oturan kısım) kapsayacak şekilde bir küboid oluşturun.
 
 Küboid `centered` ve 10 mm yüksekliğinde olmalıdır (Z ekseni boyunca).
 
