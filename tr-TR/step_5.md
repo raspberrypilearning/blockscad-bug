@@ -6,7 +6,7 @@
 
 Önce böceğin vücudunun ortasına bir çift bacak koyun.
 
-Başka bir bölüm eklemek için `union` bloğunun üstündeki `+` tıklayın. Bir çift bacak oluşturmak için gerilmiş `sphere` ekleyin.
+Başka bir bölüm eklemek için `union` bloğunun üstündeki `+`'ya tıklayın. Bir çift bacak oluşturmak için gerilmiş `sphere` ekleyin.
 
 ![ekran görüntüsü](images/bug-legs-middle-annotated.png)
 
