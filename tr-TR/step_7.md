@@ -1,10 +1,10 @@
 ## 3D baskı ve tasarımınızı süsleyin
 
-Bir 3D yazıcıya erişiminiz varsa, şimdi hatanızı yazdırabilir ve daha sonra süsleyebilirsiniz.
+Bir 3D yazıcıya erişiminiz varsa, şimdi böceğinizi yazdırabilir ve daha sonra süsleyebilirsiniz.
 
 --- task ---
 
-Modelinizi oluşturun ve ardından **Generate STL**'i tıklayın. STL dosyasını nereye kaydettiğinizi unutmayın.
+Modelinizi oluşturun ve ardından **Generate STL**'e tıklayın. STL dosyasını nereye kaydettiğinizi unutmayın.
 
 --- /task --- --- task ---
 
