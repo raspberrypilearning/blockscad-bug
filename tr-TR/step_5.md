@@ -1,4 +1,4 @@
-## Bacak oluştur
+## Bacak oluşturun
 
 Şimdi böceğe altı bacak gerekiyor!
 
