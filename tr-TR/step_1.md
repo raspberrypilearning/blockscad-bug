@@ -4,7 +4,7 @@ Bu projede, geometrik şekiller kullanarak bir 3D böcek veya böcek tasarlamak 
 
 3D yazıcıya erişiminiz varsa, tasarladığınız böceği yazdırabilirsiniz. Böceğinizi yazdırıldıktan sonra, kalıcı marker kalemleri kullanarak ayrıntılar ekleyebilirsiniz.
 
-Geometrik şekiller kullanarak kendi hatanızı veya diğer yaratıklarınızı tasarlamak için öğrendiğiniz becerileri de kullanabileceksiniz.
+Geometrik şekiller kullanarak kendi böceğinizi veya diğer yaratıklarınızı tasarlamak için öğrendiğiniz becerileri de kullanabileceksiniz.
 
 Hata ayıklama ile böcekler büyük ödüller verecek!
 
@@ -32,7 +32,7 @@ title: Nelere ihtiyacınız var
 
 ### Yazılım
 
-+ Bu proje bir web tarayıcısında BlocksCAD kullanılarak tamamlanabilir [ blockscad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
++ Bu proje bir web tarayıcısında BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"} kullanılarak tamamlanabilir
 
 --- /collapse ---
 
@@ -51,7 +51,7 @@ title: Ne öğreneceksiniz
 title: Eğitimciler için ek bilgiler
 ---
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) 'ü kullanın {: target = "_ blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){: target = "_ blank"} kullanın.
 
 Bitmiş proje kodunu [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get) adresinden indirin.
 
