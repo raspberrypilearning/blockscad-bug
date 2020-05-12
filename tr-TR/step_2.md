@@ -26,11 +26,11 @@ Böcek için uzun bir gövde oluşturmak için küreyi Y ekseni boyunca uzatın.
 
 ![ekran görüntüsü](images/bug-body-y.png)
 
-Tekrar **Render** butonuna tekrar tıklayın ve kürenin elipsoit şekline dönüştüğünü kontrol edin. Modelinize farklı açılardan bakın, böylece nasıl değiştiğini görebilirsiniz.
+**Render** butonuna tekrar tıklayın ve kürenin elipsoit şekline dönüştüğünü kontrol edin. Modelinize farklı açılardan bakın, böylece nasıl değiştiğini görebilirsiniz.
 
 --- /task ---
 
-İpucu: kodda her değişiklik yaptığınızda, sonuçları görmek için **Render** tıklamanız gerekir.
+İpucu: kodda her değişiklik yaptığınızda, sonuçları görmek için **Render** 'a tıklamanız gerekir.
 
 --- task ---
 
