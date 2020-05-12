@@ -1,8 +1,8 @@
 ## Giriş
 
-Bu projede, geometrik şekiller kullanarak bir 3D böcek veya böcek tasarlamak için BlocksCAD'i kullanacaksınız.
+Bu projede, geometrik şekiller kullanarak bir 3D böcekler tasarlamak için BlocksCAD'i kullanacaksınız.
 
-3D yazıcıya erişiminiz varsa, tasarladığınız böceği yazdırabilirsiniz. Böceğinizi yazdırıldıktan sonra, kalıcı marker kalemleri kullanarak ayrıntılar ekleyebilirsiniz.
+3D yazıcıya erişiminiz varsa, tasarladığınız böceği yazdırabilirsiniz. Böceğinizi yazdırıldıktan sonra, keçeli kalemleri kullanarak ayrıntılar ekleyebilirsiniz.
 
 Geometrik şekiller kullanarak kendi böceğinizi veya diğer yaratıklarınızı tasarlamak için öğrendiğiniz becerileri de kullanabileceksiniz.
 
