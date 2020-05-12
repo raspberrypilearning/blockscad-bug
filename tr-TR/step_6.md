@@ -2,13 +2,13 @@
 
 --- challenge ---
 
-Şimdi yeni BlocksCAD bilginizi kullanarak kendi hatanızı tasarlamanın zamanı geldi!
+Şimdi yeni BlocksCAD bilginizi kullanarak kendi böceğinizi tasarlamanın zamanı geldi!
 
 İpuçları:
 
 + Çoğu 3D yazıcı yalnızca bir renkte yazdırabilir. İstediğiniz görünümü tasarlamak için BlocksCAD'deki renkleri kullanabilir ve ardından yazdırdıktan sonra keçeli kalemlerle ayrıntılar ekleyebilirsiniz.
 
-+ Hatanın herhangi bir parçasını çok ince yapmayın, aksi takdirde kolayca kırılır.
++ Böceğin herhangi bir parçasını çok ince yapmayın, aksi takdirde kolayca kırılır.
 
 + 3 boyutlu yazıcılar havada yazım yapamayacağı için arası boşluklu parçalar eklemekten kaçının. (Modelinizin bir kısmını tutmak için destekleri kullanarak yazdırmak mümkündür, ancak bu yazdırmayı daha karmaşık hale getirir.)
 
