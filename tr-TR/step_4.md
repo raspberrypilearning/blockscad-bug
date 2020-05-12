@@ -8,17 +8,17 @@ Böceğin başı olarak daha küçük bir `sphere` ekleyin. Şu anda bu yeni kü
 
 Ayrıca, kafayı şekillendirmek için yeni `sphere`'e `scale` blok ekleyin.
 
-Ardından, başlığı ve gövdeyi birleştirmek için `union`{: class = "blockscadsetops"} bloğu ekleyin.
+Ardından, başı ve gövdeyi birleştirmek için `union`{: class = "blockscadsetops"} bloğu ekleyin.
 
 ![ekran görüntüsü](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-Yeni `sphere`görmek istiyorsanız, `scale`{: class = "blockscadtransforms"} bloğuna sağ tıklayıp **Disable block** seçerek gövdeyi geçici olarak devre dışı bırakın. Sonra bu blok ve içindeki bloklar grileşir ve **Render**tıkladığınızda gövde görünmez.
+Yeni `sphere`'i görmek istiyorsanız, `scale`{: class = "blockscadtransforms"} bloğuna sağ tıklayıp **Disable block** seçerek gövdeyi geçici olarak devre dışı bırakın. Sonra bu blok ve içindeki bloklar grileşir ve **Render**'a tıkladığınızda gövde görünmez.
 
 ![ekran görüntüsü](images/bug-disable.png)
 
-Bloğu tekrar sağ tıklayın ve gövdeyi etkinleştirmek için **Enable block** u seçin.
+Gövdeyi etkinleştirmek için, bloğa tekrar sağ tıklayın ve **Enable block** u seçin.
 
 --- /task --- --- task ---
 
