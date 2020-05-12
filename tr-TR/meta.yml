@@ -1,7 +1,7 @@
 ---
-title: 3D hata
+title: 3D Böcek
 hero_image: images/banner.png
-description: BlocksCAD ile 3D yazdırılabilir böcek böcekleri tasarlayın
+description: BlocksCAD ile 3D yazdırılabilir böcekler tasarlayın
 version: 1
 listed: true
 copyedit: true
@@ -14,10 +14,10 @@ steps:
   - 
     title: Vücudun tabanını düzleştirin
   - 
-    title: Hatanıza bir kafa ekleyin
+    title: Böceğinize bir kafa ekleyin
   - 
-    title: Bacak oluştur
+    title: Bacak oluşturun
   - 
-    title: Kendi hatanızı tasarlayın
+    title: Kendi böceğinizi tasarlayın
   - 
     title: 3D baskı ve tasarımınızı süsleyin
