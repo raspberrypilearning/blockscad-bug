@@ -38,17 +38,17 @@ title: 你將會需要
 
 --- collapse ---
 ---
-標題: 你將會學到
+title: 你將會學到
 ---
 
-+ 具有幾何形狀（球體）的3D模型建立
++ 具有幾何形狀（球體）的3D建模
 + 使用 `scale` 延展幾何形狀
 
 --- /collapse ---
 
 --- collapse ---
 ---
-標題: 給教師的其它資訊
+title: 給教師的其它資訊
 ---
 
 如果你需要列印此專案內容，請使用 [printer-friendly version](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}。
