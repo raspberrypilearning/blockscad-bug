@@ -10,7 +10,7 @@
 
 + 不要讓你的昆蟲的任何部分變得太細，否則它很容易損壞。
 
-+ Avoid adding parts that have gaps below them when they are 3D printed, because 3D printers can't print in mid-air. （可以使用支撐物來支撐模型的某些部分來進行列印，但這會使列印更加複雜。）
++ 在進行3D列印時，避免添加下面有空隙的零件，因為3D列印機無法在空中列印。 （可以使用支撐物來支撐模型的某些部分來進行列印，但這會使列印更加複雜。）
 
 + 思考一下你的昆蟲體積將會多大 如果將其設計得太大，則列印和使用大量的列印用長絲將花費很長時間。
 
