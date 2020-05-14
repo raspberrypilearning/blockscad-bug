@@ -22,7 +22,7 @@
 
 --- /task --- --- task ---
 
-沿著Y軸 `Translate` 平移頭部，使其突出身體部分。
+沿著Y軸 `Translate` 平移頭部，使其向外突出。
 
   ![截圖](images/bug-head.png)
 
