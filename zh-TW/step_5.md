@@ -30,7 +30,7 @@
 
 ![截圖](images/bug-legs-2-annotated.png)
 
-現在，你的昆蟲有一對中間的腳，一隻前腳和一隻後腳！
+現在，你的昆蟲有兩對腳，分別是前腳和後腳！
 
 --- /task ---
 
@@ -44,9 +44,9 @@
 
 --- hints --- --- hint ---
 
-你需要新增第三個 `scaled` `sphere` 縮放的球體。
+你需要新增第三個 `scaled` `sphere`。
 
-`Rotate`{:class="blockscadtransforms"} 沿著第二個 `sphere` 球體的相反方向旋轉。 一圈有360度。
+`Rotate`{:class="blockscadtransforms"} 沿著第二個 `sphere` 的相反方向旋轉。 一圈有360度。
 
 這裡是你需要的程式區塊：
 
