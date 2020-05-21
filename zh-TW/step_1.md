@@ -53,6 +53,6 @@ title: 給教師的其它資訊
 
 如果你需要列印此專案內容，請使用 [printer-friendly version](https://projects.raspberrypi.org/zh-TW/projects/blockscad-bug/print){:target="_blank"}。
 
-從 [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/zh-TW/blockscad-bug-get)下載完成的專案程式碼。
+從 [rpf.io/p/zh-TW/blockscad-bug-get](http://rpf.io/p/zh-TW/blockscad-bug-get)下載完成的專案程式碼。
 
 --- /collapse ---
