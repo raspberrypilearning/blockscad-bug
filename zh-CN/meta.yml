@@ -1,7 +1,7 @@
 ---
-title: 3D错误
+title: 3D昆虫
 hero_image: images/banner.png
-description: 使用BlocksCAD设计3D打印的昆虫昆虫
+description: 使用BlocksCAD设计3D打印的昆虫
 version: 1
 listed: true
 copyedit: true
@@ -14,10 +14,10 @@ steps:
   - 
     title: 展平身体
   - 
-    title: 为您的错误添加头
+    title: 为您的昆虫添加头
   - 
     title: 创建腿
   - 
-    title: 设计自己的错误
+    title: 设计自己的昆虫
   - 
-    title: 3D打印和装饰设计
+    title: 3D打印和装饰您的设计
