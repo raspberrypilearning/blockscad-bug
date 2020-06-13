@@ -1,12 +1,12 @@
-## 给你的虫子一个身体
+## 给你的昆虫一个身体
 
 --- task ---
 
-在Web浏览器中打开BlocksCAD编辑器 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){：target =“ _ blank”}
+在Web浏览器中打开BlocksCAD编辑器 [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
-现在创建您的错误的主体。
+现在创建您的昆虫的主体。
 
 --- task ---
 
@@ -20,9 +20,9 @@
 
 --- /task --- --- task ---
 
-现在，沿球的Y轴拉伸球体，以为虫子创建细长体。
+现在，沿球的Y轴拉伸球体，来为虫子创建一个细长的身体。
 
-`比例`{：class =“ blockscadtransforms”}块使您可以沿X，Y和Z轴拉伸或挤压对象。 将Y值设置为 `1.2` 以沿Y轴拉伸球体。
+`比例`{:class="blockscadtransforms"}块使您可以沿X，Y和Z轴拉伸或挤压对象。 将Y值设置为 `1.2` 以沿Y轴拉伸球体。
 
 ![截屏](images/bug-body-y.png)
 
