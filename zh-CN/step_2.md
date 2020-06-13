@@ -36,7 +36,7 @@
 
 现在，沿z轴稍微挤压椭圆形，以制作出更扁平的虫子。
 
-将轴值设置为低于 `1` 可使对象沿该轴变小。 因此，将 `比例`{：class =“ blockscadtransforms”}块中的Z值更改为 `0.8`。
+将轴值设置为低于 `1` 可使对象沿该轴变小。 因此，将 `比例`{:class="blockscadtransforms"}块中的Z值更改为 `0.8`。
 
 ![截屏](images/bug-body-z.png)
 
