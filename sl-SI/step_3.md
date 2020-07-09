@@ -2,7 +2,7 @@
 
 Zdaj pa splošči še spodnji del telesa, da bo hrošč videti bolj resnično. 3D tisk je lažji tudi model z ravno podlago! Prav tako je lažje 3D natisniti model z ravnim dnom!
 
-Za dosego tega, lahko preprosto svojemu modelu odzameš kvader z uporabo bloka `razlika`{: class = "blockscadsetops"}.
+Za dosego tega, lahko preprosto svojemu modelu odzameš kvader z uporabo bloka `razlika`{:class="blockscadsetops"}.
 
 --- task ---
 
@@ -22,7 +22,7 @@ Kvader je večji od telesa hrošča. To pomeni, da lahko hrošču dodajaš, ne d
 
 --- task ---
 
-Uporabi blok `razlika`{: class = "blockcadsetops"}, da odstraniš kvader iz telesa.
+Uporabi blok `razlika`{:class="blockcadsetops"}, da odstraniš kvader iz telesa.
 
 ![posnetek zaslona](images/bug-difference.png)
 
