@@ -8,7 +8,7 @@ Za glavo hrošča dodaj manjšo `kroglo`. Te nove krogle trenutno še ne vidiš,
 
 Tudi tej `krogli` dodaj blok `merilo`, da jo oblikuješ.
 
-Nato doda blok `združi`{: class = "blockcadsetops"}, da združiš glavo in telo.
+Nato doda blok `združi`{:class="blockcadsetops"}, da združiš glavo in telo.
 
 ![posnetek zaslona](images/bug-head-hidden.png)
 
