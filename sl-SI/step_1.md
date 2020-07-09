@@ -22,7 +22,7 @@ Večina 3D-tiskalnikov lahko tiska samo v eni barvi, zato lahko dodaš podrobnos
 
 --- collapse ---
 ---
-title: Kaj potrebuješ? 
+title: Kaj potrebuješ?
 ---
 
 ### Strojna oprema
@@ -32,7 +32,7 @@ title: Kaj potrebuješ?
 
 ### Programska oprema
 
-+ Ta projekt je mogoče dokončati v spletnem brskalniku z uporabo BlocksCAD [blockcad3d.com/editor/](https://www.blockscad3d.com/editor){: target = "_ blank"}
++ Ta projekt je mogoče dokončati v spletnem brskalniku z uporabo BlocksCAD [blockcad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
@@ -51,8 +51,8 @@ title: Kaj se boš naučil-a?
 title: Dodatne informacije za izobraževalce
 ---
 
-Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
+Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/sl-SI/projects/blockscad-bug/print){:target="_blank"}.
 
-Končano kodo projekta lahko prenesete iz [rpf.io/p/sl/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Končano kodo projekta lahko prenesete iz [rpf.io/p/sl/blockscad-bug-get](http://rpf.io/p/sl-SI/blockscad-bug-get).
 
 --- /collapse ---
