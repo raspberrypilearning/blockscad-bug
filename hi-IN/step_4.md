@@ -14,7 +14,7 @@
 
 --- /task --- --- task ---
 
-यदि आप नया `sphere` देखना चाहते हैं, तो अस्थायी रूप से शरीर को उसके `scale`{:class="blockscadtransforms"} ब्लॉक पर राइट-क्लिक (right-click) करके **Disable block** को चुनें। फिर यह ब्लॉक और इसके अंदर लेख को हलके रंग में करदिया जाता है और **Render**क्लिक करने पर बॉडी (body) दिखाई नहीं देती है।
+यदि आप नया `sphere` देखना चाहते हैं, तो अस्थायी रूप से शरीर को उसके `scale`{:class="blockscadtransforms"} ब्लॉक पर राइट-क्लिक (right-click) करके **Disable block** को चुनें। फिर यह ब्लॉक और इसके अंदर लेख को हलके रंग में करदिया जाता है और **Render** क्लिक करने पर बॉडी (body) दिखाई नहीं देती है।
 
 ![screenshot](images/bug-disable.png)
 
