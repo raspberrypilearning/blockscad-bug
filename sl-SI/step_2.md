@@ -2,7 +2,7 @@
 
 --- task ---
 
-Odpri urejevalnik BlocksCAD v spletnem brskalniku [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){: target = "_ blank"}
+Odpri urejevalnik BlocksCAD v spletnem brskalniku [blockcad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
