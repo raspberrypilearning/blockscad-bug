@@ -53,6 +53,6 @@ title: 교육자를 위한 추가 정보
 
 이 프로젝트를 인쇄하기 위해서는 [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/blockscad-bug/print){:target="_blank"}을 사용해 주십시오.
 
-완성 된 프로젝트 코드는 [rpf.io/p/ko-KR/blockscad-bug-get](http://rpf.io/p/ko-KR/blockscad-bug-get)에서 다운로드하십시오.
+완성 된 프로젝트 코드는 [rpf.io/p/ko-KR/blockscad-bug-get](https://rpf.io/p/ko-KR/blockscad-bug-get)에서 다운로드하십시오.
 
 --- /collapse ---

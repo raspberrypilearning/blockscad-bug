@@ -53,6 +53,6 @@ title: Додаткова інформація для викладачів
 
 Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/blockscad-bug/print){:target="_blank"}.
 
-Завантажте готовий код проєкту з [rpf.io/p/uk-UA/blockscad-bug-get](http://rpf.io/p/uk-UA/blockscad-bug-get).
+Завантажте готовий код проєкту з [rpf.io/p/uk-UA/blockscad-bug-get](https://rpf.io/p/uk-UA/blockscad-bug-get).
 
 --- /collapse ---

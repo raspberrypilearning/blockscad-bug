@@ -53,6 +53,6 @@ title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/blockscad-bug/print){:target="_blank"}.
 
-Download de voltooide projectcode op [rpf.io/p/nl-NL/blockscad-bug-get](http://rpf.io/p/nl-NL/blockscad-bug-get).
+Download de voltooide projectcode op [rpf.io/p/nl-NL/blockscad-bug-get](https://rpf.io/p/nl-NL/blockscad-bug-get).
 
 --- /collapse ---

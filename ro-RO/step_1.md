@@ -53,6 +53,6 @@ title: Informații suplimentare pentru educatori
 
 Dacă trebuie să printezi acest proiect, folosește [versiunea printabilă](https://projects.raspberrypi.org/ro-RO/projects/blockscad-bug/print){:target="_blank"}.
 
-Descarcă codul proiectului finalizat de pe [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/ro-RO/blockscad-bug-get).
+Descarcă codul proiectului finalizat de pe [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/ro-RO/blockscad-bug-get).
 
 --- /collapse ---
