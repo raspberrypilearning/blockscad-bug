@@ -53,6 +53,6 @@ title: Zusätzliche Informationen für Pädagogen
 
 Wenn du dieses Projekt ausdrucken möchtest, verwende bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/blockscad-bug/print){:target="_blank"}.
 
-Lade den fertigen Projektcode unter [rpf.io/p/de-DE/blockscad-bug-get](http://rpf.io/p/de-DE/blockscad-bug-get) herunter.
+Lade den fertigen Projektcode unter [rpf.io/p/de-DE/blockscad-bug-get](https://rpf.io/p/de-DE/blockscad-bug-get) herunter.
 
 --- /collapse ---

@@ -11,5 +11,6 @@ steps:
   - title: Flatten the base of the body
   - title: Add a head to your bug
   - title: Create legs
-  - title: Design your own bug
+  - title: "Challenge: Design your own bug"
+    challenge: true
   - title: 3D print and decorate your design
