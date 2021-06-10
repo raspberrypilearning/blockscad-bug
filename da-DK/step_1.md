@@ -53,6 +53,6 @@ titel: Yderligere oplysninger til undervisere
 
 Hvis du har brug for at udskrive dette projekt, skal du bruge den [ printervenlige version ](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {: Target = "_ blank"}.
 
-Download den færdige projektkode på [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
