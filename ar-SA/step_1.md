@@ -53,6 +53,6 @@ title: معلومات إضافية للمعلمين
 
 إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الصديق للبيئة عند الطباعة](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-قم بتنزيل الكود البرمجي للمشروع النهائي من [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+قم بتنزيل الكود البرمجي للمشروع النهائي على [rpf.io/p/ar-SA/blockscad-bug-get](https://rpf.io/p/ar-SA/blockscad-bug-get).
 
 --- /collapse ---
