@@ -18,6 +18,7 @@ steps:
   - 
     title: Opret ben
   - 
-    title: Design din egen fejl
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: 3D-print og dekorér dit design
