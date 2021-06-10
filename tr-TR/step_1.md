@@ -53,6 +53,6 @@ title: Eğitimciler için ek bilgiler
 
 Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){: target = "_ blank"} kullanın.
 
-Bitmiş proje kodunu [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get) adresinden indirin.
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
