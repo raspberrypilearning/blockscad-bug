@@ -53,6 +53,6 @@ title: Doplňujúce informácie pre vyučujúcich
 
 Ak potrebujete tento projekt vytlačiť, použite [ verziu pre tlač ](https://projects.raspberrypi.org/en/projects/blockscad-bug/print) {: target = "_ blank"}.
 
-Stiahnite si hotový kód projektu na [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
