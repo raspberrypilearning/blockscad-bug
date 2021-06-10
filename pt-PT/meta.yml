@@ -18,6 +18,7 @@ steps:
   - 
     title: Criar pernas
   - 
-    title: Cria o teu próprio inseto
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: Imprime em 3D e decora o teu inseto
