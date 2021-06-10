@@ -18,6 +18,7 @@ steps:
   - 
     title: 足を作る
   - 
-    title: 自分だけの虫を作る
+    title: "自分だけの虫を作る"
+    challenge: true
   - 
     title: 3D で印刷してから色づけをする
