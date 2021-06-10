@@ -18,6 +18,7 @@ steps:
   - 
     title: Creu coesau
   - 
-    title: Dyluniwch eich nam eich hun
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: Argraffu 3D ac addurno'ch dyluniad
