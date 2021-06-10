@@ -18,6 +18,7 @@ steps:
   - 
     title: Stwórz nogi
   - 
-    title: Zaprojektuj swojego własnego owada - żuczka
+    title: "Zaprojektuj swojego własnego owada - żuczka"
+    challenge: true
   - 
     title: Wydrukuj w 3D i udekoruj swój model
