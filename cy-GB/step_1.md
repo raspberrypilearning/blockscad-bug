@@ -53,6 +53,6 @@ title: Gwybodaeth ychwanegol i addysgwyr
 
 Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Dadlwythwch god gorffenedig y prosiect yn [rpf.io/p/cy/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
