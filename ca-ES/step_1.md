@@ -53,6 +53,6 @@ títol: Informació addicional per educadors
 
 Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Baixa el codi del projecte acabat de [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Baixa el codi del projecte acabat de [rpf.io/p/ca-ES/blockscad-bug-get](https://rpf.io/p/ca-ES/blockscad-bug-get).
 
 --- /collapse ---
