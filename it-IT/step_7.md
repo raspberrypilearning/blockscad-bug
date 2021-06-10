@@ -8,7 +8,7 @@ Genera il modello 3D e quindi fai clic su **Genera STL**. Ricorda dove salvi il 
 
 --- /task --- --- task ---
 
-Stampa 3D il tuo il insetto.
+Stampa in 3D il tuo insetto.
 
 Puoi stampare usando il colore principale del tuo insetto, oppure puoi usare filamenti neutri o bianchi.
 
@@ -16,7 +16,7 @@ Puoi stampare usando il colore principale del tuo insetto, oppure puoi usare fil
 
 --- task ---
 
-Termina il tuo insetto usando pennarelli indelebili!
+Completa il tuo insetto usando pennarelli indelebili!
 
 Puoi colorare la testa e le zampe in nero o aggiungere macchie o strisce in un altro colore.
 
