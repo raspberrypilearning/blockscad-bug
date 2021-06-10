@@ -18,6 +18,7 @@ steps:
   - 
     title: 创建腿
   - 
-    title: 设计自己的昆虫
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: 3D打印和装饰您的设计
