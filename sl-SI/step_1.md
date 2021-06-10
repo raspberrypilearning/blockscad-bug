@@ -53,6 +53,6 @@ title: Dodatne informacije za izobraževalce
 
 Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/sl-SI/projects/blockscad-bug/print){:target="_blank"}.
 
-Končano kodo projekta lahko prenesete iz [rpf.io/p/sl/blockscad-bug-get](http://rpf.io/p/sl-SI/blockscad-bug-get).
+Končano kodo projekta lahko prenesete iz [rpf.io/p/sl/blockscad-bug-get](https://rpf.io/p/sl-SI/blockscad-bug-get).
 
 --- /collapse ---
