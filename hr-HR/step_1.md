@@ -53,6 +53,6 @@ title: Dodatne informacije za edukatore
 
 Ako trebate ispisati ovaj projekt, koristite [verziju koja je prilagođena pisaču](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target ="_blank"}.
 
-Preuzmite gotovi projektni kôd na [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
