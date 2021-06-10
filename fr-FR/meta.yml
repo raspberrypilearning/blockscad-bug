@@ -18,6 +18,7 @@ steps:
   - 
     title: Créer des pattes
   - 
-    title: Concevoir ton propre insecte
+    title: "Concevoir ton propre insecte"
+    challenge: true
   - 
     title: Imprime en 3D et décore ton design
