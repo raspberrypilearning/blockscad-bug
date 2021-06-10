@@ -53,6 +53,6 @@ title: Přídavné informace pro učitele
 
 Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Stáhněte si hotový kód projektu na [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
