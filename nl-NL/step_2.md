@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open de BlocksCAD-editor in een webbrowser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_ blank"}
+Open de BlocksCAD-editor in een webbrowser [blockscad3d.com/editor/](https://www.blockscad3d.com/editor/){:target="_blank"}
 
 --- /task ---
 
