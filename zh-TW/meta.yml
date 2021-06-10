@@ -18,6 +18,7 @@ steps:
   - 
     title: 創造它的腳
   - 
-    title: 設計屬於你自己的昆蟲
+    title: "設計屬於你自己的昆蟲"
+    challenge: true
   - 
     title: 3D列印和裝飾你的設計
