@@ -18,6 +18,7 @@ steps:
   - 
     title: Crea le zampe
   - 
-    title: Progetta il tuo insetto
+    title: "Progetta il tuo insetto"
+    challenge: true
   - 
     title: Stampa in 3D e decora il tuo oggetto
