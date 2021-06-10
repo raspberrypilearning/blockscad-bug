@@ -18,6 +18,7 @@ steps:
   - 
     title: Creează-i picioarele
   - 
-    title: Proiectează-ți propria insectă
+    title: "Provocare: proiectează-ți propria insectă"
+    challenge: true
   - 
     title: Imprimă 3D și personalizează-ți design-ul tău
