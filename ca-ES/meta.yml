@@ -18,6 +18,7 @@ steps:
   - 
     title: Crea les potes
   - 
-    title: Dissenya la teva pròpia cuca
+    title: "Dissenya la teva pròpia cuca"
+    challenge: true
   - 
     title: Imprimeix en 3D i decora el teu disseny
