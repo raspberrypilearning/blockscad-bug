@@ -53,6 +53,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"} का उपयोग करें।
 
-तैयार किया हुआ प्रोजेक्ट कोड को [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get) पर डाउनलोड (download) करें।
+तैयार किया हुआ प्रोजेक्ट कोड को [rpf.io/p/hi-IN/blockscad-bug-get](https://rpf.io/p/hi-IN/blockscad-bug-get) पर डाउनलोड (download) करें।
 
 --- /collapse ---
