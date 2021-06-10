@@ -53,6 +53,6 @@ title: 为教育者提供的额外信息
 
 如果您需要打印本项目文件，请使用[适合打印版本](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}。
 
-从 [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)下载完成的项目代码。
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
