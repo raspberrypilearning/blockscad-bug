@@ -53,6 +53,6 @@ title: Додатне информације за наставнике
 
 Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Преузмите готов пројектни код на [рпф.ио/п/ен/блоцксцад-буг-гет](http://rpf.io/p/en/blockscad-bug-get).
+Download the finished project code at [rpf.io/p/en/blockscad-bug-get](https://rpf.io/p/en/blockscad-bug-get).
 
 --- /collapse ---
