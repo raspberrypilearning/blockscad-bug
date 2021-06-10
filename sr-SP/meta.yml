@@ -18,6 +18,7 @@ steps:
   - 
     title: Створите ноге
   - 
-    title: Дизајнирајте сопствену грешку
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: 3Д штампање и украшавање вашег дизајна
