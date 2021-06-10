@@ -18,6 +18,7 @@ steps:
   - 
     title: Crea las patas
   - 
-    title: Diseña tu propio insecto
+    title: "Diseña tu propio insecto"
+    challenge: true
   - 
     title: Imprime en 3D y decora tu diseño
