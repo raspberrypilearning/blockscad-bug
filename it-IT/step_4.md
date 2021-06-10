@@ -32,7 +32,7 @@ Se vuoi vedere chiaramente le diverse forme, cambia il colore della testa.
 
 ![screenshot](images/bug-head-black.png)
 
-Puoi anche sperimentare diverse combinazioni di colori per decorare con pennarelli indelebili il tuo insetto stampato.
+Puoi anche sperimentare diverse combinazioni di colori per decorare, successivamente, con pennarelli indelebili il tuo insetto stampato.
 
 --- /task --- --- task ---
 
