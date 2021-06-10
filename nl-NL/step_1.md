@@ -32,7 +32,7 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Dit project kan worden voltooid in een webbrowser met BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_ blank"}
++ Dit project kan worden voltooid in een webbrowser met BlocksCAD [blockscad3d.com/editor/](https://www.blockscad3d.com/editor){:target="_blank"}
 
 --- /collapse ---
 
@@ -53,6 +53,6 @@ title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_blank"}.
 
-Download de voltooide projectcode op [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get).
+Download de voltooide projectcode op [rpf.io/p/nl-NL/blockscad-bug-get](https://rpf.io/p/nl-NL/blockscad-bug-get).
 
 --- /collapse ---
