@@ -18,6 +18,7 @@ steps:
   - 
     title: Maak poten
   - 
-    title: Ontwerp je eigen kever
+    title: "Ontwerp je eigen kever"
+    challenge: true
   - 
     title: 3D print en versier je ontwerp
