@@ -18,6 +18,7 @@ steps:
   - 
     title: Bacak oluşturun
   - 
-    title: Kendi böceğinizi tasarlayın
+    title: "Challenge: Design your own bug"
+    challenge: true
   - 
     title: 3D baskı ve tasarımınızı süsleyin
