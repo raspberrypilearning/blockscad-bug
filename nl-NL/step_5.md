@@ -26,7 +26,7 @@ Schakel het lichaam vervolgens opnieuw in om aan je kever te blijven werken.
 
 Voeg nu nog een paar poten toe.
 
-Voeg nog een `scale` `sphere` met dezelfde instellingen toe. Draai vervolgens met `rotate (roteer)` de poten `30` graden omlaag langs de Z-as zodat deze schuin uitsteken.
+Voeg nog een ge`scale`de `sphere` met dezelfde instellingen toe. Draai vervolgens met `rotate (roteer)` de poten `30` graden omlaag langs de Z-as zodat deze schuin uitsteken.
 
 ![schermafbeelding](images/bug-legs-2-annotated.png)
 
@@ -44,7 +44,7 @@ Je kever moet er als volgt uitzien:
 
 --- hints --- --- hint ---
 
-Je moet een derde `scale` `sphere` toevoegen.
+Je moet een derde ge`scale`de `sphere` toevoegen.
 
 `Rotate`{:class="blockscadtransforms"} in de tegengestelde richting van de tweede `sphere`. Er zitten 360 graden in een cirkel.
 
