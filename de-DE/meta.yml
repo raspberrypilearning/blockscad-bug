@@ -18,6 +18,7 @@ steps:
   - 
     title: Erstelle Beine
   - 
-    title: Entwerfe deinen eigenen Käfer
+    title: "Entwerfe deinen eigenen Käfer"
+    challenge: true
   - 
     title: 3D drucke und dekoriere dein Design
