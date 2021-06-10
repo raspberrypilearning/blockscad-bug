@@ -10,7 +10,7 @@ Per iniziare, crea un cuboide per coprire la metà inferiore dell'insetto (la pa
 
 Il cuboide dovrebbe essere `centrato` e alto 10 mm (lungo l'asse Z).
 
-Aggiungi un blocco `trasla` per spostare il parallelepipedo -5mm lungo l'asse Z (in basso).
+Aggiungi un blocco `trasla` per spostare il parallelepipedo -5 mm lungo l'asse Z (verso il basso).
 
 Per rendere più semplice distinguere il cuboide dal corpo del tuo insetto, aggiungi un blocco `colore` per dare al cuboide un colore diverso.
 
