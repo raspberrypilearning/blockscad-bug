@@ -53,6 +53,6 @@ title: 教育者向けの追加情報
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/blockscad-bug/print){:target="_ blank"}を使用してください。
 
-完成したプロジェクトコードは [rpf.io/p/en/blockscad-bug-get](http://rpf.io/p/en/blockscad-bug-get)からダウンロードできます。
+完成したプロジェクトコードは [rpf.io/p/ja-JP/blockscad-bug-get](https://rpf.io/p/ja-JP/blockscad-bug-get)からダウンロードできます。
 
 --- /collapse ---
