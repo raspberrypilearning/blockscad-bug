@@ -38,7 +38,7 @@ Une fois ton insecte imprimé, tu peux le décorer avec des marqueurs indélébi
 
 Peux-tu changer la couleur du corps de ton modèle d'insecte ? Tu peux la changer en imprimant avec un filament d'une autre couleur ou en la coloriant avec un marqueur indélébile d'une autre couleur.
 
-Astuce
+--- hint ---
 
 C'est le bloc dont tu as besoin.
 
