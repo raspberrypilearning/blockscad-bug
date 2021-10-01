@@ -1,6 +1,6 @@
 ## Aplatir la base du corps
 
-Aplatis maintenant la base du corps pour rendre ton insecte plus réaliste. Un modèle à base plate est également plus facile à imprimer en 3D!
+Aplatis maintenant la base du corps pour rendre ton insecte plus réaliste. Un modèle à base plate est également plus facile à imprimer en 3D !
 
 Pour faire cela, tu peux simplement retirer un cuboïde de ton modèle à l'aide du bloc `soustraction`{:class="blockscadsetops"}.
 
@@ -26,7 +26,7 @@ Utilise un bloc `soustraction`{:class="blockscadsetops"} pour retirer le cuboïd
 
 ![capture d'écran](images/bug-difference.png)
 
-Maintenant, le corps de ton insecte a une base plate!
+Maintenant, le corps de ton insecte a une base plate !
 
 Fais tourner ton modèle dans la visionneuse pour le voir sous différents angles.
 

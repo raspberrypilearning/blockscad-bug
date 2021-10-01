@@ -4,7 +4,7 @@ Crée maintenant une tête pour l'insecte.
 
 --- task ---
 
-Ajoute une petite `sphère` comme tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
+Ajoute une petite `sphère` en tant que tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
 
 Ajoute également un bloc `échelle` à la nouvelle `sphère` pour former la tête.
 
@@ -22,7 +22,7 @@ Clique de nouveau avec le bouton droit sur le bloc et choisis **Activer le bloc*
 
 --- /task --- --- task ---
 
-`Fais une translation` de la tête le long de l'axe Y afin qu'elle dépasse du corps.
+Afin que la tête dépasse du corps, utilise `Translate` la tête le long de l'axe Y.
 
   ![capture d'écran](images/bug-head.png)
 
@@ -32,16 +32,15 @@ Si tu veux voir clairement les différentes formes, change la couleur de la têt
 
 ![capture d'écran](images/bug-head-black.png)
 
-Tu peux également expérimenter différentes combinaisons de couleurs pour décorer ton insecte imprimé avec des marqueurs indélébiles.
+Une fois ton insecte imprimé, tu peux le décorer avec des marqueurs indélébiles.
 
 --- /task --- --- task ---
 
-Peux-tu changer la couleur du corps de ton modèle d'insecte ? Tu peux le changer à la couleur du filament avec lequel tu souhaites imprimer ou à la couleur du marqueur indélébile avec lequel tu souhaites le colorer.
+Peux-tu changer la couleur du corps de ton modèle d'insecte ? Tu peux la changer en imprimant avec un filament d'une autre couleur ou en la coloriant avec un marqueur indélébile d'une autre couleur.
 
---- hints ---
- --- hint ---
+Astuce
 
-C'est le bloc que tu as besoin.
+C'est le bloc dont tu as besoin.
 
 ![capture d'écran](images/bug-colour-block.png)
 
@@ -49,7 +48,7 @@ C'est le bloc que tu as besoin.
 
 --- hint ---
 
-Voici un exemple avec un corps vert:
+Voici un exemple avec un corps vert :
 
 ![capture d'écran](images/bug-body-colour.png)
 

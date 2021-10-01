@@ -16,26 +16,24 @@ Tu peux imprimer en utilisant la couleur principale de ton insecte, ou tu peux u
 
 --- task ---
 
-Termine ton insecte en utilisant des stylos marqueurs indélébiles!
+Termine ton insecte en utilisant des stylos marqueurs indélébiles !
 
-Tu peux colorer la tête et les pattes en noir, ou ajouter des taches ou des rayures dans une autre couleur.
+Tu peux colorer la tête et les pattes en noir, ou ajouter des tâches ou des rayures dans une autre couleur.
 
-Voici quelques exemples:
+Voici quelques exemples :
 
 ![capture d'écran](images/bug-decorated.png)
 
 --- /task ---
 
-
 ***
 Ce projet a été traduit par des bénévoles:
 
 Jonathan Vannieuwkerke
-
 Michel Arnols
+Florence Juge-Boulogne
 
 Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
-
  
 
 
