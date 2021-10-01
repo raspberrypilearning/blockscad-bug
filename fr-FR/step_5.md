@@ -1,6 +1,6 @@
-## Créer des pattes
+## Ajouter des pattes
 
-Maintenant, l'insecte a besoin de six pattes!
+Maintenant, l'insecte a besoin de six pattes !
 
 --- task ---
 
@@ -26,30 +26,30 @@ Ensuite, réactive le corps pour continuer à travailler sur ton insecte.
 
 Ajoute maintenant une autre paire de pattes.
 
-Ajoute une autre `sphère` `à l'échelle` avec les mêmes paramètres. Ensuite, `faire pivoter` de `30` degrés le long de l'axe Z de sorte que les pattes dépassent en biais.
+Ajoute une autre `sphère` `l'échelle` avec les mêmes paramètres. Ensuite, `pivoter` de `30` degrés le long de l'axe Z de sorte que les pattes dépassent en biais.
 
 ![capture d'écran](images/bug-legs-2-annotated.png)
 
-Ton insecte a maintenant deux pattes du milieu et une patte avant et une patte arrière chacune!
+Ton insecte a maintenant deux pattes du milieu et une patte avant et une patte arrière !
 
 --- /task ---
 
 --- task ---
 
-Peux-tu ajouter une troisième paire de pattes pour que l'insecte ait trois ensembles complets de paires de pattes?
+Peux-tu ajouter une troisième paire de pattes pour que l'insecte ait trois ensembles complets de paires de pattes ?
 
-Ton insecte doit ressembler à ceci:
+Ton insecte doit ressembler à ceci :
 
 ![capture d'écran](images/bug-finished.png)
 
---- hints ---
- --- hint ---
+--- hints --- 
+--- hint ---
 
-Tu dois ajouter une troisième `sphère` `à l'échelle`.
+Tu dois ajouter une troisième `sphère` `échelle`.
 
-`Faire tourner`{:class="blockscadtransforms"} dans la sens opposé à la deuxième `sphère`. Il y a 360 degrés dans un cercle.
+`Rotationr`{:class="blockscadtransforms"} dans la sens opposé à la deuxième `sphère`. Il y a 360 degrés dans un cercle.
 
-Voici les blocs dont tu auras besoin:
+Voici les blocs dont tu auras besoin :
 
 ![capture d'écran](images/bug-legs-blocks.png)
 
@@ -57,7 +57,7 @@ Voici les blocs dont tu auras besoin:
 
 --- hint ---
 
-Voici le code que tu as besoin:
+Voici le code dont tu as besoin :
 
 ![capture d'écran](images/bug-legs-3-annotated.png)
 
