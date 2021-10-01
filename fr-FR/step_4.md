@@ -6,7 +6,7 @@ Crée maintenant une tête pour l'insecte.
 
 Ajoute une petite `sphère` en tant que tête d'insecte. Pour le moment, tu ne peux pas voir cette nouvelle sphère, car elle est cachée à l'intérieur du corps.
 
-Ajoute également un bloc `échelle` à la nouvelle `sphère` pour former la tête.
+Ajoute également un bloc `echelle` à la nouvelle `sphère` pour former la tête.
 
 Ajoute ensuite un bloc `union`{:class="blockscadsetops"} pour combiner la tête et le corps.
 
@@ -14,7 +14,7 @@ Ajoute ensuite un bloc `union`{:class="blockscadsetops"} pour combiner la tête 
 
 --- /task --- --- task ---
 
-Si tu souhaites voir la nouvelle `sphère`, désactive temporairement le corps en cliquant avec le bouton droit sur son bloc `échelle`{:class="blockscadtransforms"} et en choisissant **Désactivez le bloc**. Ensuite, ce bloc et ceux à l'intérieur sont grisés et le corps n'apparaît pas lorsque tu cliques sur **Rendu**.
+Si tu souhaites voir la nouvelle `sphère`, désactive temporairement le corps en cliquant avec le bouton droit sur son bloc `echelle`{:class="blockscadtransforms"} et en choisissant **Désactiver le bloc**. Ensuite, ce bloc et ceux à l'intérieur sont grisés et le corps n'apparaît pas lorsque tu cliques sur **Générer un rendu**.
 
 ![capture d'écran](images/bug-disable.png)
 
@@ -22,7 +22,7 @@ Clique de nouveau avec le bouton droit sur le bloc et choisis **Activer le bloc*
 
 --- /task --- --- task ---
 
-Afin que la tête dépasse du corps, utilise `Translate` la tête le long de l'axe Y.
+Afin que la tête dépasse du corps, utilise `translation` la tête le long de l'axe Y.
 
   ![capture d'écran](images/bug-head.png)
 
@@ -52,7 +52,9 @@ Voici un exemple avec un corps vert :
 
 ![capture d'écran](images/bug-body-colour.png)
 
---- /hint ------ /hints --- --- /task ---
+--- /hint ---
+--- /hints --- 
+--- /task ---
 
 
 

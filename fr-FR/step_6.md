@@ -1,4 +1,4 @@
-## Défi: Crée ton propre insecte
+## Défi : Crée ton propre insecte
 
 --- challenge ---
 
