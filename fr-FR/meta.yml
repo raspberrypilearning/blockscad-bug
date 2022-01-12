@@ -5,13 +5,15 @@ description: Concevoir un insecte imprimable en 3D avec BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Introduction
-  - title: Donne un corps à ton insecte
-  - title: Aplatir la base du corps
-  - title: Ajoute une tête à ton insecte
-  - title: Créer des pattes
-  - title: "Concevoir ton propre insecte"
-    challenge: true
-  - title: Imprime en 3D et décore ton design
+- title: Introduction
+  completion: engaged
+- title: Donne un corps à ton insecte
+- title: Aplatir la base du corps
+- title: Ajoute une tête à ton insecte
+- title: Créer des pattes
+- title: Concevoir ton propre insecte
+  challenge: true
+  completion: internal
+- title: Imprime en 3D et décore ton design

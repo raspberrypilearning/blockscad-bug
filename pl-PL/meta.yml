@@ -5,12 +5,14 @@ description: Zaprojektuj owada-żuczka do wydrukowania w 3D za pomocą BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Wprowadzenie
-  - title: Nadaj swojemu żuczkowi tułów
-  - title: Spłaszcz podstawę tułowia
-  - title: Dodaj głowę do swojego żuczka
-  - title: Stwórz nogi
-  - title: Zaprojektuj swojego własnego owada - żuczka
-  - title: Wydrukuj w 3D i udekoruj swój model
+- title: Wprowadzenie
+  completion: engaged
+- title: Nadaj swojemu żuczkowi tułów
+- title: Spłaszcz podstawę tułowia
+- title: Dodaj głowę do swojego żuczka
+- title: Stwórz nogi
+- title: Zaprojektuj swojego własnego owada - żuczka
+  completion: internal
+- title: Wydrukuj w 3D i udekoruj swój model

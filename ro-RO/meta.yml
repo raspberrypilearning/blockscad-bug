@@ -5,12 +5,14 @@ description: Proiectează o insectă 3D cu BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Introducere
-  - title: Dă-i insectei un corp
-  - title: Aplatizează baza corpului
-  - title: Adaugă un cap la insecta ta
-  - title: Creează-i picioarele
-  - title: "Provocare: proiectează-ți propria insectă"
-  - title: Imprimă 3D și personalizează-ți design-ul tău
+- title: Introducere
+  completion: engaged
+- title: Dă-i insectei un corp
+- title: Aplatizează baza corpului
+- title: Adaugă un cap la insecta ta
+- title: Creează-i picioarele
+- title: 'Provocare: proiectează-ți propria insectă'
+  completion: internal
+- title: Imprimă 3D și personalizează-ți design-ul tău

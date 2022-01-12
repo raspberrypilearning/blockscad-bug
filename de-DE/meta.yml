@@ -5,12 +5,14 @@ description: Entwerfe mit BlocksCAD ein 3D-druckbares Insekt
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Einleitung
-  - title: Gib deinem Käfer einen Körper
-  - title: Die Basis des Körpers abflachen
-  - title: Füge deinem Käfer einen Kopf hinzu
-  - title: Erstelle Beine
-  - title: Entwerfe deinen eigenen Käfer
-  - title: 3D drucke und dekoriere dein Design
+- title: Einleitung
+  completion: engaged
+- title: Gib deinem Käfer einen Körper
+- title: Die Basis des Körpers abflachen
+- title: Füge deinem Käfer einen Kopf hinzu
+- title: Erstelle Beine
+- title: Entwerfe deinen eigenen Käfer
+  completion: internal
+- title: 3D drucke und dekoriere dein Design

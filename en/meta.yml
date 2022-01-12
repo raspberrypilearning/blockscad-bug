@@ -1,16 +1,19 @@
+---
 title: 3D bug
 hero_image: images/banner.png
 description: Design a 3D-printable bug insect with BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Introduction
-  - title: Give your bug a body
-  - title: Flatten the base of the body
-  - title: Add a head to your bug
-  - title: Create legs
-  - title: "Challenge: Design your own bug"
-    challenge: true
-  - title: 3D print and decorate your design
+- title: Introduction
+  completion: engaged
+- title: Give your bug a body
+- title: Flatten the base of the body
+- title: Add a head to your bug
+- title: Create legs
+- title: 'Challenge: Design your own bug'
+  challenge: true
+  completion: internal
+- title: 3D print and decorate your design

@@ -5,12 +5,14 @@ description: Ontwerp een 3D-printbare kever met BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
-  - title: Inleiding
-  - title: Geef je kever een lichaam
-  - title: Maak de basis van het lichaam plat
-  - title: Voeg een hoofd toe aan je kever
-  - title: Maak poten
-  - title: Ontwerp je eigen kever
-  - title: 3D print en versier je ontwerp
+- title: Inleiding
+  completion: engaged
+- title: Geef je kever een lichaam
+- title: Maak de basis van het lichaam plat
+- title: Voeg een hoofd toe aan je kever
+- title: Maak poten
+- title: Ontwerp je eigen kever
+  completion: internal
+- title: 3D print en versier je ontwerp
