@@ -53,6 +53,6 @@ title: Дополнительная информация для педагого
 
 Если ты хочешь распечатать этот проект, то воспользуйся [версией для печати](https://projects.raspberrypi.org/ru-RU/projects/blockscad-bug/print){:target="_blank"}.
 
-Загрузите готовый код проекта по адресу [rpf.io/p/ru-RU/blockscad-bug-get](http://rpf.io/p/ru-RU/blockscad-bug-get).
+Загрузите готовый код проекта по адресу [rpf.io/p/ru-RU/blockscad-bug-get](https://rpf.io/p/ru-RU/blockscad-bug-get).
 
 --- /collapse ---
