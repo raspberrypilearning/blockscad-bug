@@ -9,11 +9,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: المقدمة
-  completion: engaged
 - title: أعط جسمٌ للحشرة
 - title: افرد قاعدة الجسم
+  completion:
+  - engaged
 - title: أضف رأسًا إلى الحشرة
 - title: اصنع الأرجل
+  completion:
+  - internal
 - title: صمم الحشرة
-  completion: internal
 - title: قم بالطباعة الثلاثية وزين التصميم الخاص بك

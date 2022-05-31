@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: 介紹
-  completion: engaged
 - title: 給你的昆蟲一個身體
 - title: 拉平身體的底部
+  completion:
+  - engaged
 - title: 為您的昆蟲添加一個頭
 - title: 創造它的腳
+  completion:
+  - internal
 - title: 設計屬於你自己的昆蟲
-  completion: internal
 - title: 3D列印和裝飾你的設計

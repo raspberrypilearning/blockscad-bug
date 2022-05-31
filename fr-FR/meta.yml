@@ -8,12 +8,14 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Donne un corps à ton insecte
 - title: Aplatir la base du corps
+  completion:
+  - engaged
 - title: Ajoute une tête à ton insecte
 - title: Créer des pattes
+  completion:
+  - internal
 - title: Concevoir ton propre insecte
   challenge: true
-  completion: internal
 - title: Imprime en 3D et décore ton design

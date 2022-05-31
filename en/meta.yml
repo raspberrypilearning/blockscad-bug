@@ -8,12 +8,14 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Give your bug a body
 - title: Flatten the base of the body
+  completion:
+  - engaged
 - title: Add a head to your bug
 - title: Create legs
+  completion:
+  - internal
 - title: 'Challenge: Design your own bug'
   challenge: true
-  completion: internal
 - title: 3D print and decorate your design

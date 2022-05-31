@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: はじめに
-  completion: engaged
 - title: 虫の体を作る
 - title: 体の底面 (ていめん) を平らにする
+  completion:
+  - engaged
 - title: 虫に頭をつける
 - title: 足を作る
+  completion:
+  - internal
 - title: 自分だけの虫を作る
-  completion: internal
 - title: 3D で印刷してから色づけをする

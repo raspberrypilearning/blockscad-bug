@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Geef je kever een lichaam
 - title: Maak de basis van het lichaam plat
+  completion:
+  - engaged
 - title: Voeg een hoofd toe aan je kever
 - title: Maak poten
+  completion:
+  - internal
 - title: Ontwerp je eigen kever
-  completion: internal
 - title: 3D print en versier je ontwerp

@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Введение
-  completion: engaged
 - title: Создай тело для своего жука
 - title: Сделаем основание тела более плоским
+  completion:
+  - engaged
 - title: Добавь голову к своему жуку
 - title: Создаем ноги
+  completion:
+  - internal
 - title: Cоздай своего собственного жука
-  completion: internal
 - title: Печатаем в 3D и украшаем внешний вид
