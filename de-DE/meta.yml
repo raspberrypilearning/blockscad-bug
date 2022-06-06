@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Gib deinem Käfer einen Körper
 - title: Die Basis des Körpers abflachen
+  completion:
+  - engaged
 - title: Füge deinem Käfer einen Kopf hinzu
 - title: Erstelle Beine
+  completion:
+  - internal
 - title: Entwerfe deinen eigenen Käfer
-  completion: internal
 - title: 3D drucke und dekoriere dein Design

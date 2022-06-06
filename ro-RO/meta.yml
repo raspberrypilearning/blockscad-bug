@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Introducere
-  completion: engaged
 - title: Dă-i insectei un corp
 - title: Aplatizează baza corpului
+  completion:
+  - engaged
 - title: Adaugă un cap la insecta ta
 - title: Creează-i picioarele
+  completion:
+  - internal
 - title: 'Provocare: proiectează-ți propria insectă'
-  completion: internal
 - title: Imprimă 3D și personalizează-ți design-ul tău

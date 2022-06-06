@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Вступ
-  completion: engaged
 - title: Створи тіло для свого жука
 - title: Зроби плоску основу тіла
+  completion:
+  - engaged
 - title: Додай голову до свого жука
 - title: Створи ніжки
+  completion:
+  - internal
 - title: Спроєктуй власного жука
-  completion: internal
 - title: Роздрукуй на 3D-принтері та прикрась свій витвір

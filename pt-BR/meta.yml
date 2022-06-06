@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Introdução
-  completion: engaged
 - title: Dê um corpo ao seu inseto
 - title: Achatar a base do corpo
+  completion:
+  - engaged
 - title: Adicione uma cabeça ao seu inseto
 - title: Criar patas
+  completion:
+  - internal
 - title: Crie seu próprio inseto
-  completion: internal
 - title: Imprima em 3D e decore seu design

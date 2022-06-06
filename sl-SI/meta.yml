@@ -8,11 +8,13 @@ copyedit: true
 last_tested: '2019-03-21'
 steps:
 - title: Uvod
-  completion: engaged
 - title: Hrošču daj telo
 - title: Splošči dno telesa
+  completion:
+  - engaged
 - title: Hrošču dodaj glavo
 - title: Ustvari noge
+  completion:
+  - internal
 - title: 'Izziv: oblikuj svojega lastnega hrošča'
-  completion: internal
 - title: 3D natisni hrošča 3D in naredi svoj dizajn
