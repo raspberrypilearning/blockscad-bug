@@ -8,13 +8,13 @@ Dodaj mniejszą `sferę` jako głowę robaka. W tej chwili nie możesz zobaczyć
 
 Dodaj również blok `skaluj` do nowej `sfery` aby ukształtować głowę.
 
-Następnie dodaj blok `połącz(ang. union)`{:class="blockscadsetops"}, aby połączyć głowę z tułowiem.
+Następnie dodaj blok `połącz (ang. union)`{:class="blockscadsetops"}, aby połączyć głowę z tułowiem.
 
 ![zrzut ekranu](images/bug-head-hidden.png)
 
 --- /task --- --- task ---
 
-Jeśli chcesz zobaczyć nową `sferę`, tymczasowo wyłącz tułów, klikając prawym przyciskiem myszy jego bloku `scale`{:class="blockscadtransforms"} i wybierając **Wyłącz blok(ang. Disable block)**. Następnie ten blok i pozostałe znajdujące się w nim są wyszarzone, a tułów nie pojawia się po kliknięciu **Render**.
+Jeśli chcesz zobaczyć nową `sferę`, tymczasowo wyłącz tułów, klikając prawym przyciskiem myszy jego bloku `scale`{:class="blockscadtransforms"} i wybierając **Wyłącz blok (ang. Disable block)**. Enable block)</strong> aby włączyć tułów.
 
 ![zrzut ekranu](images/bug-disable.png)
 
