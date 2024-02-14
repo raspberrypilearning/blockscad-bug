@@ -5,7 +5,7 @@ description: Dissenya una cuca 3D imprimible amb BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Introducció
@@ -13,12 +13,16 @@ steps:
     title: Dóna forma a la teva cuca
   - 
     title: Aplana la base del cos
+    completion:
+      - engaged
   - 
     title: Afegeix un cap a la teva cuca
   - 
     title: Crea les potes
+    completion:
+      - internal
   - 
-    title: "Dissenya la teva pròpia cuca"
+    title: 'Dissenya la teva pròpia cuca'
     challenge: true
   - 
     title: Imprimeix en 3D i decora el teu disseny
