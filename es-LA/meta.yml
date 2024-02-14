@@ -5,7 +5,7 @@ description: Diseña un insecto imprimible en 3D con BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Introducción
@@ -13,12 +13,16 @@ steps:
     title: Dale un cuerpo a tu insecto
   - 
     title: Aplana la base del cuerpo
+    completion:
+      - engaged
   - 
     title: Añade la cabeza a tu insecto
   - 
     title: Crea las patas
+    completion:
+      - internal
   - 
-    title: "Diseña tu propio insecto"
+    title: 'Diseña tu propio insecto'
     challenge: true
   - 
     title: Imprime en 3D y decora tu diseño
