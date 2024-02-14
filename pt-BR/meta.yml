@@ -5,7 +5,7 @@ description: Crie um inseto para impressão em 3D com o BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Introdução
@@ -13,12 +13,16 @@ steps:
     title: Dê um corpo ao seu bug
   - 
     title: Achatar a base do corpo
+    completion:
+      - engaged
   - 
     title: Adicione uma cabeça ao seu bug
   - 
     title: Criar pernas
+    completion:
+      - internal
   - 
-    title: "Crie seu próprio inseto"
+    title: 'Crie seu próprio inseto'
     challenge: true
   - 
     title: Imprima em 3D e decore seu design
