@@ -5,7 +5,7 @@ description: Σχεδίασε ένα τρισδιάστατο εκτυπώσιμ
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Εισαγωγή
@@ -13,12 +13,16 @@ steps:
     title: Δώσε σώμα στο έντομό σου
   - 
     title: Κάνε επίπεδη τη βάση του σώματος
+    completion:
+      - engaged
   - 
     title: Πρόσθεσε ένα κεφάλι στο έντομό σου
   - 
     title: Δημιούργησε πόδια
+    completion:
+      - internal
   - 
-    title: "Πρόκληση: σχεδίασε το δικό σου έντομο"
+    title: 'Πρόκληση: σχεδίασε το δικό σου έντομο'
     challenge: true
   - 
     title: Τρισδιάστατη εκτύπωση και διακόσμηση του σχεδίου σου
