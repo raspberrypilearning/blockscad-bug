@@ -5,7 +5,7 @@ description: Design et 3D-printbart buginsekt med BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Tillykke Med Fødselsdagen
@@ -13,12 +13,16 @@ steps:
     title: Giv din bug en krop
   - 
     title: Flad kroppen af kroppen
+    completion:
+      - engaged
   - 
     title: Føj et hoved til din fejl
   - 
     title: Opret ben
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: 3D-print og dekorér dit design
