@@ -5,7 +5,7 @@ description: 使用BlocksCAD设计3D打印的昆虫
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: 介绍
@@ -13,12 +13,16 @@ steps:
     title: 给你的虫子一个身体
   - 
     title: 展平身体
+    completion:
+      - engaged
   - 
     title: 为您的昆虫添加头
   - 
     title: 创建腿
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: 3D打印和装饰您的设计
