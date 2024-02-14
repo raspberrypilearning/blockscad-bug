@@ -5,7 +5,7 @@ description: قم بتصميم حشرة الدعسوقة قابلة للطباع
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: المقدمة
@@ -13,12 +13,16 @@ steps:
     title: أعط جسمٌ للحشرة
   - 
     title: تسوية قاعدة الجسم
+    completion:
+      - engaged
   - 
     title: أضف رأسًا للدعسوقة
   - 
     title: اصنع الأرجل
+    completion:
+      - internal
   - 
-    title: "صمم الحشرة"
+    title: 'صمم الحشرة'
     challenge: true
   - 
     title: قم بالطباعة الثلاثية وزين التصميم الخاص بك
