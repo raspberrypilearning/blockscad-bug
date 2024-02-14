@@ -5,7 +5,7 @@ description: Navrhněte hmyzí hmyz s možností tisku 3D pomocí BlocksCAD
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Úvod
@@ -13,12 +13,16 @@ steps:
     title: Dejte své chybě tělo
   - 
     title: Srovnejte spodní část těla
+    completion:
+      - engaged
   - 
     title: Přidejte ke své chybě hlavu
   - 
     title: Vytvořte nohy
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: 3D tisk a ozdobte svůj design
