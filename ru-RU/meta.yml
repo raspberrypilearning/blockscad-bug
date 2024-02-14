@@ -5,7 +5,7 @@ description: Создаем жука в BlocksCAD с возможностью е
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Введение
@@ -13,12 +13,16 @@ steps:
     title: Создай тело для своего жука
   - 
     title: Сделаем основание тела более плоским
+    completion:
+      - engaged
   - 
     title: Добавь голову к своему жуку
   - 
     title: Создаем ноги
+    completion:
+      - internal
   - 
-    title: "Cоздай своего собственного жука"
+    title: 'Cоздай своего собственного жука'
     challenge: true
   - 
     title: Печатаем в 3D и украшаем внешний вид
