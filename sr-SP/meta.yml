@@ -5,7 +5,7 @@ description: Дизајнирајте 3Д бугу инсекта са Блоц�
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Увод
@@ -13,12 +13,16 @@ steps:
     title: Дајте свом бубу тело
   - 
     title: Изравнајте базу тела
+    completion:
+      - engaged
   - 
     title: Додајте главу свом бугу
   - 
     title: Створите ноге
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: 3Д штампање и украшавање вашег дизајна
