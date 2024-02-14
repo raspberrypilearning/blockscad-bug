@@ -5,7 +5,7 @@ description: תכנן חרק באגים הניתן להדפסה בתלת מימ�
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: הקדמה
@@ -13,12 +13,16 @@ steps:
     title: תן לגוף שלך
   - 
     title: משטחים את בסיס הגוף
+    completion:
+      - engaged
   - 
     title: הוסף ראש לבאג שלך
   - 
     title: צור רגליים
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: הדפס תלת מימד וקשט את העיצוב שלך
