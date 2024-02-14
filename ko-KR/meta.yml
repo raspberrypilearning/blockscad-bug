@@ -5,7 +5,7 @@ description: BlocksCAD를 사용하여 3D 인쇄 가능한 버그 곤충 설계
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: 소개
@@ -13,12 +13,16 @@ steps:
     title: 버그의 몸통 만들기
   - 
     title: 몸통을 평평하게
+    completion:
+      - engaged
   - 
     title: 버그에 머리 추가하기
   - 
     title: 다리 만들기
+    completion:
+      - internal
   - 
-    title: "나만의 버그 디자인"
+    title: '나만의 버그 디자인'
     challenge: true
   - 
     title: 3D 인쇄 및 디자인 장식
