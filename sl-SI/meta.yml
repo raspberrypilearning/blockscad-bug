@@ -5,7 +5,7 @@ description: Z BlocksCAD oblikuj 3D žuželko, ki jo je mogoče natisniti s 3D t
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Uvod
@@ -13,12 +13,16 @@ steps:
     title: Hrošču daj telo
   - 
     title: Splošči dno telesa
+    completion:
+      - engaged
   - 
     title: Hrošču dodaj glavo
   - 
     title: Ustvari noge
+    completion:
+      - internal
   - 
-    title: "Izziv: oblikuj svojega lastnega hrošča"
+    title: 'Izziv: oblikuj svojega lastnega hrošča'
     challenge: true
   - 
     title: 3D natisni hrošča in in ga dekoriraj
