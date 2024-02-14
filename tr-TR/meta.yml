@@ -5,7 +5,7 @@ description: BlocksCAD ile 3D yazdırılabilir böcekler tasarlayın
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: Giriş
@@ -13,12 +13,16 @@ steps:
     title: Böceğinize bir beden verin
   - 
     title: Vücudun tabanını düzleştirin
+    completion:
+      - engaged
   - 
     title: Böceğinize bir kafa ekleyin
   - 
     title: Bacak oluşturun
+    completion:
+      - internal
   - 
-    title: "Challenge: Design your own bug"
+    title: 'Challenge: Design your own bug'
     challenge: true
   - 
     title: 3D baskı ve tasarımınızı süsleyin
