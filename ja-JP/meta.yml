@@ -5,7 +5,7 @@ description: BlocksCAD で 3D プリントできるバグ (虫) を設計 (せ�
 version: 1
 listed: true
 copyedit: true
-last_tested: "2019-03-21"
+last_tested: '2019-03-21'
 steps:
   - 
     title: はじめに
@@ -13,12 +13,16 @@ steps:
     title: 虫の体を作る
   - 
     title: 体の底面 (ていめん) を平らにする
+    completion:
+      - engaged
   - 
     title: 虫に頭をつける
   - 
     title: 足を作る
+    completion:
+      - internal
   - 
-    title: "自分だけの虫を作る"
+    title: '自分だけの虫を作る'
     challenge: true
   - 
     title: 3D で印刷してから色づけをする
