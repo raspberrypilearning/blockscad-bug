@@ -22,11 +22,11 @@ Wskazówka: możesz zmienić kolor renderowanego modelu, klikając kolorowy kwad
 
 Teraz rozciągnij sferę wzdłuż jej osi Y, aby utworzyć wydłużony tułów owada.
 
-Blok `skaluj (ang. Ustaw wartość Y na <code>1.2` aby rozciągnąć kulę wzdłuż osi Y.
+Blok `skaluj`{:class="blockscadtransforms"} (ang. scale) umożliwia rozciąganie lub ściskanie obiektów wzdłuż osi X, Y i Z. Ustaw wartość Y na `1.2` aby rozciągnąć kulę wzdłuż osi Y.
 
 ![zrzut ekranu](images/bug-body-y.png)
 
-Kliknij ponownie **Renderuj (ang. Render)** i sprawdź, czy sfera została rozciągnięta do elipsoidy. Spójrz na swój model pod różnymi kątami, aby zobaczyć, jak się zmienił.
+Kliknij ponownie **Renderuj** (ang. Render) i sprawdź, czy sfera została rozciągnięta do elipsoidy. Spójrz na swój model pod różnymi kątami, aby zobaczyć, jak się zmienił.
 
 --- /task ---
 
