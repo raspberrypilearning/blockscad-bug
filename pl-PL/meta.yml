@@ -22,7 +22,7 @@ steps:
     completion:
       - internal
   - 
-    title: 'Zaprojektuj swojego własnego owada - żuczka'
+    title: 'Wyzwanie: zaprojektuj swojego własnego owada - żuczka'
     challenge: true
   - 
     title: Wydrukuj w 3D i udekoruj swój model
