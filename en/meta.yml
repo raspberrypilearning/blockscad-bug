@@ -19,3 +19,5 @@ steps:
 - title: 'Challenge: Design your own bug'
   challenge: true
 - title: 3D print and decorate your design
+  completion:
+  - external
