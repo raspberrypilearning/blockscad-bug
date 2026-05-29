@@ -45,23 +45,11 @@ Your bug needs to look like this:
 --- hints ---
 --- hint ---
 
-You need to add a third `scaled` `sphere`.
-
-`Rotate`{:class="blockscadtransforms"} it in the opposite direction to the second `sphere`. There are 360 degrees in a circle.
-
-Here are the blocks you need:
-
-![screenshot](images/bug-legs-blocks.png)
-
---- /hint ---
-
---- hint ---
-
 Here's the code you need:
 
 ![screenshot](images/bug-legs-3-annotated.png)
 
 --- /hint ---
-
 --- /hints ---
+
 --- /task ---
