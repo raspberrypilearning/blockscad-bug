@@ -45,20 +45,13 @@ Can you change the colour of the body of your bug model? You could change it to 
 --- hints ---
 --- hint ---
 
-This is the block you need.
-
-![screenshot](images/bug-colour-block.png)
-
---- /hint ---
-
---- hint ---
-
 Here's an example with a green body:
 
 ![screenshot](images/bug-body-colour.png)
 
 --- /hint ---
 --- /hints ---
+
 --- /task ---
 
 
